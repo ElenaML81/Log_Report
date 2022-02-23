@@ -1,0 +1,2921 @@
+ip_address,counts,continent,country,city,latitude,longitude
+66.249.76.216,46382,North America,United States,Mountain View,37.419200000000004,-122.0574
+80.28.221.123,14725,Europe,Spain,Torrejón de Ardoz,40.4554,-3.4697
+217.125.71.222,5201,Europe,Spain,Seville,37.3824,-5.9761
+66.249.75.148,3558,North America,United States,Mountain View,37.419200000000004,-122.0574
+162.243.192.191,2927,North America,United States,New York,40.7308,-73.9975
+62.117.197.230,2567,Europe,Spain,Valencia,39.4698,-0.3774
+89.128.176.162,1093,Europe,Spain,Marbella,36.5154,-4.8858
+198.143.133.154,1045,North America,United States,Chicago,41.8776,-87.6272
+176.31.255.177,1044,Europe,France,,48.8582,2.3387000000000002
+80.58.250.94,1043,Europe,Spain,Cadiz,36.5298,-6.2947
+81.39.110.171,1030,Europe,Spain,Zaragoza,41.7247,-0.9515
+80.35.176.249,945,Europe,Spain,Barcelona,41.3888,2.159
+195.57.124.71,897,Europe,Spain,Torre del Mar,36.742,-4.0929
+217.12.16.130,897,Europe,Spain,Seville,37.3824,-5.9761
+84.122.139.8,839,Europe,Spain,Huelva,37.2714,-6.9495000000000005
+74.86.158.106,836,North America,United States,Dallas,32.7787,-96.8217
+74.86.158.107,810,North America,United States,Dallas,32.7787,-96.8217
+66.249.93.141,782,Europe,,,47.0,8.0
+80.37.230.56,746,Europe,Spain,Barcelona,41.3888,2.159
+85.48.148.136,709,Europe,Spain,Manzanares,38.9991,-3.3699
+188.84.96.240,696,Europe,Spain,Narón,43.5167,-8.1528
+66.249.64.98,683,North America,United States,Mountain View,37.419200000000004,-122.0574
+66.249.64.13,661,North America,United States,Mountain View,37.419200000000004,-122.0574
+92.56.114.50,646,Europe,Spain,Molina de Segura,38.0546,-1.2076
+80.39.210.69,633,Europe,Spain,Valencina de la Concepcion,37.4162,-6.0742
+66.249.64.103,629,North America,United States,Mountain View,37.419200000000004,-122.0574
+79.145.213.52,600,Europe,Spain,Fuenlabrada,40.2842,-3.7941000000000003
+81.35.188.72,555,Europe,Spain,Tielmes,40.2465,-3.3146
+144.76.95.232,552,Europe,Germany,,51.2993,9.491
+37.14.223.169,533,Europe,Spain,Castelló de la Plana,40.2108,0.0272
+185.27.136.38,531,Europe,Spain,Écija,37.5422,-5.0826
+88.14.201.73,521,Europe,Spain,Ibiza Town,38.9807,1.3035999999999999
+84.232.105.70,511,Europe,Spain,Abaran,38.2055,-1.3991
+95.39.143.223,493,Europe,Spain,Palma,39.5694,2.6502
+5.10.83.78,490,Europe,Netherlands,Amsterdam,52.3556,4.9135
+5.10.83.43,489,Europe,Netherlands,Amsterdam,52.3556,4.9135
+95.22.208.3,487,Europe,Spain,Gáldar,28.1425,-15.6542
+89.29.152.238,484,Europe,Spain,Almansa,38.8692,-1.0971
+5.10.83.91,474,Europe,Netherlands,Amsterdam,52.3556,4.9135
+5.10.83.40,460,Europe,Netherlands,Amsterdam,52.3556,4.9135
+5.10.83.44,456,Europe,Netherlands,Amsterdam,52.3556,4.9135
+5.10.83.68,452,Europe,Netherlands,Amsterdam,52.3556,4.9135
+5.10.83.86,450,Europe,Netherlands,Amsterdam,52.3556,4.9135
+5.10.83.74,447,Europe,Netherlands,Amsterdam,52.3556,4.9135
+5.10.83.95,440,Europe,Netherlands,Amsterdam,52.3556,4.9135
+85.62.233.162,433,Europe,Spain,Barcelona,41.3984,2.1741
+5.10.83.11,426,Europe,Netherlands,Amsterdam,52.3556,4.9135
+95.232.139.88,424,Europe,Italy,Motta Visconti,45.2877,8.9925
+82.130.160.93,417,Europe,Spain,Briviesca,42.5499,-3.3232
+5.10.83.41,416,Europe,Netherlands,Amsterdam,52.3556,4.9135
+83.60.40.202,416,Europe,Spain,Madrid,40.4165,-3.7026
+188.87.40.180,413,Europe,Spain,Barcelona,41.3984,2.1741
+2.197.29.235,407,Europe,Italy,,43.1479,12.1097
+95.61.184.101,404,Europe,Spain,Seville,37.3824,-5.9761
+66.249.85.216,402,North America,United States,Mountain View,37.419200000000004,-122.0574
+88.23.18.254,386,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+174.129.237.157,384,North America,United States,Ashburn,39.0481,-77.4728
+193.145.201.52,380,Europe,Spain,Cheste,39.4833,-0.6833
+83.60.86.201,379,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+79.108.219.65,362,Europe,Spain,Castelló de la Plana,40.2108,0.0272
+95.16.149.164,358,Europe,Spain,Bolanos de Calatrava,38.9069,-3.6635
+88.31.131.220,354,Europe,Spain,Jijona,38.55,-0.4512
+95.18.84.69,350,Europe,Spain,Santander,43.4647,-3.8044000000000002
+79.150.228.92,349,Europe,Spain,Pozuelo de Alarcón,40.4329,-3.8134
+37.14.215.143,349,Europe,Spain,Valencia,39.4698,-0.3774
+77.209.92.87,344,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+77.228.79.234,337,Europe,Spain,Santa Cruz de Tenerife,28.4682,-16.2546
+62.175.139.150,336,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+46.24.158.105,336,Europe,Spain,Nalda,42.3347,-2.4871
+208.43.225.84,335,North America,United States,Chantilly,38.9036,-77.4512
+195.77.16.215,335,Europe,Spain,Valencia,39.4698,-0.3774
+95.22.249.231,325,Europe,Spain,Chipiona,36.7366,-6.437
+79.157.119.174,323,Europe,Spain,,40.4172,-3.684
+87.223.94.173,323,Europe,Spain,Palencia,42.0096,-4.5241
+88.18.171.82,321,Europe,Spain,Madrid,40.4165,-3.7026
+85.62.233.161,317,Europe,Spain,Barcelona,41.3984,2.1741
+208.43.225.85,313,North America,United States,Chantilly,38.9036,-77.4512
+83.43.71.59,310,Europe,Spain,Alcalá de Henares,40.482,-3.36
+85.55.167.1,309,Europe,Spain,Seville,37.3824,-5.9761
+193.111.141.52,301,Europe,Germany,Dusseldorf,51.2686,6.8100000000000005
+188.119.219.26,289,Europe,Spain,Barcelona,41.3984,2.1741
+95.61.125.48,286,Europe,Spain,Santa Coloma de Cervelló,41.3674,2.0143
+88.8.151.175,280,Europe,Spain,Vigo,42.2328,-8.7226
+87.221.48.48,278,Europe,Spain,Zaragoza,41.6561,-0.8773
+81.32.32.232,276,Europe,Spain,Barcelona,41.3984,2.1741
+89.130.90.61,276,Europe,Spain,Barcelona,41.3984,2.1741
+84.79.144.4,274,Europe,Spain,Irun,43.339,-1.7894
+88.3.112.110,274,Europe,Spain,Getafe,40.3057,-3.7329
+83.61.159.209,274,Europe,Spain,Fuente el Saz,40.6322,-3.5115
+62.57.103.170,273,Europe,Spain,L'Hospitalet de Llobregat,41.3609,2.11
+213.143.51.143,273,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+31.221.235.12,272,Europe,Spain,,40.4172,-3.684
+62.174.54.137,271,Europe,Spain,Mostoles,40.3223,-3.865
+80.31.55.141,267,Europe,Spain,Trujillo,39.4579,-5.882
+195.53.184.207,267,Europe,Spain,,40.4172,-3.684
+95.63.234.126,265,Europe,Spain,Benidorm,38.5382,-0.131
+84.120.65.48,259,Europe,Spain,San Vicent del Raspeig,38.3964,-0.5255
+95.17.28.25,257,Europe,Spain,Barcelona,41.3984,2.1741
+178.63.13.15,256,Europe,Germany,,51.2993,9.491
+31.4.188.61,252,Europe,Spain,Barcelona,41.3984,2.1741
+84.125.143.42,251,Europe,Spain,Cadiz,36.5298,-6.2947
+81.172.12.71,250,Europe,Spain,Valladolid,41.6552,-4.7237
+213.4.194.218,249,Europe,Spain,,40.4172,-3.684
+5.255.253.53,249,Europe,Russia,,55.7386,37.6068
+188.77.74.132,248,Europe,Spain,Guardamar del Segura,38.0903,-0.6556
+83.44.201.141,247,Europe,Spain,Valencia,39.4698,-0.3774
+95.23.142.9,244,Europe,Spain,Buñol,39.4167,-0.7833
+194.179.72.81,244,Europe,Spain,Mostoles,40.3223,-3.865
+83.33.72.156,243,Europe,Spain,Lorca,37.6712,-1.7017
+217.71.18.36,243,Europe,Spain,Salamanca,40.9688,-5.6639
+84.122.81.236,242,Europe,Spain,San Fernando,36.4759,-6.1982
+83.36.151.101,240,Europe,Spain,Eibar,43.1849,-2.4716
+217.125.108.49,240,Europe,Spain,Barcelona,41.6167,2.2333
+188.244.80.136,240,Europe,Spain,Zaragoza,41.6561,-0.8773
+84.125.222.120,238,Europe,Spain,Algeciras,36.1333,-5.4505
+83.37.20.48,237,Europe,Spain,Cadiz,36.5158,-6.2797
+212.89.8.125,237,Europe,Spain,Gijón,43.5357,-5.6615
+88.29.244.146,236,Europe,Spain,,40.4172,-3.684
+88.11.88.249,236,Europe,Spain,Zaragoza,41.6561,-0.8773
+148.251.8.37,235,Europe,Germany,,51.2993,9.491
+80.59.2.216,231,Europe,Spain,Alhaurin el Grande,36.643,-4.6873000000000005
+62.117.179.122,230,Europe,Spain,San Fernando,36.4759,-6.1982
+84.120.107.168,230,Europe,Spain,Ontinyent,38.8167,-0.6167
+84.123.122.159,229,Europe,Spain,Palma,39.5694,2.6502
+81.45.52.213,228,Europe,Spain,Mislata,39.4752,-0.4183
+85.57.22.76,228,Europe,Spain,Alhaurin el Grande,36.643,-4.6873000000000005
+83.37.239.190,226,Europe,Spain,Seville,37.3824,-5.9761
+188.85.190.74,225,Europe,Spain,Alhaurin de la Torre,36.664,-4.5614
+84.76.76.26,223,Europe,Spain,Gandia,38.9667,-0.1833
+46.253.41.150,223,Europe,Spain,Sitges,41.2351,1.8119
+80.31.201.139,222,Europe,Spain,Tolosa,43.1348,-2.078
+80.102.216.130,220,Europe,Spain,León,42.6,-5.5703
+77.225.180.158,219,Europe,Spain,Las Rozas de Madrid,40.4929,-3.8737
+46.25.98.198,218,Europe,Spain,Telde,27.9924,-15.4192
+90.174.1.160,218,Europe,Spain,Madrid,40.4165,-3.7026
+90.174.2.66,218,Europe,Spain,Madrid,40.4165,-3.7026
+37.15.199.206,215,Europe,Spain,Ibiza Town,38.9088,1.433
+81.47.137.12,215,Europe,Spain,Valencia,39.4698,-0.3774
+62.87.30.66,213,Europe,Spain,,40.4172,-3.684
+81.45.182.71,212,Europe,Spain,Xinzo de Limia,42.0635,-7.7246
+87.219.137.100,212,Europe,Spain,Moguer,37.2756,-6.8385
+85.155.203.80,211,Europe,Spain,Las Palmas de Gran Canaria,28.0944,-15.4591
+157.56.229.88,210,North America,United States,Redmond,47.6801,-122.1206
+213.143.50.159,209,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+62.151.100.130,209,Europe,Spain,Granada,37.1882,-3.6067
+81.45.52.104,208,Europe,Spain,Mislata,39.4752,-0.4183
+79.159.119.225,207,Europe,Spain,Logroño,42.4667,-2.45
+83.34.1.101,206,Europe,Spain,Puente de Genave,38.3554,-2.8032
+88.5.227.131,205,Europe,Spain,Ramales de la Victoria,43.2572,-3.4652
+87.221.63.152,205,Europe,Spain,Granada,37.1882,-3.6067
+84.79.190.7,205,Europe,Spain,Azuqueca de Henares,40.5669,-3.2599
+81.32.9.109,203,Europe,Spain,Lekeitio,43.3642,-2.5049
+83.49.236.10,203,Europe,Spain,Espartinas,37.3815,-6.1258
+83.41.253.248,203,Europe,Spain,Elche,38.265,-0.7061
+62.83.34.31,201,Europe,Spain,Parla,40.236,-3.7675
+88.9.113.68,200,Europe,Spain,Barcelona,41.3984,2.1741
+5.255.253.81,199,Europe,Russia,,55.7386,37.6068
+90.163.227.49,195,Europe,Spain,Torroella de Montgri,42.0411,3.1268
+83.45.25.198,195,Europe,Spain,Fuengirola,36.54,-4.6247
+72.14.199.208,195,North America,United States,Southport,33.997,-78.0729
+83.213.232.246,195,Europe,Spain,Arizgoiti,43.2369,-2.8811
+207.45.249.157,194,Europe,France,Paris,48.8628,2.3292
+107.178.37.48,194,North America,United States,,37.751,-97.822
+80.58.250.92,193,Europe,Spain,Cadiz,36.5298,-6.2947
+89.140.53.234,193,Europe,Spain,Seville,37.655,-5.7137
+176.80.71.133,193,Europe,Spain,Cordova,37.8916,-4.7727
+62.174.80.74,192,Europe,Spain,Pamplona,42.8141,-1.6412
+84.126.15.127,192,Europe,Spain,Valencia,39.4698,-0.3774
+81.37.11.62,192,Europe,Spain,Majadahonda,40.4735,-3.8718
+217.216.36.142,191,Europe,Spain,Jerez de la Frontera,36.6865,-6.1361
+95.16.161.43,190,Europe,Spain,Madrid,40.4165,-3.7026
+88.11.220.102,190,Europe,Spain,Barcelona,41.3984,2.1741
+80.39.240.226,189,Europe,Spain,Madrid,40.4165,-3.7026
+207.182.143.114,188,North America,United States,Columbus,40.0842,-82.9378
+79.168.72.6,188,Europe,Portugal,Linda a Velha,38.7145,-9.2422
+217.12.28.130,188,Europe,Spain,Seville,37.3824,-5.9761
+31.4.217.195,186,Europe,Spain,Seville,37.3824,-5.9761
+95.60.141.205,186,Europe,Spain,Seville,37.3824,-5.9761
+88.12.69.210,186,Europe,Spain,Huarte-Uharte,42.8212,-1.5819
+79.144.136.254,186,Europe,Spain,Santona,43.4439,-3.4576000000000002
+88.23.226.90,185,Europe,Spain,León,42.6,-5.5703
+83.59.136.82,185,Europe,Spain,Santa Cruz de Tenerife,28.4682,-16.2546
+84.123.36.139,184,Europe,Spain,Benimamet,39.5,-0.4167
+92.56.215.79,184,Europe,Spain,Málaga,36.7267,-4.4348
+46.222.232.224,184,Europe,Spain,,40.4172,-3.684
+81.203.193.174,184,Europe,Spain,Vallada,38.8957,-0.691
+83.173.150.197,183,Europe,Spain,Atarrabia,42.832300000000004,-1.6074000000000002
+187.153.135.28,182,North America,Mexico,Playa del Carmen,20.6274,-87.0799
+79.152.34.203,182,Europe,Spain,Algeciras,36.1333,-5.4505
+88.6.202.244,182,Europe,Spain,San Adrian,42.3343,-1.9351
+81.45.53.95,181,Europe,Spain,Mislata,39.4752,-0.4183
+85.51.154.209,180,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+87.219.98.84,180,Europe,Spain,Chipiona,36.7366,-6.437
+66.249.83.148,179,North America,United States,Mountain View,37.419200000000004,-122.0574
+37.14.176.250,179,Europe,Spain,Badalona,41.45,2.2474
+87.218.127.253,178,Europe,Spain,Sesena Nuevo,40.1061,-3.6492
+79.157.249.69,177,Europe,Spain,Pamplona,42.8169,-1.6432
+77.27.141.43,177,Europe,Spain,A Coruña,43.3666,-8.4068
+81.184.26.137,177,Europe,Spain,Barcelona,41.3888,2.159
+107.178.38.221,176,North America,United States,,37.751,-97.822
+95.63.2.45,176,Europe,Spain,Los Realejos,28.3674,-16.5833
+157.56.92.174,176,North America,United States,Redmond,47.6801,-122.1206
+85.48.101.193,175,Europe,Spain,Segovia,40.9481,-4.1184
+85.84.176.196,174,Europe,Spain,Vitoria-Gasteiz,42.85,-2.6667
+188.76.115.200,174,Europe,Spain,,40.4172,-3.684
+31.4.236.23,174,Europe,Spain,Valencia,39.4667,-0.3667
+62.175.136.122,173,Europe,Spain,Seville,37.3824,-5.9761
+77.229.122.97,173,Europe,Spain,Oteruelo de la Valdoncina,42.5802,-5.6042
+185.16.209.176,172,Europe,Spain,Órgiva,36.9026,-3.4238
+87.223.105.21,171,Europe,Spain,,40.4172,-3.684
+83.55.22.4,171,Europe,Spain,Las Rozas de Madrid,40.4929,-3.8737
+109.111.118.37,170,Europe,Andorra,Aixirivall,42.4667,1.5
+85.53.219.154,170,Europe,Spain,Torrelaguna,40.8276,-3.5368
+62.82.118.54,170,Europe,Spain,Molina de Segura,38.0546,-1.2076
+81.35.209.82,170,Europe,Spain,Madrid,40.4165,-3.7026
+88.11.41.24,169,Europe,Spain,Yuncler,40.0408,-3.8998
+157.56.93.96,169,North America,United States,Redmond,47.6801,-122.1206
+181.164.57.183,168,South America,Argentina,Lomas de Zamora,-34.7667,-58.4
+213.60.23.219,168,Europe,Spain,A Coruña,43.3666,-8.4068
+80.31.54.60,168,Europe,Spain,Trujillo,39.4579,-5.882
+188.85.194.73,167,Europe,Spain,Benalmádena,36.6016,-4.5396
+188.85.24.226,166,Europe,Spain,Pinto,40.2415,-3.7
+88.24.43.102,166,Europe,Spain,Barcelona,41.3984,2.1741
+193.152.211.24,165,Europe,Spain,Madrid,40.4165,-3.7026
+95.18.202.45,165,Europe,Spain,Marbella,36.5154,-4.8858
+90.163.174.65,165,Europe,Spain,Barcelona,41.3888,2.159
+217.125.21.135,165,Europe,Spain,Madrid,40.4165,-3.7026
+157.55.33.81,164,North America,United States,Redmond,47.6801,-122.1206
+157.55.33.97,164,North America,United States,Redmond,47.6801,-122.1206
+89.129.120.82,163,Europe,Spain,Madrid,40.4165,-3.7026
+79.108.184.134,162,Europe,Spain,Valencia,39.4667,-0.3667
+188.76.183.126,162,Europe,Spain,Alcobendas,40.5475,-3.642
+81.45.53.102,162,Europe,Spain,Mislata,39.4752,-0.4183
+90.174.1.32,162,Europe,Spain,Madrid,40.4165,-3.7026
+195.53.71.8,162,Europe,Spain,,40.4172,-3.684
+83.45.161.172,161,Europe,Spain,Madrid,40.4165,-3.7026
+194.224.227.74,161,Europe,Spain,Tijola,37.3461,-2.4333
+95.60.80.47,161,Europe,Spain,,40.4172,-3.684
+62.81.164.42,161,Europe,Spain,Barcelona,41.3984,2.1741
+195.235.248.96,160,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+88.7.27.255,158,Europe,Spain,Villafranca de los Caballeros,39.4282,-3.3608000000000002
+95.16.63.205,158,Europe,Spain,Huetor Vega,37.1462,-3.5701
+87.235.198.181,158,Europe,Spain,Penelles,41.75,0.9667
+2.136.76.13,156,Europe,Spain,Barcelona,41.3888,2.159
+85.136.51.22,155,Europe,Spain,Granada,37.1784,-3.5991999999999997
+88.16.116.174,155,Europe,Spain,Nájera,42.4182,-2.7287
+212.170.111.11,155,Europe,Spain,Alicante,38.3462,-0.4877
+157.55.32.88,155,North America,United States,Redmond,47.6801,-122.1206
+87.217.56.160,154,Europe,Spain,Jerez de la Frontera,36.6865,-6.1361
+81.9.187.125,154,Europe,Spain,Oviedo,43.3603,-5.8448
+95.63.60.249,154,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+84.122.176.188,153,Europe,Spain,Algeciras,36.1333,-5.4505
+80.29.19.229,153,Europe,Spain,Jaén,37.7692,-3.7903000000000002
+84.122.134.198,153,Europe,Spain,Cadiz,36.5298,-6.2947
+95.22.161.100,152,Europe,Spain,Yeles,40.1204,-3.8049
+77.228.170.201,152,Europe,Spain,Totana,37.7688,-1.5023
+85.57.28.163,152,Europe,Spain,Cambrils,41.0748,1.0524
+95.18.254.49,152,Europe,Spain,Maspalomas,27.7596,-15.5969
+79.158.161.64,152,Europe,Spain,Santa Cruz de Tenerife,28.4682,-16.2546
+89.131.143.211,152,Europe,Spain,Rota,36.6224,-6.3586
+188.86.128.73,152,Europe,Spain,Cordova,37.8916,-4.7727
+92.57.179.84,152,Europe,Spain,San Martin de la Vega,40.2074,-3.5705999999999998
+95.19.46.169,151,Europe,Spain,Barcelona,41.3888,2.159
+213.143.51.136,151,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+157.55.34.107,151,North America,United States,Redmond,47.6801,-122.1206
+83.56.21.233,151,Europe,Spain,Barcelona,41.3888,2.159
+95.60.0.193,149,Europe,Spain,Mairena del Aljarafe,37.3446,-6.0639
+89.7.203.35,149,Europe,Spain,Mollet del Vallès,41.5403,2.2131
+157.55.32.185,149,North America,United States,Redmond,47.6801,-122.1206
+83.49.12.226,149,Europe,Spain,San Isidro,28.0762,-16.558
+88.23.17.66,149,Europe,Spain,Madrid,40.4165,-3.7026
+186.55.56.120,149,South America,Uruguay,Montevideo,-34.8581,-56.1708
+65.55.213.69,148,North America,United States,Boydton,36.6648,-78.3715
+87.217.147.158,148,Europe,Spain,Marbella,36.5154,-4.8858
+83.59.16.179,148,Europe,Spain,Seville,37.3824,-5.9761
+79.151.23.49,148,Europe,Spain,Santa Cruz de Tenerife,28.4682,-16.2546
+78.136.110.162,148,Europe,Spain,Murcia,37.987,-1.13
+84.123.168.153,148,Europe,Spain,Linares,38.0952,-3.636
+62.83.195.177,147,Europe,Spain,Lleida,41.6167,0.6222
+77.224.177.15,147,Europe,Spain,l'Hospitalet de l'Infant,40.9918,0.923
+198.144.116.21,147,North America,United States,Torrance,33.8403,-118.3539
+77.229.130.98,147,Europe,Spain,Las Palmas de Gran Canaria,28.0997,-15.4134
+84.77.142.252,146,Europe,Spain,Castellbisbal,41.4748,1.9799
+194.179.126.131,146,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+88.8.238.79,146,Europe,Spain,Sitges,41.2351,1.8119
+195.77.128.141,145,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+31.4.180.111,145,Europe,Spain,Madrid,40.4165,-3.7026
+79.157.88.156,145,Europe,Spain,San Sebastián de los Reyes,40.5443,-3.6159
+88.25.132.107,144,Europe,Spain,Bilbao,43.2609,-2.9388
+46.26.144.183,144,Europe,Spain,Málaga,36.7267,-4.4348
+85.87.134.107,143,Europe,Spain,Eibar,43.1849,-2.4716
+84.121.113.165,143,Europe,Spain,Albacete,38.9942,-1.8564
+83.59.47.154,143,Europe,Spain,La Pobla de Lillet,42.2449,1.9741
+31.4.183.187,143,Europe,Spain,Madrid,40.4165,-3.7026
+212.145.88.105,143,Europe,Spain,Alicante,38.3462,-0.4877
+212.170.226.194,143,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+195.235.248.95,143,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+80.30.43.160,143,Europe,Spain,Madrid,40.4165,-3.7026
+190.14.188.226,142,South America,Argentina,Comodoro Rivadavia,-45.8641,-67.4966
+212.231.208.21,142,Europe,Spain,Toledo,39.8673,-4.0298
+212.142.248.135,142,Europe,Spain,Bilbao,43.2627,-2.9253
+46.25.24.140,142,Europe,Spain,Torrelodones,40.5765,-3.9266
+83.40.164.172,142,Europe,Spain,Girona,41.9831,2.8249
+90.175.73.135,141,Europe,Spain,Andujar,38.0392,-4.0508
+80.39.169.253,141,Europe,Spain,Lleida,41.6167,0.6222
+87.218.156.183,141,Europe,Spain,Cordova,37.8916,-4.7727
+79.156.107.90,141,Europe,Spain,Balsareny,41.8631,1.8736000000000002
+37.11.238.197,141,Europe,Spain,Granada,37.1882,-3.6067
+79.108.24.25,140,Europe,Spain,Cadiz,36.5298,-6.2947
+88.5.41.112,140,Europe,Spain,Málaga,36.7202,-4.4203
+77.226.179.17,140,Europe,Spain,,40.4172,-3.684
+90.164.71.169,139,Europe,Spain,Barcelona,41.3888,2.159
+82.159.51.247,139,Europe,Spain,Mostoles,40.3223,-3.865
+213.143.61.109,139,Europe,Spain,Seville,37.3824,-5.9761
+77.228.1.14,139,Europe,Spain,Aranjuez,40.0311,-3.6025
+85.84.211.1,139,Europe,Spain,Zarautz,43.2844,-2.1699
+84.125.196.127,139,Europe,Spain,Algeciras,36.1333,-5.4505
+85.155.171.1,139,Europe,Spain,Arrecife,28.9657,-13.5514
+85.85.26.103,138,Europe,Spain,Arizgoiti,43.2369,-2.8811
+80.30.133.95,138,Europe,Spain,Marbella,36.5154,-4.8858
+212.8.64.74,138,Europe,Spain,Zarautz,43.2844,-2.1699
+81.38.227.45,138,Europe,Spain,Madrid,40.4165,-3.7026
+188.87.251.64,137,Europe,Spain,Ferrol,43.4832,-8.2369
+83.53.176.205,137,Europe,Spain,Rianxo,42.6498,-8.8176
+217.125.120.209,136,Europe,Spain,Almassora,39.95,-0.05
+92.59.65.175,136,Europe,Spain,Madrid,40.4165,-3.7026
+81.61.207.90,136,Europe,Spain,Madrid,40.4165,-3.7026
+81.61.137.210,136,Europe,Spain,Cornellà de Llobregat,41.35,2.0833
+37.15.24.103,135,Europe,Spain,Alicante,38.3462,-0.4877
+83.33.64.92,135,Europe,Spain,Valencia,39.4698,-0.3774
+81.184.173.44,135,Europe,Spain,Sabadell,41.5433,2.1094
+88.11.134.78,135,Europe,Spain,Premia de Mar,41.4921,2.3652
+84.77.154.62,135,Europe,Spain,Mataró,41.5421,2.4445
+85.137.52.158,135,Europe,Spain,Huelva,37.2714,-6.9495000000000005
+92.58.120.35,134,Europe,Spain,Sant Cugat del Vallès,41.4667,2.0833
+77.225.252.174,134,Europe,Spain,San Sebastián de La Gomera,28.0916,-17.1133
+212.142.228.12,134,Europe,Spain,San Sebastián de La Gomera,28.0916,-17.1133
+87.111.221.104,134,Europe,Spain,Salo,41.8448,1.6431
+83.63.165.156,134,Europe,Spain,Llagostera,41.8269,2.8936
+66.249.88.216,134,North America,United States,Mountain View,37.419200000000004,-122.0574
+85.87.32.234,133,Europe,Spain,Bilbao,43.2627,-2.9253
+79.108.34.74,133,Europe,Spain,Algeciras,36.1333,-5.4505
+213.37.156.68,133,Europe,Spain,Getafe,40.3084,-3.706
+46.27.161.21,133,Europe,Spain,Barcelona,41.3888,2.159
+46.222.151.127,133,Europe,Spain,,40.4172,-3.684
+80.103.202.184,133,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+85.49.138.49,133,Europe,Spain,Santomera,38.0615,-1.0488
+85.58.98.43,132,Europe,Spain,Barcelona,41.3888,2.159
+85.85.118.208,132,Europe,Spain,Santurtzi,43.3284,-3.0325
+157.55.35.112,131,North America,United States,Redmond,47.6801,-122.1206
+157.55.33.26,131,North America,United States,Redmond,47.6801,-122.1206
+85.58.25.130,131,Europe,Spain,Zaragoza,41.6561,-0.8773
+83.50.63.86,131,Europe,Spain,Castelldefels,41.2777,1.9687999999999999
+80.38.244.251,131,Europe,Spain,Calafell,41.1958,1.6061999999999999
+95.172.74.37,131,Europe,United Kingdom,London,51.5142,-0.0931
+79.147.193.223,131,Europe,Spain,Gijón,43.5357,-5.6615
+79.157.245.16,131,Europe,Spain,Barcelona,41.3984,2.1741
+90.170.130.46,130,Europe,Spain,Salobreña,36.7428,-3.5872
+193.153.206.67,130,Europe,Spain,Lleida,41.6167,0.6222
+77.224.117.60,130,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+90.174.3.116,130,Europe,Spain,Madrid,40.4165,-3.7026
+31.4.236.138,130,Europe,Spain,Valencia,39.4667,-0.3667
+84.122.128.226,130,Europe,Spain,Seville,37.3824,-5.9761
+217.216.120.71,129,Europe,Spain,Dos Hermanas,37.2829,-5.9209
+190.4.66.116,129,North America,"Bonaire, Sint Eustatius, and Saba",,12.2129,-68.2944
+95.61.57.214,129,Europe,Spain,Málaga,36.7202,-4.4203
+194.30.106.50,129,Europe,Spain,Sant Esteve Sesrovires,41.4934,1.8833
+87.221.174.146,129,Europe,Spain,Dos Hermanas,37.2829,-5.9209
+88.151.17.100,129,Europe,Spain,Oviedo,43.345,-5.8403
+88.12.190.100,129,Europe,Spain,Areatza,43.1167,-2.7667
+188.76.238.56,129,Europe,Spain,Madrid,40.4165,-3.7026
+82.145.216.124,128,Europe,,,47.0,8.0
+79.153.22.78,128,Europe,Spain,Girona,41.9844,2.8211
+188.76.23.9,128,Europe,Spain,,40.4172,-3.684
+88.19.62.38,128,Europe,Spain,Madrid,40.4165,-3.7026
+79.108.11.51,128,Europe,Spain,Cadiz,36.5298,-6.2947
+83.165.225.211,128,Europe,Spain,O Barco de Valdeorras,42.4189,-6.9818
+201.141.111.241,128,North America,Mexico,Mexico City,19.4357,-99.1439
+90.174.1.203,127,Europe,Spain,Madrid,40.4165,-3.7026
+84.122.145.239,127,Europe,Spain,Cadiz,36.5298,-6.2947
+77.224.86.219,127,Europe,Spain,Barcelona,41.3984,2.1741
+85.50.143.34,127,Europe,Spain,el Masnou,41.4805,2.3164
+83.61.133.199,127,Europe,Spain,La Pobla de Claramunt,41.5542,1.6771
+81.45.52.143,126,Europe,Spain,Mislata,39.4752,-0.4183
+85.137.214.209,126,Europe,Spain,Cordova,37.8916,-4.7727
+213.96.109.27,126,Europe,Spain,Albacete,38.9942,-1.8564
+85.54.246.191,126,Europe,Spain,Reus,41.1561,1.1069
+80.24.18.93,126,Europe,Spain,Roses,42.262,3.1769
+190.17.235.152,126,South America,Argentina,Villa del Parque,-34.6006,-58.4887
+83.63.131.193,126,Europe,Spain,Ibiza Town,38.9088,1.433
+85.58.226.213,125,Europe,Spain,Barcelona,41.3888,2.159
+83.47.29.84,125,Europe,Spain,Madrid,40.4165,-3.7026
+85.136.169.130,125,Europe,Spain,Dos Hermanas,37.2829,-5.9209
+83.149.126.98,125,Europe,Netherlands,,52.3824,4.8995
+213.143.49.229,125,Europe,Spain,Barcelona,41.3984,2.1741
+83.247.136.48,125,Europe,Spain,Barcelona,41.3888,2.159
+93.188.138.1,125,Europe,Spain,,40.4172,-3.684
+62.117.134.121,125,Europe,Spain,Chiclana de la Frontera,36.4211,-6.1486
+83.57.190.231,125,Europe,Spain,Cazorla,37.9149,-3.0034
+213.98.217.80,124,Europe,Spain,Cullar-Vega,37.1536,-3.6707
+46.25.132.18,124,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+188.76.156.55,124,Europe,Spain,Bormujos,37.3736,-6.0723
+81.45.53.1,124,Europe,Spain,Mislata,39.4752,-0.4183
+213.143.59.207,124,Europe,Spain,Bilbao,43.2609,-2.9388
+84.123.25.242,123,Europe,Spain,Valencia,39.4667,-0.3667
+79.108.195.164,123,Europe,Spain,Valencia,39.4698,-0.3774
+81.44.208.160,123,Europe,Spain,Ciudad Real,38.9863,-3.9291
+87.219.136.85,123,Europe,Spain,Moguer,37.2756,-6.8385
+83.36.73.26,123,Europe,Spain,Alicante,38.3452,-0.4815
+81.34.148.106,123,Europe,Spain,Rincon de la Victoria,36.7171,-4.2758
+81.33.91.248,123,Europe,Spain,Armilla,37.141,-3.6185
+95.129.152.247,123,Europe,Spain,Málaga,36.7202,-4.4203
+79.108.228.247,122,Europe,Spain,Valencia,39.4667,-0.3667
+80.102.121.219,122,Europe,Spain,Terrassa,41.5611,2.0081
+217.12.20.253,122,Europe,Spain,Seville,37.3824,-5.9761
+95.18.93.30,122,Europe,Spain,Torrelavega,43.3494,-4.0479
+157.55.35.104,122,North America,United States,Redmond,47.6801,-122.1206
+84.123.144.30,122,Europe,Spain,Gandia,38.9667,-0.1833
+85.251.85.211,122,Europe,Spain,Zaragoza,41.6561,-0.8773
+88.22.252.206,122,Europe,Spain,Ourense,42.3313,-7.8627
+85.86.161.201,121,Europe,Spain,Irun,43.339,-1.7894
+84.123.156.106,121,Europe,Spain,Gandia,38.9667,-0.1833
+81.184.202.43,121,Europe,Spain,Badalona,41.45,2.2474
+188.85.232.152,121,Europe,Spain,Getafe,40.3084,-3.706
+80.103.182.245,121,Europe,Spain,León,42.6,-5.5703
+77.230.211.95,121,Europe,Spain,Barcelona,41.3984,2.1741
+95.19.238.239,120,Europe,Spain,Palafolls,41.6667,2.75
+80.26.180.113,120,Europe,Spain,Santander,43.4647,-3.8044000000000002
+79.151.59.10,120,Europe,Spain,Anover de Tajo,39.9887,-3.7658
+81.184.251.178,120,Europe,Spain,Sabadell,41.5433,2.1094
+37.15.206.237,120,Europe,Spain,Barcelona,41.3984,2.1741
+213.143.50.174,120,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+83.56.168.143,120,Europe,Spain,Santander,43.4647,-3.8044000000000002
+84.122.112.7,120,Europe,Spain,San Fernando,36.4759,-6.1982
+85.52.90.106,120,Europe,Spain,Girona,41.9844,2.8211
+85.52.48.37,120,Europe,Spain,Meliana,39.5333,-0.3333
+85.136.146.205,120,Europe,Spain,Seville,37.3824,-5.9761
+84.122.55.236,120,Europe,Spain,Algeciras,36.1333,-5.4505
+77.224.231.67,119,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+79.147.132.1,119,Europe,Spain,Alpedrete,40.6589,-4.0251
+84.77.147.47,119,Europe,Spain,Millares,39.25,-0.7667
+194.179.126.144,118,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+216.185.35.54,118,North America,United States,Aliso Viejo,33.5717,-117.7289
+85.86.195.82,118,Europe,Spain,Barakaldo,43.2956,-2.9973
+80.29.35.101,118,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+84.79.168.11,118,Europe,Spain,Tomelloso,39.1522,-3.0243
+87.221.33.120,118,Europe,Spain,Madrid,40.4165,-3.7026
+89.7.2.189,118,Europe,Spain,Barcelona,41.3888,2.159
+95.17.145.246,118,Europe,Spain,Gandia,38.9667,-0.1833
+46.226.147.119,118,Europe,Spain,,40.4172,-3.684
+95.39.205.24,118,Europe,Spain,Burgos,42.3502,-3.6753
+79.158.59.154,118,Europe,Spain,Elda,38.4778,-0.7916
+80.26.232.117,117,Europe,Spain,Casas de Millan,39.8176,-6.3297
+46.27.186.9,117,Europe,Spain,Málaga,36.7267,-4.4348
+95.19.92.131,117,Europe,Spain,Moncofa,39.8167,-0.2333
+95.17.147.90,117,Europe,Spain,Gandia,38.9667,-0.1833
+89.7.163.37,117,Europe,Spain,,40.4172,-3.684
+85.136.65.63,117,Europe,Spain,Málaga,36.7202,-4.4203
+37.14.197.231,117,Europe,Spain,Terrassa,41.5667,2.0167
+84.126.162.138,117,Europe,Spain,Valencia,39.4667,-0.3667
+84.125.234.67,117,Europe,Spain,San Fernando,36.4759,-6.1982
+83.40.115.200,117,Europe,Spain,Villafranca,42.2793,-1.7463
+84.77.145.197,116,Europe,Spain,Millares,39.25,-0.7667
+195.53.168.35,116,Europe,Spain,,40.4172,-3.684
+5.226.28.218,116,Europe,Spain,Vélez-Málaga,36.778,-4.1523
+83.37.157.138,116,Europe,Spain,Barcelona,41.3888,2.159
+84.121.40.247,115,Europe,Spain,Almussafes,39.2833,-0.4167
+5.10.83.71,115,Europe,Netherlands,Amsterdam,52.3556,4.9135
+85.152.153.104,115,Europe,Spain,Pola de Siero,43.3923,-5.6634
+65.55.52.108,115,North America,United States,Redmond,47.6801,-122.1206
+85.62.234.162,115,Europe,Spain,Barcelona,41.3984,2.1741
+79.109.153.131,115,Europe,Spain,Murcia,37.987,-1.13
+213.97.204.91,114,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+83.55.163.245,114,Europe,Spain,Madrid,40.4165,-3.7026
+5.10.83.52,114,Europe,Netherlands,Amsterdam,52.3556,4.9135
+85.84.21.18,114,Europe,Spain,Vitoria-Gasteiz,42.85,-2.6667
+81.44.3.95,114,Europe,Spain,Valencia,39.4698,-0.3774
+84.76.138.145,114,Europe,Spain,La Palma del Condado,37.386,-6.5523
+85.49.23.116,114,Europe,Spain,Tarancon,40.0085,-3.0073
+157.56.92.158,114,North America,United States,Redmond,47.6801,-122.1206
+79.146.76.236,114,Europe,Spain,Gijón,43.5357,-5.6615
+77.225.238.7,114,Europe,Spain,Pedreguer,38.7931,0.0341
+85.152.161.241,114,Europe,Spain,Gijón,43.5357,-5.6615
+88.26.14.239,114,Europe,Spain,Berango,43.365,-2.996
+84.123.55.84,114,Europe,Spain,Paterna,39.5,-0.4333
+95.17.185.119,113,Europe,Spain,Igualada,41.581,1.6172
+80.174.30.140,113,Europe,Spain,Madrid,40.4165,-3.7026
+188.86.154.19,113,Europe,Spain,Brión,42.8245,-8.8491
+84.125.93.151,113,Europe,Spain,Burgos,42.3502,-3.6753
+5.10.83.21,113,Europe,Netherlands,Amsterdam,52.3556,4.9135
+95.61.224.248,113,Europe,Spain,Manresa,41.725,1.8266
+95.20.151.228,113,Europe,Spain,Tomares,37.3728,-6.0459
+85.84.85.128,113,Europe,Spain,Durango,43.1712,-2.6338
+83.38.92.110,113,Europe,Spain,Madrid,40.4165,-3.7026
+88.25.168.48,112,Europe,Spain,Teruel,40.3456,-1.1065
+84.121.15.48,112,Europe,Spain,Almussafes,39.2833,-0.4167
+2.140.27.253,112,Europe,Spain,,40.4172,-3.684
+87.2.163.210,112,Europe,Italy,Biassono,45.6286,9.2712
+85.55.11.219,112,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+46.24.190.90,112,Europe,Spain,San Pedro,36.4867,-4.9891
+88.11.48.137,112,Europe,Spain,Madrid,40.4165,-3.7026
+93.156.12.123,112,Europe,Spain,Avilés,43.5547,-5.9248
+93.156.200.74,112,Europe,Spain,Avilés,43.5547,-5.9248
+62.87.24.215,111,Europe,Spain,,40.4172,-3.684
+90.162.146.224,111,Europe,Spain,Santa Cruz de Tenerife,28.4682,-16.2546
+195.57.84.106,111,Europe,Spain,,40.4172,-3.684
+77.224.108.21,110,Europe,Spain,Málaga,36.7202,-4.4203
+158.109.217.161,110,Europe,Spain,Barcelona,41.3984,2.1741
+95.63.1.210,110,Europe,Spain,Beasain,43.05,-2.1833
+81.37.35.177,110,Europe,Spain,Pozuelo de Alarcón,40.4329,-3.8134
+84.77.167.235,110,Europe,Spain,León,42.6,-5.5703
+95.20.157.79,110,Europe,Spain,Roquetas de Mar,36.7642,-2.6147
+81.45.52.161,109,Europe,Spain,Mislata,39.4752,-0.4183
+88.1.150.2,109,Europe,Spain,el Prat de Llobregat,41.3278,2.0947
+79.154.223.81,109,Europe,Spain,Granada,37.1882,-3.6067
+188.79.17.158,109,Europe,Spain,Xirivella,39.4659,-0.4259
+89.131.137.162,109,Europe,Spain,Sanlúcar de Barrameda,36.7781,-6.3515
+5.10.83.73,108,Europe,Netherlands,Amsterdam,52.3556,4.9135
+80.24.208.51,108,Europe,Spain,Basauri,43.2383,-2.8759
+88.2.250.164,108,Europe,Spain,Lleida,41.6167,0.6222
+95.62.152.251,108,Europe,Spain,Málaga,36.7267,-4.4348
+88.31.143.254,108,Europe,Spain,Vilanova del Camí,41.5716,1.6375
+84.79.214.214,108,Europe,Spain,Benetusser,39.4167,-0.4
+84.124.249.41,108,Europe,Spain,Albacete,38.9942,-1.8564
+85.62.234.161,108,Europe,Spain,Barcelona,41.3984,2.1741
+79.158.63.246,108,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+213.143.61.8,108,Europe,Spain,Seville,37.3824,-5.9761
+193.37.153.37,107,Europe,Portugal,,38.7139,-9.1394
+83.47.251.194,107,Europe,Spain,Villafranca de los Barros,38.5614,-6.3381
+194.183.97.17,107,Europe,Spain,,40.4172,-3.684
+65.55.52.118,107,North America,United States,Redmond,47.6801,-122.1206
+46.234.129.140,107,Europe,Spain,Utrera,37.1852,-5.7809
+95.60.36.141,107,Europe,Spain,Reus,41.1561,1.1069
+81.202.103.206,107,Europe,Spain,Valencia,39.4698,-0.3774
+5.10.83.46,107,Europe,Netherlands,Amsterdam,52.3556,4.9135
+85.53.84.254,107,Europe,Spain,Madrid,40.4165,-3.7026
+31.4.236.29,107,Europe,Spain,Valencia,39.4667,-0.3667
+37.25.40.8,107,Europe,Spain,San Pedro del Pinatar,37.8357,-0.791
+208.43.243.245,106,North America,United States,Chantilly,38.9036,-77.4512
+147.84.33.60,106,Europe,Spain,Murcia,37.987,-1.13
+79.147.0.197,106,Europe,Spain,Huelva,37.2714,-6.9495000000000005
+84.124.120.186,106,Europe,Spain,Marbella,36.5154,-4.8858
+31.4.182.223,106,Europe,Spain,Madrid,40.4165,-3.7026
+85.58.131.170,105,Europe,Spain,Guadalajara,40.6286,-3.1618
+185.3.117.155,105,Europe,Spain,,40.4172,-3.684
+62.14.253.58,105,Europe,Spain,,40.4172,-3.684
+188.85.195.156,105,Europe,Spain,Benalmádena,36.6016,-4.5396
+31.4.206.54,105,Europe,Spain,Barcelona,41.3888,2.159
+83.39.218.41,104,Europe,Spain,Palma,39.5743,2.6552
+195.235.177.135,104,Europe,Spain,Caldes de Malavella,41.7743,2.6451000000000002
+193.148.98.2,104,Europe,Spain,,40.4172,-3.684
+5.10.83.88,104,Europe,Netherlands,Amsterdam,52.3556,4.9135
+79.150.130.38,104,Europe,Spain,Alicante,38.3452,-0.4815
+79.147.207.97,103,Europe,Spain,Calahorra,42.3051,-1.9651999999999998
+79.154.189.99,103,Europe,Spain,Santa Eulària des Riu,38.9846,1.5341
+85.85.198.240,103,Europe,Spain,Basauri,43.2383,-2.8759
+84.114.167.130,103,Europe,Austria,Vienna,48.2333,16.35
+46.222.83.180,103,Europe,Spain,,40.4172,-3.684
+195.77.62.138,102,Europe,Spain,,40.4172,-3.684
+84.79.150.220,102,Europe,Spain,Barcelona,41.3888,2.159
+95.23.127.32,102,Europe,Spain,Amposta,40.7108,0.5781
+31.4.190.156,102,Europe,Spain,Barcelona,41.3984,2.1741
+5.10.83.22,101,Europe,Netherlands,Amsterdam,52.3556,4.9135
+217.124.183.226,101,Europe,Spain,Cáceres,39.4765,-6.3722
+208.43.248.248,101,North America,United States,Chantilly,38.9036,-77.4512
+194.179.87.18,101,Europe,Spain,,40.4172,-3.684
+150.214.144.128,101,Europe,Spain,Seville,37.3824,-5.9761
+83.49.199.102,100,Europe,Spain,Mar,43.4002,-4.0094
+85.136.44.127,100,Europe,Spain,Granada,37.1882,-3.6067
+81.45.53.56,100,Europe,Spain,Mislata,39.4752,-0.4183
+95.18.92.219,100,Europe,Spain,Torrelavega,43.3494,-4.0479
+193.240.44.31,100,Europe,United Kingdom,,51.4964,-0.1224
+79.155.99.203,99,Europe,Spain,Las Palmas de Gran Canaria,28.0997,-15.4134
+157.55.32.183,99,North America,United States,Redmond,47.6801,-122.1206
+212.225.241.73,99,Europe,Spain,Cordova,37.8916,-4.7727
+95.17.106.72,99,Europe,Spain,Igea,42.0678,-2.0109
+77.231.88.149,99,Europe,Spain,Barcelona,41.3984,2.1741
+72.14.199.148,99,North America,United States,Southport,33.997,-78.0729
+217.156.188.174,99,Europe,Spain,,40.4172,-3.684
+92.58.211.126,98,Europe,Spain,Nules,39.8536,-0.1564
+88.2.219.180,98,Europe,Spain,Burgos,42.3502,-3.6753
+81.203.65.27,98,Europe,Spain,Valencia,39.4698,-0.3774
+190.56.254.235,97,North America,Guatemala,,15.5,-90.25
+194.30.26.30,97,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+87.220.67.220,97,Europe,Spain,Salamanca,40.9688,-5.6639
+31.4.190.164,97,Europe,Spain,Barcelona,41.3984,2.1741
+2.136.17.138,97,Europe,Spain,Torrejon del Rey,40.643299999999996,-3.3338
+80.36.67.191,97,Europe,Spain,Arganda,40.3,-3.4667
+213.143.49.95,97,Europe,Spain,Barcelona,41.3984,2.1741
+83.41.70.217,97,Europe,Spain,Sant Martí de Centelles,41.7662,2.2057
+83.230.221.92,97,Europe,Spain,Silleda,42.696,-8.2465
+80.102.93.226,97,Europe,Spain,Alcobendas,40.5475,-3.642
+81.45.52.118,97,Europe,Spain,Mislata,39.4752,-0.4183
+195.149.215.221,97,Europe,Spain,Madrid,40.4165,-3.7026
+81.45.52.152,96,Europe,Spain,Mislata,39.4752,-0.4183
+95.19.88.107,96,Europe,Spain,Onda,39.9667,-0.25
+81.45.52.202,96,Europe,Spain,Mislata,39.4752,-0.4183
+95.61.19.60,96,Europe,Spain,Sitges,41.2351,1.8119
+2.137.16.40,96,Europe,Spain,Catarroja,39.4,-0.4
+85.49.148.76,96,Europe,Spain,Los Alcazares,37.759,-0.8367
+5.10.83.87,96,Europe,Netherlands,Amsterdam,52.3556,4.9135
+77.27.64.233,95,Europe,Spain,A Coruña,43.3666,-8.4068
+95.62.181.69,95,Europe,Spain,Calella,41.618,2.6677999999999997
+88.0.203.148,95,Europe,Spain,Cáceres,39.4765,-6.3722
+92.58.37.48,95,Europe,Spain,Durango,43.1712,-2.6338
+83.32.204.207,95,Europe,Spain,Valencia,39.4667,-0.3667
+31.221.138.191,95,Europe,Spain,,40.4172,-3.684
+5.10.83.64,95,Europe,Netherlands,Amsterdam,52.3556,4.9135
+37.15.168.65,94,Europe,Spain,Girona,41.9844,2.8211
+62.82.76.90,94,Europe,Spain,Barcelona,41.3984,2.1741
+79.108.154.2,94,Europe,Spain,Algemesi,39.1833,-0.4333
+83.46.243.32,94,Europe,Spain,Zaragoza,41.6561,-0.8773
+95.39.226.37,94,Europe,Spain,Valencia,39.4667,-0.3667
+84.77.50.136,93,Europe,Spain,Mollet del Vallès,41.5403,2.2131
+217.12.16.56,93,Europe,Spain,Granada,37.1784,-3.5991999999999997
+188.77.46.81,93,Europe,Spain,Alicante,38.3452,-0.4815
+62.151.76.106,93,Europe,Spain,Valladolid,41.6552,-4.7237
+62.82.70.58,93,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+186.82.214.90,93,South America,Colombia,Santiago de Cali,3.4372,-76.5225
+37.218.75.127,93,Europe,Spain,,40.4172,-3.684
+79.147.248.125,93,Europe,Spain,Madrid,40.4165,-3.7026
+91.229.73.9,93,Europe,United Kingdom,,51.4964,-0.1224
+87.111.8.93,92,Europe,Spain,Reus,41.1559,1.1074
+81.61.2.96,92,Europe,Spain,Ávila,40.6572,-4.6995000000000005
+83.231.119.179,92,Europe,Spain,Barcelona,41.3888,2.159
+95.19.165.204,92,Europe,Spain,Sant Joan de Vilatorrada,41.7455,1.8048
+188.87.104.65,92,Europe,Spain,Orcoyen,42.8238,-1.7048
+37.15.136.14,92,Europe,Spain,San Vicent del Raspeig,38.3964,-0.5255
+76.232.177.219,92,North America,United States,Ceres,37.5949,-120.9577
+79.153.0.25,92,Europe,Spain,Madrid,40.4165,-3.7026
+85.60.169.219,92,Europe,Spain,Cáceres,39.4765,-6.3722
+94.76.171.236,91,Europe,Spain,Mula,38.0409,-1.4901
+81.33.63.30,91,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+81.33.210.204,91,Europe,Spain,Requena,39.4883,-1.1004
+46.222.207.8,91,Europe,Spain,,40.4172,-3.684
+213.143.51.93,91,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+83.32.40.92,91,Europe,Spain,A Coruña,43.3666,-8.4068
+178.23.209.206,91,Europe,Spain,Barcelona,41.3984,2.1741
+98.244.10.248,91,North America,United States,Paradise,39.7413,-121.6121
+79.152.174.99,91,Europe,Spain,A Coruña,43.3713,-8.396
+95.172.68.149,91,Europe,Germany,Frankfurt am Main,50.1153,8.6823
+37.15.244.233,90,Europe,Spain,Barcelona,41.3984,2.1741
+81.37.155.60,90,Europe,Spain,Torre Pacheco,37.7429,-0.954
+85.57.252.60,90,Europe,Spain,Maracena,37.2076,-3.6349
+83.59.106.101,90,Europe,Spain,Valencia,39.4698,-0.3774
+78.136.69.17,90,Europe,Spain,Alameda,37.2087,-4.6586
+79.156.59.251,90,Europe,Spain,Alcalá de los Gazules,36.3409,-6.0451
+190.110.193.110,90,South America,Ecuador,Quito,-0.2167,-78.5
+83.36.15.28,90,Europe,Spain,el Masnou,41.4805,2.3164
+149.7.16.130,90,Europe,Spain,Ciudad Real,38.9863,-3.9291
+80.36.238.19,90,Europe,Spain,Campos,39.431,3.0194
+80.34.184.155,90,Europe,Spain,Guadalajara,40.6286,-3.1618
+213.37.152.99,89,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+195.57.30.170,89,Europe,Spain,Granollers,41.608,2.2877
+31.221.192.130,89,Europe,Spain,Valencia,39.4698,-0.3774
+66.249.81.141,89,Europe,,,47.0,8.0
+195.77.241.242,89,Europe,Spain,,40.4172,-3.684
+46.161.41.24,89,Europe,Russia,St Petersburg,59.8944,30.2642
+88.16.248.34,89,Europe,Spain,Mollet del Vallès,41.5403,2.2131
+87.223.246.201,89,Europe,Spain,,40.4172,-3.684
+80.27.103.200,89,Europe,Spain,,40.4172,-3.684
+77.231.4.163,89,Europe,Spain,Madrid,40.4165,-3.7026
+31.4.240.131,89,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+82.159.117.25,88,Europe,Spain,Madrid,40.4165,-3.7026
+186.149.212.146,88,North America,Dominican Republic,Santo Domingo,18.4667,-69.9
+2.139.23.118,88,Europe,Spain,Torrejon del Rey,40.643299999999996,-3.3338
+157.55.32.154,88,North America,United States,Redmond,47.6801,-122.1206
+31.4.192.151,88,Europe,Spain,Seville,37.3824,-5.9761
+80.102.11.79,88,Europe,Spain,Badalona,41.4471,2.2448
+195.53.109.63,88,Europe,Spain,,40.4172,-3.684
+213.143.58.162,88,Europe,Spain,Bilbao,43.2609,-2.9388
+88.19.25.90,88,Europe,Spain,Gijón,43.5357,-5.6615
+2.40.14.75,88,Europe,Italy,Mortara,45.2494,8.733
+188.77.50.119,88,Europe,Spain,Logroño,42.4667,-2.45
+95.121.187.150,88,Europe,Spain,Burgos,42.3502,-3.6753
+88.6.154.36,88,Europe,Spain,Colmenar del Arroyo,40.419,-4.1985
+213.143.51.177,87,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+88.17.253.16,87,Europe,Spain,Alhama de Granada,37.0069,-3.9896000000000003
+213.37.219.133,87,Europe,Spain,Mostoles,40.3223,-3.865
+213.9.211.6,87,Europe,United Kingdom,,51.4964,-0.1224
+41.98.76.99,86,Africa,Algeria,Oran,35.6911,-0.6417
+185.25.27.178,86,Europe,Spain,Albuixech,39.55,-0.3167
+84.76.230.188,86,Europe,Spain,Valdepenas,38.7621,-3.3848
+91.117.167.232,86,Europe,Spain,Ourense,42.3367,-7.8641
+201.31.227.195,86,South America,Brazil,,-22.8305,-43.2192
+212.231.183.216,86,Europe,Spain,Palma del Rio,37.7002,-5.2812
+158.227.146.53,86,Europe,Spain,,40.4172,-3.684
+157.56.93.74,86,North America,United States,Redmond,47.6801,-122.1206
+81.33.166.44,86,Europe,Spain,Madrid,40.4165,-3.7026
+79.108.16.33,85,Europe,Spain,Cadiz,36.5298,-6.2947
+95.121.191.224,85,Europe,Spain,Aranda de Duero,41.6704,-3.6892
+83.38.167.176,85,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+85.136.55.82,85,Europe,Spain,Granada,37.1882,-3.6067
+5.226.25.245,85,Europe,Spain,Vélez-Málaga,36.778,-4.1523
+213.143.49.182,85,Europe,Spain,Barcelona,41.3984,2.1741
+186.1.15.210,84,North America,Nicaragua,Managua,12.1508,-86.2683
+37.11.115.207,84,Europe,Spain,Getafe,40.3057,-3.7329
+217.217.99.195,84,Europe,Spain,Málaga,36.7202,-4.4203
+79.144.117.80,84,Europe,Spain,Boadilla del Monte,40.405,-3.8783
+186.233.117.68,84,South America,Brazil,Rio de Janeiro,-22.8751,-43.2775
+79.154.212.122,84,Europe,Spain,Málaga,36.7267,-4.4348
+195.76.206.12,84,Europe,Spain,,40.4172,-3.684
+95.18.145.23,84,Europe,Spain,Canaveral,39.792,-6.3913
+95.18.17.50,84,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+186.115.68.62,83,South America,Colombia,Sabanalarga,10.6296,-74.9206
+89.7.246.98,83,Europe,Spain,Llica d'Amunt,41.6167,2.2333
+95.23.181.125,83,Europe,Spain,Vallirana,41.3868,1.932
+95.20.249.164,83,Europe,Spain,Pamplona,42.8169,-1.6432
+81.35.242.252,83,Europe,Spain,Arzalde,43.4099,-2.8175
+189.242.131.245,83,North America,Mexico,Mexico City,19.3131,-98.8651
+87.217.194.154,83,Europe,Spain,Vitoria-Gasteiz,42.8548,-2.7016999999999998
+31.4.189.133,83,Europe,Spain,Barcelona,41.3984,2.1741
+80.31.12.71,83,Europe,Spain,Salamanca,40.9688,-5.6639
+62.99.80.253,82,Europe,Spain,Oiartzun,43.2983,-1.8613
+80.59.58.36,82,Europe,Spain,Albacete,38.9942,-1.8564
+88.22.104.55,82,Europe,Spain,El Ejido,36.8254,-2.8537
+81.44.47.212,82,Europe,Spain,Málaga,36.7202,-4.4203
+95.16.149.185,82,Europe,Spain,Bolanos de Calatrava,38.9069,-3.6635
+179.235.36.229,82,South America,Brazil,Salto,-23.1731,-47.3005
+188.244.80.133,82,Europe,Spain,Zaragoza,41.6561,-0.8773
+90.174.217.1,82,Europe,Spain,Tavernes Blanques,39.5,-0.3667
+213.98.186.128,82,Europe,Spain,,40.4172,-3.684
+37.14.165.223,82,Europe,Spain,Barcelona,41.3888,2.159
+157.55.32.57,81,North America,United States,Redmond,47.6801,-122.1206
+88.10.91.185,81,Europe,Spain,Barcelona,41.3888,2.159
+195.55.142.49,81,Europe,Spain,Ibiza Town,38.9419,1.2907
+190.159.246.115,81,South America,Colombia,Bogotá,4.6492,-74.0628
+188.82.217.233,81,Europe,Portugal,Braga,41.5503,-8.4201
+46.222.67.171,81,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+179.30.52.54,81,South America,Uruguay,Montevideo,-34.8581,-56.1708
+177.68.141.25,81,South America,Brazil,São Bernardo do Campo,-23.7,-46.55
+79.80.215.41,81,Europe,France,Lunel,43.6778,4.1361
+190.225.6.175,81,South America,Argentina,Villa Angelica,-32.9333,-60.5833
+83.41.219.242,81,Europe,Spain,Madrid,40.4165,-3.7026
+24.139.92.27,81,North America,Puerto Rico,,18.25,-66.5
+177.68.131.131,81,South America,Brazil,Guaruja,-24.0,-46.2667
+179.197.19.8,81,South America,Brazil,Rio Bonito,-22.7087,-42.6277
+187.105.70.21,81,South America,Brazil,Rio de Janeiro,-22.8751,-43.2775
+2.137.103.28,81,Europe,Spain,Madrid,40.4165,-3.7026
+90.165.7.176,81,Europe,Spain,Ciudad Real,38.9863,-3.9291
+85.59.181.208,81,Europe,Spain,Gedrez,43.0137,-6.6083
+217.127.87.222,81,Europe,Spain,Zamora,41.5063,-5.7446
+83.230.226.4,81,Europe,Spain,Pamplona,42.8141,-1.6412
+189.177.119.40,81,North America,Mexico,Puerto Vallarta,20.7092,-105.2356
+181.113.146.88,80,South America,Ecuador,Guayaquil,-2.1667,-79.9
+190.46.45.204,80,South America,Chile,La Calera,-32.7833,-71.2
+88.9.139.151,80,Europe,Spain,Sant Cugat del Vallès,41.4667,2.0833
+77.73.203.3,80,Europe,Spain,Madrid,40.4165,-3.7026
+177.125.94.15,80,South America,Brazil,Mariana,-20.324,-43.3066
+83.45.90.2,80,Europe,Spain,Els Monjos,41.3216,1.665
+62.42.1.201,80,Europe,Spain,Valladolid,41.6552,-4.7237
+200.106.114.232,80,South America,Peru,Lima,-12.05,-77.05
+83.45.250.187,80,Europe,Spain,Burriana,39.889,-0.085
+37.11.175.179,80,Europe,Spain,Valladolid,41.6552,-4.7237
+157.55.33.44,80,North America,United States,Redmond,47.6801,-122.1206
+79.153.189.92,80,Europe,Spain,Arinaga,27.8766,-15.428
+31.4.208.116,79,Europe,Spain,Valencia,39.4667,-0.3667
+213.97.35.39,79,Europe,Spain,Girona,41.9831,2.8249
+89.131.163.68,79,Europe,Spain,Denia,38.8413,0.108
+84.79.155.111,79,Europe,Spain,Seville,37.3824,-5.9761
+5.10.83.51,79,Europe,Netherlands,Amsterdam,52.3556,4.9135
+2.142.98.251,78,Europe,Spain,Lugo,43.0138,-7.5585
+178.60.32.187,78,Europe,Spain,Oleiros,43.3333,-8.3167
+85.85.49.10,78,Europe,Spain,Landa,43.3833,-2.95
+80.39.196.55,78,Europe,Spain,Palma,39.5694,2.6502
+88.2.192.15,78,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+83.165.133.106,78,Europe,Spain,Vigo,42.2328,-8.7226
+124.183.127.11,78,Oceania,Australia,Brisbane,-27.3827,152.9919
+157.55.34.25,78,North America,United States,Redmond,47.6801,-122.1206
+93.156.40.189,78,Europe,Spain,Gijón,43.5357,-5.6615
+90.169.208.138,76,Europe,Spain,Manises,39.4833,-0.45
+217.217.8.44,76,Europe,Spain,Jerez de la Frontera,36.6865,-6.1361
+87.217.157.137,76,Europe,Spain,Vélez-Málaga,36.7726,-4.1004
+5.10.83.31,76,Europe,Netherlands,Amsterdam,52.3556,4.9135
+88.26.69.3,76,Europe,Spain,Zaragoza,41.6453,-0.8849
+2.139.171.253,76,Europe,Spain,Pinto,40.2415,-3.7
+83.57.123.180,76,Europe,Spain,Utrera,37.1852,-5.7809
+37.11.226.68,75,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+83.42.143.224,75,Europe,Spain,Santa Brigida,28.032,-15.5043
+46.24.104.7,75,Europe,Spain,Barcelona,41.3984,2.1741
+46.222.204.152,75,Europe,Spain,,40.4172,-3.684
+170.252.72.61,74,Europe,,,47.0,8.0
+80.34.250.44,74,Europe,Spain,,40.4172,-3.684
+81.203.227.2,74,Europe,Spain,Alboraya,39.5,-0.35
+31.4.196.237,74,Europe,Spain,Seville,37.3824,-5.9761
+213.143.60.162,74,Europe,Spain,Seville,37.3824,-5.9761
+83.57.120.57,74,Europe,Spain,Seville,37.3824,-5.9761
+213.4.98.163,74,Europe,Spain,,40.4172,-3.684
+81.45.53.76,74,Europe,Spain,Mislata,39.4752,-0.4183
+81.34.171.58,74,Europe,Spain,Alicante,38.3452,-0.4815
+31.4.212.26,74,Europe,Spain,Valencia,39.4667,-0.3667
+186.92.211.136,73,South America,Venezuela,Maracaibo,10.6317,-71.6406
+83.58.147.133,73,Europe,Spain,Gavà,41.3061,2.0012
+84.122.77.144,73,Europe,Spain,San Fernando,36.4759,-6.1982
+88.3.2.185,73,Europe,Spain,Pamplona,42.8169,-1.6432
+83.56.208.173,72,Europe,Spain,Seville,37.3824,-5.9761
+62.43.190.52,72,Europe,Spain,Valencia,39.4667,-0.3667
+83.36.196.7,72,Europe,Spain,Badalona,41.4471,2.2448
+37.14.233.129,72,Europe,Spain,Benaguasil,39.6,-0.5833
+213.96.24.34,72,Europe,Spain,Agramunt,41.7869,1.0968
+84.127.132.156,72,Europe,Spain,Torrelavega,43.3494,-4.0479
+95.122.67.43,72,Europe,Spain,Barcelona,41.3984,2.1741
+31.4.196.17,72,Europe,Spain,Seville,37.3824,-5.9761
+93.186.23.112,72,Europe,United Kingdom,,51.4964,-0.1224
+147.156.170.67,72,Europe,Spain,Valencia,39.4667,-0.3667
+84.123.136.127,72,Europe,Spain,Gandia,38.9667,-0.1833
+89.217.161.103,71,Europe,Switzerland,Muntelier,46.9352,7.1236
+31.4.222.254,71,Europe,Spain,Seville,37.3824,-5.9761
+185.44.31.152,71,Europe,Spain,Murcia,37.9772,-1.1798
+157.55.33.83,71,North America,United States,Redmond,47.6801,-122.1206
+147.86.207.241,71,Europe,Switzerland,Basel,47.5584,7.5733
+188.78.234.126,71,Europe,Spain,Madrid,40.4165,-3.7026
+89.129.12.218,71,Europe,Spain,Barcelona,41.3984,2.1741
+85.50.75.24,71,Europe,Spain,Vilanova i la Geltrú,41.2239,1.7250999999999999
+2.139.201.29,70,Europe,Spain,Barcelona,41.3984,2.1741
+77.224.16.21,70,Europe,Spain,Vallirana,41.3868,1.932
+31.4.221.31,70,Europe,Spain,Seville,37.3824,-5.9761
+84.121.59.200,70,Europe,Spain,Albacete,38.9942,-1.8564
+213.9.195.250,70,Europe,Spain,Oviedo,43.3603,-5.8448
+89.7.114.32,70,Europe,Spain,Alcúdia,39.8532,3.1214
+109.107.105.181,70,Europe,Spain,Montilla,37.5863,-4.6381
+81.45.176.154,70,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+81.203.188.244,69,Europe,Spain,Benicarló,40.4165,0.4271
+91.117.177.64,69,Europe,Spain,Ribeira,42.2361,-7.7115
+37.11.65.37,69,Europe,Spain,Madrid,40.4165,-3.7026
+95.63.165.105,69,Europe,Spain,Cadiz,36.5158,-6.2797
+85.219.34.167,69,Europe,Spain,Berriozar,42.8169,-1.6432
+93.186.23.83,69,Europe,United Kingdom,,51.4964,-0.1224
+190.214.206.116,69,South America,Ecuador,Quito,-0.2167,-78.5
+85.57.110.124,69,Europe,Spain,Madrid,40.4165,-3.7026
+85.192.91.253,69,Europe,Spain,,40.4172,-3.684
+85.84.23.225,69,Europe,Spain,Vitoria-Gasteiz,42.85,-2.6667
+95.60.154.238,69,Europe,Spain,Pollença,39.8786,3.0175
+81.44.182.180,69,Europe,Spain,Zaragoza,41.6561,-0.8773
+37.15.118.53,68,Europe,Spain,Blanes,41.6742,2.7904
+83.47.115.241,68,Europe,Spain,Sant Cugat del Vallès,41.4667,2.0833
+41.45.126.171,68,Africa,Egypt,Sohag,26.557,31.6948
+195.76.181.177,68,Europe,Spain,Palma,39.5743,2.6552
+37.132.9.147,68,Europe,Spain,Parla,40.236,-3.7675
+95.18.82.222,68,Europe,Spain,Cuchia,43.4383,-4.018
+88.29.172.199,68,Europe,Spain,Barbastro,42.0357,0.1269
+92.58.33.198,68,Europe,Spain,Bermeo,43.4204,-2.7241999999999997
+31.221.222.2,68,Europe,Spain,Barcelona,41.3984,2.1741
+77.231.99.155,68,Europe,Spain,Santa Lucia,27.9113,-15.5434
+81.203.229.114,68,Europe,Spain,Port de Sagunt,39.6622,-0.2175
+79.152.79.106,68,Europe,Spain,Mataró,41.5421,2.4445
+216.9.35.59,68,North America,United States,San Diego,32.8073,-117.1324
+83.138.209.238,68,Europe,Spain,Barcelona,41.3984,2.1741
+85.56.48.247,68,Europe,Spain,Camas,37.402,-6.0331
+80.30.104.201,68,Europe,Spain,Gáldar,28.1066,-15.5999
+37.14.191.76,68,Europe,Spain,Valencia,39.4667,-0.3667
+83.71.193.244,68,Europe,Ireland,Cork,51.8986,-8.4958
+88.7.67.92,67,Europe,Spain,Torremolinos,36.6203,-4.4998000000000005
+80.73.153.149,67,Europe,Spain,Murcia,37.987,-1.13
+83.33.247.48,67,Europe,Spain,,40.4172,-3.684
+194.69.251.41,67,Europe,Spain,Madrid,40.4165,-3.7026
+190.100.112.14,67,South America,Chile,Santiago,-33.45,-70.6667
+193.144.127.13,67,Europe,Spain,Valencia,39.4698,-0.3774
+81.45.55.8,67,Europe,Spain,Mislata,39.4752,-0.4183
+85.85.18.241,67,Europe,Spain,Vitoria-Gasteiz,42.8548,-2.7016999999999998
+62.57.176.78,67,Europe,Spain,Sant Cugat del Vallès,41.4667,2.0833
+95.39.196.243,66,Europe,Spain,Valladolid,41.6552,-4.7237
+212.225.131.122,66,Europe,Spain,Cordova,37.8916,-4.7727
+213.143.51.218,66,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+31.4.212.174,66,Europe,Spain,Valencia,39.4667,-0.3667
+95.21.249.5,65,Europe,Spain,Tarragona,41.1167,1.25
+157.55.33.106,65,North America,United States,Redmond,47.6801,-122.1206
+87.218.139.190,65,Europe,Spain,Plasencia,40.0312,-6.0884
+81.35.113.21,65,Europe,Spain,Pola de Laviana,43.2454,-5.5629
+183.60.214.6,65,Asia,China,Guangzhou,23.1167,113.25
+93.186.23.84,65,Europe,United Kingdom,,51.4964,-0.1224
+157.55.33.30,65,North America,United States,Redmond,47.6801,-122.1206
+89.130.26.21,65,Europe,Spain,Narón,43.5167,-8.1528
+87.112.203.128,65,Europe,United Kingdom,,51.4964,-0.1224
+83.58.145.221,65,Europe,Spain,Sabadell,41.5433,2.1094
+69.61.47.114,65,North America,United States,Atlanta,33.748,-84.3858
+79.150.110.56,65,Europe,Spain,,39.1667,-6.1667
+186.61.72.177,65,South America,Argentina,Quilmes,-34.7667,-58.25
+213.143.50.82,65,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+46.222.229.32,65,Europe,Spain,,40.4172,-3.684
+90.175.31.32,65,Europe,Spain,Palma,39.5743,2.6552
+194.179.126.154,64,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+80.30.16.194,64,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+157.55.34.183,64,North America,United States,Redmond,47.6801,-122.1206
+85.152.25.7,64,Europe,Spain,Avilés,43.5547,-5.9248
+85.136.169.148,64,Europe,Spain,Dos Hermanas,37.2829,-5.9209
+80.33.156.122,63,Europe,Spain,Barcelona,41.3984,2.1741
+85.51.154.164,63,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+212.97.182.212,62,Europe,Spain,Zaragoza,41.6561,-0.8773
+2.138.119.2,62,Europe,Spain,,40.4172,-3.684
+193.147.239.254,62,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+157.55.33.87,61,North America,United States,Redmond,47.6801,-122.1206
+81.34.78.156,61,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+208.115.113.87,61,North America,United States,Seattle,47.4891,-122.2908
+37.132.52.255,61,Europe,Spain,Madrid,40.4165,-3.7026
+79.145.247.215,61,Europe,Spain,Madrid,40.4165,-3.7026
+85.58.103.177,61,Europe,Spain,Cornellà de Llobregat,41.35,2.0833
+188.77.36.107,61,Europe,Spain,Denia,38.8413,0.108
+79.156.122.4,60,Europe,Spain,Sant Cugat del Vallès,41.4714,2.0818
+157.55.32.186,60,North America,United States,Redmond,47.6801,-122.1206
+79.152.116.207,60,Europe,Spain,Barcelona,41.3984,2.1741
+81.45.52.175,60,Europe,Spain,Mislata,39.4752,-0.4183
+212.97.171.76,60,Europe,Spain,Zaragoza,41.6561,-0.8773
+157.55.34.168,60,North America,United States,Redmond,47.6801,-122.1206
+83.60.83.138,60,Europe,Spain,Almagro,38.8894,-3.7113
+87.218.196.208,60,Europe,Spain,Pozuelo de Alarcón,40.4329,-3.8134
+183.60.213.61,60,Asia,China,Guangzhou,23.1167,113.25
+80.102.179.124,60,Europe,Spain,Paterna,39.5,-0.4333
+41.71.213.111,60,Africa,Nigeria,Lagos,6.4531,3.3958
+93.186.23.114,60,Europe,United Kingdom,,51.4964,-0.1224
+88.26.227.110,59,Europe,Spain,Barcelona,41.3888,2.159
+31.4.200.110,59,Europe,Spain,Barcelona,41.3888,2.159
+84.164.70.180,59,Europe,Germany,Solingen,51.156,7.0152
+83.49.192.64,59,Europe,Spain,Málaga,36.7202,-4.4203
+31.4.190.194,59,Europe,Spain,Barcelona,41.3984,2.1741
+79.155.224.150,59,Europe,Spain,Lleida,41.6167,0.6222
+95.61.90.3,59,Europe,Spain,Barcelona,41.3984,2.1741
+83.52.152.43,58,Europe,Spain,Sabadell,41.5433,2.1094
+81.45.53.212,58,Europe,Spain,Mislata,39.4752,-0.4183
+202.21.106.166,58,Asia,Mongolia,Bayanhongor,46.1944,100.7181
+93.159.230.28,58,Europe,Russia,,55.7386,37.6068
+77.226.72.99,58,Europe,Spain,Vigo,42.2328,-8.7226
+95.120.248.103,58,Europe,Spain,Oviedo,43.3632,-5.8530999999999995
+79.108.162.213,58,Europe,Spain,Castelló de la Plana,39.9875,-0.0392
+181.151.21.227,58,South America,Colombia,,4.5981,-74.0758
+87.219.99.62,58,Europe,Spain,Barbate,36.1924,-5.9219
+81.45.52.105,58,Europe,Spain,Mislata,39.4752,-0.4183
+188.79.192.160,58,Europe,Spain,l'Hospitalet de l'Infant,40.9918,0.923
+183.60.212.156,58,Asia,China,Guangzhou,23.1167,113.25
+37.132.7.148,58,Europe,Spain,Huercal de Almeria,36.8851,-2.4375999999999998
+37.15.175.129,58,Europe,Spain,Sant Pere de Ribes,41.2667,1.7667000000000002
+84.77.106.235,58,Europe,Spain,Tarragona,41.1167,1.25
+46.26.27.2,58,Europe,Spain,Torreaguera,37.9807,-1.053
+190.2.101.139,58,South America,Argentina,Villa Angelica,-32.9333,-60.5833
+83.37.214.231,57,Europe,Spain,Lleida,41.6167,0.6222
+37.252.181.65,57,Europe,Spain,Pallejà,41.4239,1.995
+81.32.90.100,57,Europe,Spain,Getafe,40.3057,-3.7329
+31.4.179.119,57,Europe,Spain,Madrid,40.4165,-3.7026
+62.174.51.86,57,Europe,Spain,Mostoles,40.3223,-3.865
+81.34.34.145,57,Europe,Spain,Badalona,41.4471,2.2448
+88.7.42.225,57,Europe,Spain,Sant Cugat del Vallès,41.4667,2.0833
+213.143.49.93,57,Europe,Spain,Barcelona,41.3984,2.1741
+62.43.141.251,57,Europe,Spain,Palma,39.5743,2.6552
+88.30.208.101,57,Europe,Spain,,40.4172,-3.684
+83.47.211.179,57,Europe,Spain,Barcelona,41.3984,2.1741
+82.158.171.17,57,Europe,Spain,Mostoles,40.3223,-3.865
+31.4.213.238,57,Europe,Spain,Valencia,39.4667,-0.3667
+87.222.207.174,57,Europe,Spain,La Línea de la Concepción,36.168,-5.3472
+81.45.52.126,57,Europe,Spain,Mislata,39.4752,-0.4183
+80.33.124.163,57,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+91.116.23.162,56,Europe,Spain,,40.4172,-3.684
+46.222.1.120,56,Europe,Spain,Madrid,40.4165,-3.7026
+62.174.20.28,55,Europe,Spain,,40.4172,-3.684
+190.229.76.68,55,South America,Argentina,Villa Angelica,-32.9333,-60.5833
+148.251.14.166,55,Europe,Germany,,51.2993,9.491
+83.37.107.167,55,Europe,Spain,Madrid,40.4165,-3.7026
+66.249.84.136,55,North America,United States,Mountain View,37.419200000000004,-122.0574
+187.208.43.247,55,North America,Mexico,Mexico City,19.5764,-99.025
+201.213.2.172,55,South America,Argentina,Avellaneda,-34.6639,-58.3565
+81.184.19.126,54,Europe,Spain,Barcelona,41.3888,2.159
+95.22.61.120,54,Europe,Spain,San Martin de la Vega,40.2074,-3.5705999999999998
+90.175.210.151,54,Europe,Spain,Sax,38.5373,-0.8178
+92.58.149.13,53,Europe,Spain,Mijas,36.5958,-4.6373
+31.4.199.114,53,Europe,Spain,Seville,37.3824,-5.9761
+84.122.205.249,53,Europe,Spain,Jerez de la Frontera,36.6865,-6.1361
+83.34.21.208,53,Europe,Spain,,40.4172,-3.684
+79.147.15.166,53,Europe,Spain,Valencia,39.4698,-0.3774
+66.249.82.148,52,Asia,,,35.0,105.0
+180.76.5.60,52,Asia,China,Beijing,39.9289,116.3883
+157.56.93.63,52,North America,United States,Redmond,47.6801,-122.1206
+81.45.55.212,52,Europe,Spain,Mislata,39.4752,-0.4183
+96.242.31.129,52,North America,United States,Bayonne,40.6705,-74.1064
+80.30.60.47,52,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+77.226.207.26,51,Europe,Spain,Xàtiva,38.9833,-0.5167
+180.76.6.135,51,Asia,China,Beijing,39.9289,116.3883
+31.4.239.71,51,Europe,Spain,Valencia,39.4667,-0.3667
+84.79.49.113,51,Europe,Spain,Málaga,36.7267,-4.4348
+81.45.52.172,51,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.5.18,51,Asia,China,Beijing,39.9289,116.3883
+157.56.92.146,51,North America,United States,Redmond,47.6801,-122.1206
+31.4.212.216,50,Europe,Spain,Valencia,39.4667,-0.3667
+199.30.25.230,50,North America,United States,,47.6062,-122.3321
+88.24.132.149,50,Europe,Spain,Granada,37.1646,-3.6626
+77.224.75.209,50,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+180.76.5.156,50,Asia,China,Beijing,39.9289,116.3883
+180.76.5.223,50,Asia,China,Beijing,39.9289,116.3883
+86.123.247.161,50,Europe,Romania,Lugoj,45.6886,21.9031
+212.145.69.53,50,Europe,Spain,Barcelona,41.3984,2.1741
+31.4.183.178,50,Europe,Spain,Madrid,40.4165,-3.7026
+81.38.146.85,50,Europe,Spain,Madrid,40.4165,-3.7026
+180.76.5.170,50,Asia,China,Beijing,39.9289,116.3883
+37.72.26.102,50,Europe,Spain,Arbucies,41.8167,2.5167
+180.76.6.231,49,Asia,China,Beijing,39.9289,116.3883
+190.192.86.165,49,South America,Argentina,Posadas,-27.3833,-55.8833
+84.125.10.108,49,Europe,Spain,Salamanca,40.9688,-5.6639
+180.76.5.21,49,Asia,China,Beijing,39.9289,116.3883
+117.144.215.242,49,Asia,China,Shanghai,31.0456,121.3997
+195.245.248.7,49,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+180.76.5.143,49,Asia,China,Beijing,39.9289,116.3883
+93.188.49.5,49,Europe,Spain,,40.4172,-3.684
+157.55.34.106,49,North America,United States,Redmond,47.6801,-122.1206
+157.55.36.52,49,North America,United States,Redmond,47.6801,-122.1206
+177.228.96.228,49,North America,Mexico,Culiacán,24.7994,-107.3897
+189.203.237.175,49,North America,Mexico,Cuautla,18.8,-98.95
+172.251.167.3,48,North America,United States,Woodland Hills,34.1749,-118.6152
+82.130.165.120,48,Europe,Spain,Vitoria-Gasteiz,42.8548,-2.7016999999999998
+37.132.5.125,48,Europe,Spain,Huercal de Almeria,36.8851,-2.4375999999999998
+186.10.21.10,48,South America,Chile,Santiago,-33.45,-70.6667
+193.33.2.101,48,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+200.95.170.204,48,North America,Mexico,Monterrey,25.6667,-100.3167
+213.37.161.197,48,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+77.224.119.193,48,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+77.225.9.207,48,Europe,Spain,Algeciras,36.1333,-5.4505
+90.165.68.246,48,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+89.7.32.18,48,Europe,Spain,Badalona,41.45,2.2474
+81.203.237.169,48,Europe,Spain,Albacete,38.9942,-1.8564
+95.18.193.187,48,Europe,Spain,Málaga,36.7202,-4.4203
+180.76.6.58,48,Asia,China,Beijing,39.9289,116.3883
+88.6.65.66,48,Europe,Spain,Madrid,40.4165,-3.7026
+212.145.232.85,48,Europe,Spain,,40.4172,-3.684
+84.78.188.245,48,Europe,Spain,Monòver,38.4381,-0.8406
+83.55.108.9,48,Europe,Spain,Coria del Río,37.2877,-6.0541
+79.157.136.90,48,Europe,Spain,Sopela,43.3789,-2.9831
+83.60.172.180,48,Europe,Spain,Madrid,40.4165,-3.7026
+189.135.71.208,48,North America,Mexico,La Piedad,20.3088,-102.1179
+2.139.201.28,48,Europe,Spain,Barcelona,41.3984,2.1741
+176.9.34.171,48,Europe,Germany,,51.2993,9.491
+180.76.5.95,48,Asia,China,Beijing,39.9289,116.3883
+186.148.91.66,48,North America,Dominican Republic,Santo Domingo,18.4667,-69.9
+85.60.14.66,48,Europe,Spain,,40.4172,-3.684
+189.203.17.26,48,North America,Mexico,Tlalpan,19.2833,-99.1667
+89.131.91.112,48,Europe,Spain,Ubrique,36.6778,-5.446
+80.28.72.246,48,Europe,Spain,Ripollet,41.4969,2.1574
+62.117.218.225,48,Europe,Spain,Palma,39.5694,2.6502
+31.4.197.102,48,Europe,Spain,Seville,37.3824,-5.9761
+80.28.193.52,48,Europe,Spain,Valladolid,41.6552,-4.7237
+88.148.36.75,48,Europe,Spain,Bullas,38.0467,-1.6723
+88.148.126.220,48,Europe,Spain,Petrel,38.4829,-0.7755
+187.133.87.116,48,North America,Mexico,Zacatecas City,22.7833,-102.5833
+88.1.121.54,48,Europe,Spain,Barcelona,41.3888,2.159
+90.174.2.224,48,Europe,Spain,Madrid,40.4165,-3.7026
+88.6.123.56,48,Europe,Spain,Roquetas de Mar,36.7642,-2.6147
+31.4.205.35,48,Europe,Spain,Barcelona,41.3888,2.159
+188.79.210.64,48,Europe,Spain,Valencia,39.4698,-0.3774
+85.58.107.85,48,Europe,Spain,Barcelona,41.3984,2.1741
+95.20.187.136,48,Europe,Spain,Lugo,43.0099,-7.556
+87.221.200.174,48,Europe,Spain,Cáceres,39.4765,-6.3722
+77.240.116.140,48,Europe,Spain,Sabadell,41.5433,2.1094
+195.76.89.2,47,Europe,Spain,Palma,39.5694,2.6502
+186.1.1.62,47,North America,Nicaragua,Managua,12.1508,-86.2683
+187.185.220.50,47,North America,Mexico,San Miguel de Cozumel,20.501,-86.946
+89.141.73.59,47,Europe,Spain,Pinto,40.2415,-3.7
+79.159.80.179,47,Europe,Spain,Madrid,40.4165,-3.7026
+189.167.47.187,47,North America,Mexico,Panotla,19.3268,-98.2907
+31.4.223.118,47,Europe,Spain,Seville,37.3824,-5.9761
+81.39.62.169,47,Europe,Spain,Sant Cugat del Vallès,41.4667,2.0833
+213.143.61.105,47,Europe,Spain,Seville,37.3824,-5.9761
+90.174.2.49,47,Europe,Spain,Madrid,40.4165,-3.7026
+83.63.160.63,47,Europe,Spain,Llagostera,41.8269,2.8936
+62.117.188.170,47,Europe,Spain,San Fernando,36.4759,-6.1982
+81.34.246.7,47,Europe,Spain,Madrid,40.4165,-3.7026
+92.57.150.53,47,Europe,Spain,La Seu d'Urgell,42.3554,1.4592
+78.100.39.220,47,Asia,Qatar,,25.5,51.25
+138.4.182.219,47,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+94.142.200.142,47,Europe,Spain,Madrid,40.4165,-3.7026
+189.238.243.227,47,North America,Mexico,Lerdo,25.57,-103.7165
+37.15.65.60,47,Europe,Spain,Vic,41.9301,2.2549
+192.4.0.12,47,North America,United States,Basking Ridge,40.6761,-74.573
+190.183.29.142,47,South America,Argentina,Paraná,-31.7333,-60.5333
+180.76.5.203,47,Asia,China,Beijing,39.9289,116.3883
+79.155.78.117,47,Europe,Spain,Madrid,40.4165,-3.7026
+188.76.243.249,47,Europe,Spain,Valladolid,41.6552,-4.7237
+79.159.82.74,47,Europe,Spain,Avilés,43.5547,-5.9248
+190.189.30.214,47,South America,Argentina,San Antonio de Arredondo,-31.4833,-64.5167
+194.118.55.9,47,Europe,Austria,Salzburg,47.7994,13.044
+81.60.173.144,47,Europe,Spain,Tomares,37.3728,-6.0459
+81.184.89.236,47,Europe,Spain,Granollers,41.608,2.2877
+83.50.233.200,47,Europe,Spain,Madrid,40.4165,-3.7026
+90.174.3.144,47,Europe,Spain,Madrid,40.4165,-3.7026
+200.116.194.112,47,South America,Colombia,Medellín,6.2518,-75.5636
+82.213.160.143,47,Europe,Spain,Logroño,42.4667,-2.45
+95.16.51.41,47,Europe,Spain,Granada,37.1882,-3.6067
+194.140.77.33,47,Europe,Spain,,40.4172,-3.684
+38.106.143.248,47,North America,United States,,37.751,-97.822
+81.45.52.122,47,Europe,Spain,Mislata,39.4752,-0.4183
+83.52.230.253,47,Europe,Spain,Fuengirola,36.54,-4.6247
+90.170.19.33,46,Europe,Spain,Arcos de la Frontera,36.7508,-5.8106
+88.20.52.218,46,Europe,Spain,Barcelona,41.3984,2.1741
+83.46.190.186,46,Europe,Spain,Salitja,41.9078,2.7473
+79.146.101.12,46,Europe,Spain,Ourense,42.3313,-7.8627
+46.222.223.201,46,Europe,Spain,Madrid,40.4165,-3.7026
+200.23.91.150,46,North America,Mexico,,19.4371,-99.0111
+187.250.20.139,46,North America,Mexico,Tijuana,32.5333,-117.0167
+95.18.90.252,46,Europe,Spain,Santander,43.4647,-3.8044000000000002
+190.160.31.130,46,South America,Chile,Santiago,-33.45,-70.6667
+88.15.228.73,46,Europe,Spain,Barcelona,41.3984,2.1741
+65.55.52.87,46,North America,United States,Redmond,47.6801,-122.1206
+180.76.6.65,46,Asia,China,Beijing,39.9289,116.3883
+213.227.44.137,46,Europe,Spain,Cordova,37.8916,-4.7727
+2.138.206.93,46,Europe,Spain,Llanos de la Concepcion,28.4756,-14.0324
+83.60.210.171,46,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+77.27.6.252,46,Europe,Spain,Culleredo,43.2879,-8.3886
+79.147.199.254,45,Europe,Spain,Oviedo,43.3603,-5.8448
+90.174.0.246,45,Europe,Spain,Madrid,40.4165,-3.7026
+82.198.52.218,45,Europe,Spain,Zaragoza,41.6561,-0.8773
+81.203.204.179,45,Europe,Spain,Alzira,39.15,-0.4333
+217.116.27.81,45,Europe,Spain,Alcasser,39.3667,-0.4333
+90.174.2.231,45,Europe,Spain,Madrid,40.4165,-3.7026
+213.143.51.43,45,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+188.123.253.34,45,Europe,Russia,Moscow,55.7522,37.6156
+180.76.5.153,45,Asia,China,Beijing,39.9289,116.3883
+83.39.110.22,45,Europe,Spain,Barcelona,41.3888,2.159
+186.108.178.203,45,South America,Argentina,San Nicolás de los Arroyos,-33.3303,-60.2269
+157.55.32.163,45,North America,United States,Redmond,47.6801,-122.1206
+180.76.5.78,45,Asia,China,Beijing,39.9289,116.3883
+70.193.193.92,45,North America,United States,,37.751,-97.822
+157.55.36.49,44,North America,United States,Redmond,47.6801,-122.1206
+95.122.49.80,44,Europe,Spain,Santiago del Teide,28.2367,-16.8433
+180.76.6.59,44,Asia,China,Beijing,39.9289,116.3883
+180.76.6.146,44,Asia,China,Beijing,39.9289,116.3883
+80.30.97.59,44,Europe,Spain,Albaida,38.838,-0.5172
+180.76.5.38,44,Asia,China,Beijing,39.9289,116.3883
+180.76.6.139,44,Asia,China,Beijing,39.9289,116.3883
+31.4.194.181,44,Europe,Spain,Seville,37.3824,-5.9761
+81.45.52.195,44,Europe,Spain,Mislata,39.4752,-0.4183
+77.7.50.113,44,Europe,Germany,,51.2993,9.491
+157.56.92.148,44,North America,United States,Redmond,47.6801,-122.1206
+95.18.221.154,44,Europe,Spain,Málaga,36.7267,-4.4348
+31.4.177.158,44,Europe,Spain,Madrid,40.4165,-3.7026
+180.76.5.69,44,Asia,China,Beijing,39.9289,116.3883
+31.4.192.62,44,Europe,Spain,Seville,37.3824,-5.9761
+81.35.144.114,44,Europe,Spain,San Cristóbal de La Laguna,28.4853,-16.3201
+88.3.177.153,44,Europe,Spain,Terrassa,41.5667,2.0167
+87.100.107.176,43,Europe,France,Geronce,43.2333,-0.6833
+157.55.33.180,43,North America,United States,Redmond,47.6801,-122.1206
+200.24.215.217,43,South America,Ecuador,Quito,-0.2167,-78.5
+81.45.55.107,43,Europe,Spain,Mislata,39.4752,-0.4183
+81.33.99.91,43,Europe,Spain,Barcelona,41.3888,2.159
+82.199.56.241,43,Europe,Spain,Fuenmayor,42.4673,-2.5615
+46.222.53.80,43,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+79.150.8.127,43,Europe,Spain,Alhaurin de la Torre,36.664,-4.5614
+81.45.53.220,43,Europe,Spain,Mislata,39.4752,-0.4183
+157.55.36.50,43,North America,United States,Redmond,47.6801,-122.1206
+180.76.6.16,43,Asia,China,Beijing,39.9289,116.3883
+180.76.6.148,43,Asia,China,Beijing,39.9289,116.3883
+181.51.237.57,43,South America,Colombia,Medellín,6.2518,-75.5636
+180.76.5.31,43,Asia,China,Beijing,39.9289,116.3883
+157.56.229.244,43,North America,United States,Redmond,47.6801,-122.1206
+180.76.6.53,43,Asia,China,Beijing,39.9289,116.3883
+87.220.187.105,43,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+83.46.5.16,43,Europe,Spain,,40.4172,-3.684
+180.76.5.199,43,Asia,China,Beijing,39.9289,116.3883
+85.244.39.67,43,Europe,Portugal,Beja,38.0151,-7.8632
+84.88.229.249,43,Europe,Spain,Barcelona,41.3888,2.159
+95.17.239.206,42,Europe,Spain,Felanitx,39.4696,3.1483
+180.76.6.21,42,Asia,China,Beijing,39.9289,116.3883
+180.76.6.46,42,Asia,China,Beijing,39.9289,116.3883
+88.21.55.137,42,Europe,Spain,Madrid,40.4165,-3.7026
+199.30.20.208,42,North America,United States,Boydton,36.6648,-78.3715
+180.76.5.193,42,Asia,China,Beijing,39.9289,116.3883
+180.76.6.20,42,Asia,China,Beijing,39.9289,116.3883
+65.55.219.155,42,North America,United States,Boydton,36.6648,-78.3715
+31.4.178.110,42,Europe,Spain,Madrid,40.4165,-3.7026
+81.45.52.11,42,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.6.130,42,Asia,China,Beijing,39.9289,116.3883
+83.61.241.37,42,Europe,Spain,Málaga,36.7202,-4.4203
+180.76.6.149,42,Asia,China,Beijing,39.9289,116.3883
+180.76.5.155,42,Asia,China,Beijing,39.9289,116.3883
+81.45.52.193,42,Europe,Spain,Mislata,39.4752,-0.4183
+189.205.232.169,42,North America,Mexico,Mexico City,19.4342,-99.1386
+46.19.86.155,42,Asia,Israel,Tel Aviv,32.0667,34.7667
+157.55.35.51,42,North America,United States,Redmond,47.6801,-122.1206
+188.165.198.63,42,Europe,France,,48.8582,2.3387000000000002
+190.91.95.13,42,South America,Chile,Graneros,-34.0667,-70.7333
+194.98.70.142,42,Europe,France,Fonbeauzard,43.6783,1.4344000000000001
+37.14.223.190,41,Europe,Spain,Castelló de la Plana,40.2108,0.0272
+93.186.23.113,41,Europe,United Kingdom,,51.4964,-0.1224
+81.45.55.137,41,Europe,Spain,Mislata,39.4752,-0.4183
+212.170.176.111,41,Europe,Spain,Ontur,38.6151,-1.4971999999999999
+65.55.217.223,41,North America,United States,Boydton,36.6648,-78.3715
+180.76.5.158,41,Asia,China,Beijing,39.9289,116.3883
+84.127.64.211,41,Europe,Spain,Palma,39.5694,2.6502
+180.76.5.192,41,Asia,China,Beijing,39.9289,116.3883
+180.76.6.62,41,Asia,China,Beijing,39.9289,116.3883
+180.76.5.29,41,Asia,China,Beijing,39.9289,116.3883
+85.152.64.112,41,Europe,Spain,Langreo,43.3001,-5.6846
+180.76.5.63,41,Asia,China,Beijing,39.9289,116.3883
+146.18.173.105,40,North America,United States,Collierville,35.0911,-89.651
+157.56.92.172,40,North America,United States,Redmond,47.6801,-122.1206
+180.76.5.24,40,Asia,China,Beijing,39.9289,116.3883
+180.76.5.149,40,Asia,China,Beijing,39.9289,116.3883
+84.124.18.210,40,Europe,Spain,,40.4172,-3.684
+79.153.119.82,40,Europe,Spain,Barcelona,41.3436,2.0366
+180.76.6.37,40,Asia,China,Beijing,39.9289,116.3883
+180.76.5.190,40,Asia,China,Beijing,39.9289,116.3883
+83.32.167.230,40,Europe,Spain,Orcoyen,42.8238,-1.7048999999999999
+180.76.6.136,40,Asia,China,Beijing,39.9289,116.3883
+79.154.192.230,40,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+180.76.6.41,40,Asia,China,Beijing,39.9289,116.3883
+157.55.36.54,40,North America,United States,Redmond,47.6801,-122.1206
+180.76.5.189,40,Asia,China,Beijing,39.9289,116.3883
+180.76.6.138,40,Asia,China,Beijing,39.9289,116.3883
+90.174.2.171,40,Europe,Spain,Madrid,40.4165,-3.7026
+180.76.6.141,40,Asia,China,Beijing,39.9289,116.3883
+92.58.136.35,40,Europe,Spain,Caravaca,38.1056,-1.8634
+199.30.20.218,40,North America,United States,Boydton,36.6648,-78.3715
+31.4.212.43,40,Europe,Spain,Valencia,39.4667,-0.3667
+81.47.162.157,39,Europe,Spain,Mutxamel,38.4158,-0.4453
+31.4.210.153,39,Europe,Spain,,40.4172,-3.684
+87.221.83.151,39,Europe,Spain,Loeches,40.3833,-3.4
+85.60.237.93,39,Europe,Spain,Ourense,42.3313,-7.8627
+180.76.5.39,39,Asia,China,Beijing,39.9289,116.3883
+194.179.55.199,39,Europe,Spain,Madrid,40.4165,-3.7026
+180.76.6.66,39,Asia,China,Beijing,39.9289,116.3883
+81.45.55.240,39,Europe,Spain,Mislata,39.4752,-0.4183
+88.8.201.76,39,Europe,Spain,Plasencia,40.0312,-6.0884
+46.26.46.212,39,Europe,Spain,Humanes de Madrid,40.2504,-3.8306
+212.79.145.77,39,Europe,Spain,Seville,37.3824,-5.9761
+69.171.248.2,39,North America,United States,,37.751,-97.822
+81.35.208.121,39,Europe,Spain,Madrid,40.4165,-3.7026
+84.123.179.37,39,Europe,Spain,San Fernando,36.4759,-6.1982
+180.76.5.25,39,Asia,China,Beijing,39.9289,116.3883
+85.251.70.176,39,Europe,Spain,Huesca,42.1362,-0.4087
+180.76.5.177,39,Asia,China,Beijing,39.9289,116.3883
+181.196.179.2,39,South America,Ecuador,Guayaquil,-2.1667,-79.9
+180.76.5.94,39,Asia,China,Beijing,39.9289,116.3883
+180.76.6.155,39,Asia,China,Beijing,39.9289,116.3883
+81.45.52.228,39,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.6.43,39,Asia,China,Beijing,39.9289,116.3883
+180.76.5.22,39,Asia,China,Beijing,39.9289,116.3883
+180.76.5.151,39,Asia,China,Beijing,39.9289,116.3883
+201.141.122.37,39,North America,Mexico,Mexico City,19.4357,-99.1439
+157.55.33.21,39,North America,United States,Redmond,47.6801,-122.1206
+212.142.204.251,39,Europe,Spain,Bilbao,43.2609,-2.9388
+180.76.5.157,39,Asia,China,Beijing,39.9289,116.3883
+180.76.5.27,39,Asia,China,Beijing,39.9289,116.3883
+195.53.125.133,39,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+180.76.5.58,39,Asia,China,Beijing,39.9289,116.3883
+188.86.106.161,38,Europe,Spain,Málaga,36.7202,-4.4203
+87.111.241.81,38,Europe,Spain,Terrassa,41.5667,2.0167
+81.45.53.80,38,Europe,Spain,Mislata,39.4752,-0.4183
+213.143.61.22,38,Europe,Spain,Seville,37.3824,-5.9761
+31.4.193.40,38,Europe,Spain,Seville,37.3824,-5.9761
+180.76.6.225,38,Asia,China,Beijing,39.9289,116.3883
+83.52.142.253,38,Europe,Spain,Barcelona,41.3888,2.159
+79.146.101.156,38,Europe,Spain,Ourense,42.3313,-7.8627
+77.7.126.108,38,Europe,Germany,Ingolstadt,48.7667,11.4147
+79.146.103.124,38,Europe,Spain,Ourense,42.3313,-7.8627
+181.235.206.45,38,South America,Colombia,,4.5981,-74.0758
+85.56.28.222,38,Europe,Spain,Puerto Real,36.5282,-6.1901
+157.56.92.156,38,North America,United States,Redmond,47.6801,-122.1206
+83.213.184.48,38,Europe,Spain,Vitoria-Gasteiz,42.85,-2.6727
+88.14.98.68,38,Europe,Spain,,40.4172,-3.684
+180.76.5.57,38,Asia,China,Beijing,39.9289,116.3883
+77.210.156.96,38,Europe,Spain,Barcelona,41.3984,2.1741
+31.4.195.36,38,Europe,Spain,Seville,37.3824,-5.9761
+81.202.246.161,38,Europe,Spain,L'Eliana,39.5667,-0.5333
+46.27.201.213,38,Europe,Spain,Sant Just Desvern,41.386,2.0757
+81.45.52.165,38,Europe,Spain,Mislata,39.4752,-0.4183
+81.45.53.181,38,Europe,Spain,Mislata,39.4752,-0.4183
+83.55.138.52,38,Europe,Spain,Rubí,41.4923,2.033
+83.61.78.120,38,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+180.76.6.233,38,Asia,China,Beijing,39.9289,116.3883
+84.232.113.122,38,Europe,Spain,Seville,37.3824,-5.9761
+180.76.5.148,38,Asia,China,Beijing,39.9289,116.3883
+83.39.131.123,38,Europe,Spain,Morana,42.55,-8.5833
+81.45.52.181,38,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.6.45,38,Asia,China,Beijing,39.9289,116.3883
+95.122.191.67,38,Europe,Spain,Madrid,40.5578,-3.8917
+88.23.70.19,38,Europe,Spain,Rianxo,42.6498,-8.8176
+195.55.122.82,38,Europe,Spain,,40.4172,-3.684
+81.45.55.3,38,Europe,Spain,Mislata,39.4752,-0.4183
+2.139.225.57,38,Europe,Spain,Badalona,41.4471,2.2448
+82.130.171.124,38,Europe,Spain,Bilbao,43.2627,-2.9253
+46.218.182.2,38,Europe,France,Montreuil,48.8642,2.4432
+77.231.118.89,38,Europe,Spain,Ribarroja del Turia,39.55,-0.5667
+81.45.52.224,38,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.6.156,38,Asia,China,Beijing,39.9289,116.3883
+2.137.47.70,38,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+148.245.241.118,38,North America,Mexico,San Pedro Garza Garcia,25.6667,-100.4
+81.45.53.18,38,Europe,Spain,Mislata,39.4752,-0.4183
+186.74.154.138,38,North America,Panama,Panama City,8.9936,-79.5197
+81.45.52.88,38,Europe,Spain,Mislata,39.4752,-0.4183
+81.45.55.89,38,Europe,Spain,Mislata,39.4752,-0.4183
+81.45.55.205,38,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.5.62,38,Asia,China,Beijing,39.9289,116.3883
+180.76.6.144,38,Asia,China,Beijing,39.9289,116.3883
+95.127.247.217,38,Europe,Spain,,40.4172,-3.684
+201.200.111.98,38,North America,Costa Rica,,10.0,-84.0
+81.44.116.67,38,Europe,Spain,Atogo,28.0598,-16.5882
+217.29.96.144,38,Europe,Spain,El Viso del Alcor,37.3911,-5.7199
+31.4.196.205,38,Europe,Spain,Seville,37.3824,-5.9761
+80.254.158.220,38,Europe,United Kingdom,,51.4964,-0.1224
+83.37.97.141,38,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+83.61.74.86,38,Europe,Spain,Ventas de Zafarraya,36.9581,-4.1214
+95.18.46.3,38,Europe,Spain,Mancha Real,37.7863,-3.6123
+201.255.241.6,38,South America,Argentina,Quilmes,-34.7203,-58.2694
+81.45.52.48,38,Europe,Spain,Mislata,39.4752,-0.4183
+212.142.206.209,38,Europe,Spain,Zarautz,43.2844,-2.1699
+186.188.255.16,38,North America,Panama,Panama City,8.9936,-79.5197
+31.4.176.158,38,Europe,Spain,Madrid,40.4165,-3.7026
+81.45.52.41,38,Europe,Spain,Mislata,39.4752,-0.4183
+80.30.252.245,38,Europe,Spain,Pozuelo de Alarcón,40.4329,-3.8134
+81.45.55.80,38,Europe,Spain,Mislata,39.4752,-0.4183
+92.57.21.129,38,Europe,Spain,Terrassa,41.5667,2.0167
+81.45.52.22,38,Europe,Spain,Mislata,39.4752,-0.4183
+2.139.145.206,38,Europe,Spain,Sant Sadurni d'Anoia,41.4167,1.7833
+190.0.23.203,38,South America,Colombia,Medellín,6.2518,-75.5636
+213.143.49.51,38,Europe,Spain,Barcelona,41.3984,2.1741
+195.57.42.1,38,Europe,Spain,,40.4172,-3.684
+79.153.241.109,38,Europe,Spain,Badajoz,38.8779,-6.9706
+180.76.5.188,38,Asia,China,Beijing,39.9289,116.3883
+87.217.73.154,38,Europe,Spain,Isla Cristina,37.2,-7.3167
+81.45.55.188,38,Europe,Spain,Mislata,39.4752,-0.4183
+79.154.3.44,38,Europe,Spain,Málaga,36.7202,-4.4203
+81.45.52.27,38,Europe,Spain,Mislata,39.4752,-0.4183
+188.85.143.18,38,Europe,Spain,Alicante,38.3462,-0.4877
+180.76.5.71,38,Asia,China,Beijing,39.9289,116.3883
+62.42.118.227,38,Europe,Spain,Torrelavega,43.3494,-4.0479
+89.129.111.153,38,Europe,Spain,Seville,37.3824,-5.9761
+12.145.193.9,38,North America,United States,Fort Lauderdale,26.1143,-80.384
+81.45.55.91,38,Europe,Spain,Mislata,39.4752,-0.4183
+84.127.145.60,38,Europe,Spain,Santander,43.4647,-3.8044000000000002
+180.76.5.66,38,Asia,China,Beijing,39.9289,116.3883
+180.76.5.59,38,Asia,China,Beijing,39.9289,116.3883
+180.76.5.144,38,Asia,China,Beijing,39.9289,116.3883
+213.143.49.41,38,Europe,Spain,Barcelona,41.3984,2.1741
+92.40.250.88,38,Europe,United Kingdom,London,51.5142,-0.0931
+180.76.5.221,38,Asia,China,Beijing,39.9289,116.3883
+188.119.198.23,38,Europe,Spain,Torremolinos,36.6203,-4.4998000000000005
+180.76.5.167,38,Asia,China,Beijing,39.9289,116.3883
+187.133.219.242,38,North America,Mexico,Juan Aldama,24.285,-103.3769
+80.30.108.75,38,Europe,Spain,Las Palmas de Gran Canaria,28.0944,-15.4591
+81.45.53.186,38,Europe,Spain,Mislata,39.4752,-0.4183
+81.45.52.135,38,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.5.214,37,Asia,China,Beijing,39.9289,116.3883
+188.86.12.233,37,Europe,Spain,Finestrat,38.5674,-0.2124
+77.224.58.135,37,Europe,Spain,Villa del Rio,37.9811,-4.29
+31.4.198.76,37,Europe,Spain,Seville,37.3824,-5.9761
+95.20.95.124,37,Europe,Spain,Arevalo,41.0626,-4.7204
+180.76.6.133,37,Asia,China,Beijing,39.9289,116.3883
+194.224.22.9,37,Europe,Spain,,40.4172,-3.684
+65.55.55.229,37,North America,United States,Redmond,47.6801,-122.1206
+46.193.166.127,37,Europe,France,Paris,48.8628,2.3292
+163.247.46.219,37,South America,Chile,Santiago,-33.45,-70.6667
+180.76.5.77,37,Asia,China,Beijing,39.9289,116.3883
+186.15.214.204,37,North America,Costa Rica,Alajuela,10.0241,-84.2061
+157.55.32.87,37,North America,United States,Redmond,47.6801,-122.1206
+84.78.142.200,37,Europe,Spain,Tarragona,41.1167,1.25
+180.76.6.150,37,Asia,China,Beijing,39.9289,116.3883
+79.155.251.65,37,Europe,Spain,,42.75,-1.6667
+180.76.6.50,37,Asia,China,Beijing,39.9289,116.3883
+31.4.176.205,37,Europe,Spain,Madrid,40.4165,-3.7026
+62.116.59.9,37,Europe,Austria,St Johann im Pongau,47.35,13.2
+213.143.58.130,37,Europe,Spain,Bilbao,43.2609,-2.9388
+88.8.167.139,37,Europe,Spain,Puigcerdà,42.4316,1.9282
+84.126.218.198,37,Europe,Spain,Alaquas,39.4557,-0.461
+157.56.229.184,37,North America,United States,Redmond,47.6801,-122.1206
+217.127.176.170,37,Europe,Spain,Pamplona,42.8141,-1.6412
+180.76.5.201,37,Asia,China,Beijing,39.9289,116.3883
+80.34.64.158,37,Europe,Spain,Vacarisses,41.6,1.9167
+180.76.6.55,37,Asia,China,Beijing,39.9289,116.3883
+31.4.195.39,36,Europe,Spain,Seville,37.3824,-5.9761
+180.76.6.213,36,Asia,China,Beijing,39.9289,116.3883
+180.76.6.44,36,Asia,China,Beijing,39.9289,116.3883
+180.76.5.118,36,Asia,China,Beijing,39.9289,116.3883
+193.150.120.33,36,,,,,
+144.76.95.231,36,Europe,Germany,,51.2993,9.491
+180.76.6.60,36,Asia,China,Beijing,39.9289,116.3883
+180.76.5.147,36,Asia,China,Beijing,39.9289,116.3883
+180.76.5.20,36,Asia,China,Beijing,39.9289,116.3883
+180.76.5.175,36,Asia,China,Beijing,39.9289,116.3883
+181.114.123.160,36,South America,Bolivia,La Paz,-16.5,-68.15
+180.76.6.28,36,Asia,China,Beijing,39.9289,116.3883
+180.76.5.30,36,Asia,China,Beijing,39.9289,116.3883
+180.76.5.195,36,Asia,China,Beijing,39.9289,116.3883
+80.30.71.64,35,Europe,Spain,Murcia,37.987,-1.13
+180.76.5.172,35,Asia,China,Beijing,39.9289,116.3883
+180.76.5.213,35,Asia,China,Beijing,39.9289,116.3883
+180.76.5.98,35,Asia,China,Beijing,39.9289,116.3883
+180.76.5.169,35,Asia,China,Beijing,39.9289,116.3883
+180.76.5.196,35,Asia,China,Beijing,39.9289,116.3883
+180.76.6.48,35,Asia,China,Beijing,39.9289,116.3883
+180.76.5.198,35,Asia,China,Beijing,39.9289,116.3883
+180.76.5.204,35,Asia,China,Beijing,39.9289,116.3883
+180.76.5.197,35,Asia,China,Beijing,39.9289,116.3883
+69.171.248.0,35,North America,United States,,37.751,-97.822
+81.38.21.195,35,Europe,Spain,Las Rozas de Madrid,40.4929,-3.8737
+217.111.219.237,35,Europe,Spain,,43.3666,-8.4068
+180.76.5.96,35,Asia,China,Beijing,39.9289,116.3883
+180.76.6.52,35,Asia,China,Beijing,39.9289,116.3883
+180.76.5.19,35,Asia,China,Beijing,39.9289,116.3883
+180.76.5.28,35,Asia,China,Beijing,39.9289,116.3883
+217.14.47.20,35,Europe,Spain,Barcelona,41.3888,2.159
+157.56.92.147,34,North America,United States,Redmond,47.6801,-122.1206
+173.252.103.7,34,North America,United States,Atherton,37.4498,-122.2004
+157.55.34.173,34,North America,United States,Redmond,47.6801,-122.1206
+190.98.216.76,34,South America,Chile,Rancagua,-34.1708,-70.7444
+180.76.5.145,34,Asia,China,Beijing,39.9289,116.3883
+195.57.92.155,34,Europe,Spain,,40.4172,-3.684
+190.199.209.160,34,South America,Venezuela,Valencia,10.1806,-68.0039
+179.58.95.44,34,South America,Bolivia,La Paz,-16.5,-68.15
+180.76.6.54,34,Asia,China,Beijing,39.9289,116.3883
+62.47.205.165,34,Europe,Austria,Haigermoos,48.0333,12.8833
+12.14.13.130,34,North America,United States,Dulles,39.0376,-77.4158
+180.76.5.100,34,Asia,China,Beijing,39.9289,116.3883
+180.76.5.166,34,Asia,China,Beijing,39.9289,116.3883
+180.76.6.134,33,Asia,China,Beijing,39.9289,116.3883
+31.4.185.57,33,Europe,Spain,Barcelona,41.3888,2.159
+2.137.213.20,33,Europe,Spain,Madrid,40.4165,-3.7026
+83.46.27.9,33,Europe,Spain,Aiguamurcia,41.3333,1.3667
+92.56.29.148,33,Europe,Spain,Puerto Real,36.5282,-6.1901
+180.76.6.42,33,Asia,China,Beijing,39.9289,116.3883
+180.76.6.40,33,Asia,China,Beijing,39.9289,116.3883
+180.76.5.76,33,Asia,China,Beijing,39.9289,116.3883
+180.76.6.36,33,Asia,China,Beijing,39.9289,116.3883
+81.45.53.82,33,Europe,Spain,Mislata,39.4752,-0.4183
+69.171.248.1,33,North America,United States,,37.751,-97.822
+41.98.4.88,33,Africa,Algeria,Oran,35.6911,-0.6417
+180.76.5.222,33,Asia,China,Beijing,39.9289,116.3883
+180.76.6.49,33,Asia,China,Beijing,39.9289,116.3883
+180.76.5.154,33,Asia,China,Beijing,39.9289,116.3883
+180.76.5.67,33,Asia,China,Beijing,39.9289,116.3883
+81.45.53.81,33,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.6.154,33,Asia,China,Beijing,39.9289,116.3883
+180.76.6.143,33,Asia,China,Beijing,39.9289,116.3883
+180.76.5.80,33,Asia,China,Beijing,39.9289,116.3883
+180.76.6.57,33,Asia,China,Beijing,39.9289,116.3883
+89.128.55.147,33,Europe,Spain,Cangas do Morrazo,42.2641,-8.7846
+101.199.108.59,32,Asia,China,Beijing,39.9289,116.3883
+157.55.32.75,32,North America,United States,Redmond,47.6801,-122.1206
+69.171.248.6,32,North America,United States,,37.751,-97.822
+180.76.5.23,32,Asia,China,Beijing,39.9289,116.3883
+173.252.103.3,32,North America,United States,Atherton,37.4498,-122.2004
+180.76.6.153,32,Asia,China,Beijing,39.9289,116.3883
+180.76.5.75,32,Asia,China,Beijing,39.9289,116.3883
+180.76.6.14,32,Asia,China,Beijing,39.9289,116.3883
+199.30.20.235,32,North America,United States,Boydton,36.6648,-78.3715
+180.76.5.74,32,Asia,China,Beijing,39.9289,116.3883
+180.76.6.51,32,Asia,China,Beijing,39.9289,116.3883
+180.76.5.61,32,Asia,China,Beijing,39.9289,116.3883
+180.76.5.173,32,Asia,China,Beijing,39.9289,116.3883
+65.55.219.133,32,North America,United States,Boydton,36.6648,-78.3715
+172.56.11.113,32,North America,United States,Detroit,42.4268,-83.1935
+77.224.220.229,32,Europe,Spain,Rossello,41.6833,0.6
+180.76.6.232,32,Asia,China,Beijing,39.9289,116.3883
+180.76.5.17,32,Asia,China,Beijing,39.9289,116.3883
+180.76.5.70,31,Asia,China,Beijing,39.9289,116.3883
+31.4.236.58,31,Europe,Spain,Valencia,39.4667,-0.3667
+65.55.219.147,31,North America,United States,Boydton,36.6648,-78.3715
+180.76.6.145,31,Asia,China,Beijing,39.9289,116.3883
+157.55.33.78,31,North America,United States,Redmond,47.6801,-122.1206
+180.76.5.97,31,Asia,China,Beijing,39.9289,116.3883
+180.76.5.64,31,Asia,China,Beijing,39.9289,116.3883
+62.174.23.75,31,Europe,Spain,,40.4172,-3.684
+140.206.129.76,31,Asia,China,Shanghai,31.0456,121.3997
+180.76.5.114,31,Asia,China,Beijing,39.9289,116.3883
+84.78.142.178,31,Europe,Spain,Tarragona,41.1167,1.25
+180.76.5.200,31,Asia,China,Beijing,39.9289,116.3883
+181.67.176.253,31,South America,Peru,Lima,-12.05,-77.05
+81.45.53.191,31,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.5.220,31,Asia,China,Beijing,39.9289,116.3883
+180.76.6.63,31,Asia,China,Beijing,39.9289,116.3883
+83.39.56.203,31,Europe,Spain,Málaga,36.7267,-4.4348
+180.76.5.152,31,Asia,China,Beijing,39.9289,116.3883
+2.136.37.89,31,Europe,Spain,Denia,38.8413,0.108
+131.253.24.26,31,North America,United States,,47.6062,-122.3321
+173.252.103.2,31,North America,United States,Atherton,37.4498,-122.2004
+180.76.6.61,31,Asia,China,Beijing,39.9289,116.3883
+180.76.6.152,31,Asia,China,Beijing,39.9289,116.3883
+173.252.120.118,30,North America,United States,Menlo Park,37.459,-122.1781
+180.76.5.99,30,Asia,China,Beijing,39.9289,116.3883
+180.76.6.29,30,Asia,China,Beijing,39.9289,116.3883
+180.76.6.158,30,Asia,China,Beijing,39.9289,116.3883
+157.56.92.173,30,North America,United States,Redmond,47.6801,-122.1206
+180.76.5.202,30,Asia,China,Beijing,39.9289,116.3883
+195.61.140.5,30,Europe,Belgium,Brussels,50.8333,4.3333
+180.76.6.64,30,Asia,China,Beijing,39.9289,116.3883
+180.76.6.137,30,Asia,China,Beijing,39.9289,116.3883
+80.29.15.192,30,Europe,Spain,Jaén,37.7692,-3.7903000000000002
+180.76.6.132,30,Asia,China,Beijing,39.9289,116.3883
+81.45.52.199,30,Europe,Spain,Mislata,39.4752,-0.4183
+95.62.63.204,29,Europe,Spain,Pinto,40.2415,-3.7
+176.10.66.57,29,Europe,Spain,Badajoz,38.8779,-6.9706
+173.252.120.114,29,North America,United States,Menlo Park,37.459,-122.1781
+199.30.16.128,29,North America,United States,,47.6062,-122.3321
+180.76.5.26,29,Asia,China,Beijing,39.9289,116.3883
+180.76.5.150,29,Asia,China,Beijing,39.9289,116.3883
+180.76.6.47,29,Asia,China,Beijing,39.9289,116.3883
+81.45.53.118,29,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.6.157,29,Asia,China,Beijing,39.9289,116.3883
+69.171.248.4,29,North America,United States,,37.751,-97.822
+81.45.52.110,29,Europe,Spain,Mislata,39.4752,-0.4183
+180.76.5.187,29,Asia,China,Beijing,39.9289,116.3883
+194.98.70.135,28,Europe,France,Fonbeauzard,43.6783,1.4344000000000001
+180.76.6.17,28,Asia,China,Beijing,39.9289,116.3883
+180.76.5.168,28,Asia,China,Beijing,39.9289,116.3883
+180.76.5.194,28,Asia,China,Beijing,39.9289,116.3883
+180.76.5.72,28,Asia,China,Beijing,39.9289,116.3883
+190.242.102.98,28,North America,Dominican Republic,Santo Domingo,18.4667,-69.9
+180.76.5.176,28,Asia,China,Beijing,39.9289,116.3883
+173.252.120.119,28,North America,United States,Menlo Park,37.459,-122.1781
+173.252.103.1,28,North America,United States,Atherton,37.4498,-122.2004
+85.85.179.185,28,Europe,Spain,Elorrio,43.1292,-2.5406
+173.252.120.115,28,North America,United States,Menlo Park,37.459,-122.1781
+173.252.120.117,28,North America,United States,Menlo Park,37.459,-122.1781
+180.76.6.159,28,Asia,China,Beijing,39.9289,116.3883
+81.45.52.97,27,Europe,Spain,Mislata,39.4752,-0.4183
+173.252.120.113,27,North America,United States,Menlo Park,37.459,-122.1781
+209.19.180.69,27,North America,United States,Skiatook,36.4218,-96.0543
+85.50.75.54,27,Europe,Spain,Vilanova i la Geltrú,41.2239,1.7250999999999999
+88.10.1.109,27,Europe,Spain,,40.4172,-3.684
+69.171.233.114,27,North America,United States,,37.751,-97.822
+180.76.6.56,27,Asia,China,Beijing,39.9289,116.3883
+69.171.248.3,27,North America,United States,,37.751,-97.822
+180.76.6.131,27,Asia,China,Beijing,39.9289,116.3883
+180.76.5.191,26,Asia,China,Beijing,39.9289,116.3883
+95.62.55.142,26,Europe,Spain,Jerez de la Frontera,36.6865,-6.1361
+180.76.6.230,26,Asia,China,Beijing,39.9289,116.3883
+85.48.134.242,26,Europe,Spain,Socuellamos,39.2858,-2.7921
+213.192.208.181,26,Europe,Spain,,40.4172,-3.684
+180.76.5.119,26,Asia,China,Beijing,39.9289,116.3883
+157.55.35.43,26,North America,United States,Redmond,47.6801,-122.1206
+180.76.6.140,26,Asia,China,Beijing,39.9289,116.3883
+69.171.237.8,26,North America,United States,,37.751,-97.822
+180.76.5.73,26,Asia,China,Beijing,39.9289,116.3883
+199.30.20.203,26,North America,United States,Boydton,36.6648,-78.3715
+180.76.5.171,26,Asia,China,Beijing,39.9289,116.3883
+66.220.158.112,26,North America,United States,Menlo Park,37.459,-122.1781
+69.171.237.11,26,North America,United States,,37.751,-97.822
+180.76.5.65,26,Asia,China,Beijing,39.9289,116.3883
+157.55.32.149,26,North America,United States,Redmond,47.6801,-122.1206
+69.171.237.10,25,North America,United States,,37.751,-97.822
+195.53.212.39,25,Europe,Spain,Alcalá de Henares,40.482,-3.36
+148.251.23.114,25,Europe,Germany,,51.2993,9.491
+157.56.92.151,25,North America,United States,Redmond,47.6801,-122.1206
+69.171.233.116,25,North America,United States,,37.751,-97.822
+69.171.233.117,25,North America,United States,,37.751,-97.822
+173.252.120.112,25,North America,United States,Menlo Park,37.459,-122.1781
+190.75.70.247,25,South America,Venezuela,Caracas,10.5,-66.9167
+180.76.5.81,25,Asia,China,Beijing,39.9289,116.3883
+180.76.6.147,25,Asia,China,Beijing,39.9289,116.3883
+173.252.103.4,24,North America,United States,Atherton,37.4498,-122.2004
+66.249.64.223,24,North America,United States,Mountain View,37.419200000000004,-122.0574
+180.76.5.146,24,Asia,China,Beijing,39.9289,116.3883
+199.30.20.216,24,North America,United States,Boydton,36.6648,-78.3715
+173.252.102.114,24,North America,United States,Atherton,37.4498,-122.2004
+173.252.103.6,24,North America,United States,Atherton,37.4498,-122.2004
+173.252.103.5,24,North America,United States,Atherton,37.4498,-122.2004
+69.171.233.112,23,North America,United States,,37.751,-97.822
+83.61.143.67,23,Europe,Spain,Barbate,36.1924,-5.9219
+180.76.6.142,23,Asia,China,Beijing,39.9289,116.3883
+157.55.33.23,23,North America,United States,Redmond,47.6801,-122.1206
+173.252.120.116,23,North America,United States,Menlo Park,37.459,-122.1781
+173.252.103.0,23,North America,United States,Atherton,37.4498,-122.2004
+93.186.23.116,23,Europe,United Kingdom,,51.4964,-0.1224
+157.55.33.122,23,North America,United States,Redmond,47.6801,-122.1206
+31.4.198.170,23,Europe,Spain,Seville,37.3824,-5.9761
+62.175.138.102,23,Europe,Spain,Seville,37.3824,-5.9761
+81.45.52.46,23,Europe,Spain,Mislata,39.4752,-0.4183
+66.249.64.228,23,North America,United States,Mountain View,37.419200000000004,-122.0574
+77.230.62.118,23,Europe,Spain,A Coruña,43.3666,-8.4068
+216.152.251.72,22,North America,United States,Santa Monica,34.0256,-118.4716
+69.171.248.7,22,North America,United States,,37.751,-97.822
+69.171.237.13,22,North America,United States,,37.751,-97.822
+5.8.190.122,22,Europe,Spain,Sant Lluis,39.8526,4.2594
+180.76.5.116,22,Asia,China,Beijing,39.9289,116.3883
+157.55.34.35,22,North America,United States,Redmond,47.6801,-122.1206
+69.171.237.15,22,North America,United States,,37.751,-97.822
+69.171.233.113,22,North America,United States,,37.751,-97.822
+62.82.224.122,22,Europe,Spain,Picanya,39.4333,-0.4333
+80.27.103.170,22,Europe,Spain,,40.4172,-3.684
+202.21.106.101,22,Asia,Mongolia,Bayanhongor,46.1944,100.7181
+77.210.100.161,21,Europe,Spain,San Sebastian,43.3128,-1.975
+199.30.25.135,21,North America,United States,,47.6062,-122.3321
+213.98.133.235,21,Europe,Spain,Sant Feliu de Guíxols,41.7833,3.0333
+66.220.158.117,21,North America,United States,Menlo Park,37.459,-122.1781
+81.184.173.195,21,Europe,Spain,Sabadell,41.5433,2.1094
+83.40.187.142,21,Europe,Spain,Paracuellos de Jarama,40.5035,-3.5278
+81.45.53.254,21,Europe,Spain,Mislata,39.4752,-0.4183
+90.170.160.239,21,Europe,Spain,Marchena,37.329,-5.4168
+134.3.254.24,21,Europe,Germany,Pforzheim,48.8919,8.6985
+189.190.54.89,21,North America,Mexico,Puebla City,19.05,-98.2
+213.60.69.186,21,Europe,Spain,Santiago de Compostela,42.8805,-8.5457
+198.199.64.129,21,North America,United States,North Bergen,40.7904,-74.0246
+186.28.57.228,21,South America,Colombia,Bogotá,4.6439,-74.092
+190.189.31.180,21,South America,Argentina,San Antonio de Arredondo,-31.4833,-64.5167
+66.249.64.233,21,North America,United States,Mountain View,37.419200000000004,-122.0574
+201.219.126.11,21,South America,Colombia,Bogotá,4.6492,-74.0628
+200.46.114.194,21,North America,Panama,Panama City,8.9936,-79.5197
+198.199.66.41,21,North America,United States,North Bergen,40.7904,-74.0246
+125.206.34.195,21,Asia,Japan,Tokyo,35.685,139.7514
+88.16.245.229,21,Europe,Spain,Mieres,43.25,-5.7667
+88.24.50.157,21,Europe,Spain,Quart d'Onyar,41.9405,2.8407999999999998
+190.88.176.120,21,North America,Curaçao,Willemstad,12.1,-68.9167
+157.55.35.96,21,North America,United States,Redmond,47.6801,-122.1206
+192.81.215.7,20,North America,United States,North Bergen,40.7904,-74.0246
+218.30.103.53,20,Asia,China,Beijing,39.9289,116.3883
+173.252.102.115,20,North America,United States,Atherton,37.4498,-122.2004
+87.219.152.35,20,Europe,Spain,La Puebla de Montalban,39.863,-4.3592
+199.30.25.45,20,North America,United States,,47.6062,-122.3321
+198.211.105.73,20,North America,United States,North Bergen,40.7904,-74.0246
+213.143.49.27,20,Europe,Spain,Barcelona,41.3984,2.1741
+69.171.237.14,20,North America,United States,,37.751,-97.822
+69.171.233.119,20,North America,United States,,37.751,-97.822
+157.55.33.39,20,North America,United States,Redmond,47.6801,-122.1206
+79.156.61.81,20,Europe,Spain,Madrid,40.4165,-3.7026
+144.76.2.2,20,Europe,Germany,,51.2993,9.491
+24.244.144.3,20,North America,Bahamas,Freeport,26.5333,-78.7
+69.171.233.118,20,North America,United States,,37.751,-97.822
+199.30.24.118,20,North America,United States,,47.6062,-122.3321
+84.120.36.56,20,Europe,Spain,San Vicent del Raspeig,38.3964,-0.5255
+173.252.77.117,20,North America,United States,Menlo Park,37.459,-122.1781
+193.162.26.10,20,Europe,Denmark,,55.7123,12.0564
+190.105.170.194,20,North America,Panama,Panama City,8.9936,-79.5197
+88.1.80.140,19,Europe,Spain,Rubí,41.4923,2.033
+199.30.25.205,19,North America,United States,,47.6062,-122.3321
+46.222.169.25,19,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+157.55.33.125,19,North America,United States,Redmond,47.6801,-122.1206
+157.56.92.149,19,North America,United States,Redmond,47.6801,-122.1206
+46.222.103.220,19,Europe,Spain,Gijón,43.5357,-5.6615
+208.115.111.71,19,North America,United States,Everett,47.8985,-122.2589
+144.76.176.17,19,Europe,Germany,,51.2993,9.491
+31.4.208.153,19,Europe,Spain,Valencia,39.4667,-0.3667
+195.57.139.13,19,Europe,Spain,Torre del Campo,37.7705,-3.8973
+69.171.237.9,19,North America,United States,,37.751,-97.822
+77.21.21.214,19,Europe,Germany,Barsinghausen,52.3,9.45
+157.55.33.79,18,North America,United States,Redmond,47.6801,-122.1206
+157.56.93.71,18,North America,United States,Redmond,47.6801,-122.1206
+173.252.74.112,18,North America,United States,Menlo Park,37.459,-122.1781
+180.76.6.151,18,Asia,China,Beijing,39.9289,116.3883
+81.45.52.66,18,Europe,Spain,Mislata,39.4752,-0.4183
+66.220.158.114,18,North America,United States,Menlo Park,37.459,-122.1781
+66.220.158.115,18,North America,United States,Menlo Park,37.459,-122.1781
+83.36.139.37,18,Europe,Spain,Barcelona,41.3984,2.1741
+157.55.33.124,18,North America,United States,Redmond,47.6801,-122.1206
+94.153.65.49,18,Europe,Ukraine,,50.45,30.5233
+173.252.77.113,18,North America,United States,Menlo Park,37.459,-122.1781
+66.220.158.113,17,North America,United States,Menlo Park,37.459,-122.1781
+173.252.77.118,17,North America,United States,Menlo Park,37.459,-122.1781
+157.55.36.51,17,North America,United States,Redmond,47.6801,-122.1206
+65.55.219.151,17,North America,United States,Boydton,36.6648,-78.3715
+157.55.32.102,17,North America,United States,Redmond,47.6801,-122.1206
+69.171.233.115,17,North America,United States,,37.751,-97.822
+209.42.58.122,17,North America,United States,Fort Lauderdale,26.1143,-80.384
+173.228.226.134,17,North America,Puerto Rico,Boqueron,17.9919,-67.1588
+173.252.102.117,17,North America,United States,Atherton,37.4498,-122.2004
+157.55.33.88,17,North America,United States,Redmond,47.6801,-122.1206
+157.55.32.58,17,North America,United States,Redmond,47.6801,-122.1206
+157.55.32.49,17,North America,United States,Redmond,47.6801,-122.1206
+81.45.52.39,17,Europe,Spain,Mislata,39.4752,-0.4183
+66.220.158.119,17,North America,United States,Menlo Park,37.459,-122.1781
+85.84.158.34,16,Europe,Spain,San Sebastián de La Gomera,28.0916,-17.1133
+157.55.34.101,16,North America,United States,Redmond,47.6801,-122.1206
+157.55.35.88,16,North America,United States,Redmond,47.6801,-122.1206
+119.63.193.194,16,Asia,Japan,Tokyo,35.685,139.7514
+173.252.77.116,16,North America,United States,Menlo Park,37.459,-122.1781
+79.151.20.105,16,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+157.55.33.24,16,North America,United States,Redmond,47.6801,-122.1206
+216.82.251.232,16,North America,United States,,37.751,-97.822
+199.30.24.73,16,North America,United States,,47.6062,-122.3321
+65.55.217.217,16,North America,United States,Boydton,36.6648,-78.3715
+173.252.102.112,16,North America,United States,Atherton,37.4498,-122.2004
+62.174.52.30,16,Europe,Spain,Mostoles,40.3223,-3.865
+199.30.25.209,15,North America,United States,,47.6062,-122.3321
+81.45.52.98,15,Europe,Spain,Mislata,39.4752,-0.4183
+66.249.76.28,15,North America,United States,Mountain View,37.419200000000004,-122.0574
+69.171.229.116,15,North America,United States,,37.751,-97.822
+69.171.229.119,15,North America,United States,,37.751,-97.822
+217.12.28.5,15,Europe,Spain,Seville,37.3824,-5.9761
+192.187.116.234,15,North America,United States,Kansas City,39.1472,-94.5735
+157.55.32.52,15,North America,United States,Redmond,47.6801,-122.1206
+93.186.202.241,15,Europe,Germany,,51.2993,9.491
+119.63.193.132,15,Asia,Japan,Tokyo,35.685,139.7514
+119.63.193.196,15,Asia,Japan,Tokyo,35.685,139.7514
+195.55.66.182,15,Europe,Spain,,40.4172,-3.684
+69.171.229.117,15,North America,United States,,37.751,-97.822
+65.55.24.217,14,North America,United States,Redmond,47.6801,-122.1206
+157.56.229.247,14,North America,United States,Redmond,47.6801,-122.1206
+37.15.168.34,14,Europe,Spain,Girona,41.9844,2.8211
+213.143.51.61,14,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+199.30.25.61,14,North America,United States,,47.6062,-122.3321
+173.252.77.115,14,North America,United States,Menlo Park,37.459,-122.1781
+80.36.142.192,14,Europe,Spain,Cabanillas,42.0325,-1.5259
+199.30.20.215,14,North America,United States,Boydton,36.6648,-78.3715
+173.252.102.119,14,North America,United States,Atherton,37.4498,-122.2004
+199.30.24.30,14,North America,United States,,47.6062,-122.3321
+173.252.77.112,13,North America,United States,Menlo Park,37.459,-122.1781
+69.171.235.118,13,North America,United States,,37.751,-97.822
+69.171.237.12,13,North America,United States,,37.751,-97.822
+65.55.217.245,13,North America,United States,Boydton,36.6648,-78.3715
+173.252.74.117,13,North America,United States,Menlo Park,37.459,-122.1781
+199.30.25.197,13,North America,United States,,47.6062,-122.3321
+157.55.33.107,13,North America,United States,Redmond,47.6801,-122.1206
+178.255.215.76,13,Europe,France,,48.8582,2.3387000000000002
+195.245.193.60,13,Europe,Denmark,Valby,55.6581,12.5241
+173.252.112.114,13,North America,United States,Monticello,41.6558,-74.6868
+157.55.33.103,13,North America,United States,Redmond,47.6801,-122.1206
+178.60.200.142,13,Europe,Spain,Barcelona,41.3984,2.1741
+173.252.112.113,13,North America,United States,Monticello,41.6558,-74.6868
+157.55.33.251,13,North America,United States,Redmond,47.6801,-122.1206
+157.55.33.92,12,North America,United States,Redmond,47.6801,-122.1206
+157.56.92.144,12,North America,United States,Redmond,47.6801,-122.1206
+54.213.139.3,12,North America,United States,Boardman,45.8696,-119.688
+81.39.17.184,12,Europe,Spain,Jarandilla de la Vera,40.1291,-5.6608
+157.55.33.34,12,North America,United States,Redmond,47.6801,-122.1206
+80.27.103.185,12,Europe,Spain,,40.4172,-3.684
+92.249.127.111,12,Europe,Ukraine,Kiev,50.4333,30.5167
+157.55.32.96,12,North America,United States,Redmond,47.6801,-122.1206
+54.213.239.22,12,North America,United States,Boardman,45.8696,-119.688
+37.187.48.112,12,Europe,France,,48.8582,2.3387000000000002
+54.193.116.190,12,North America,United States,San Jose,37.3388,-121.8914
+95.19.142.11,12,Europe,Spain,Sant Pere de Ribes,41.2667,1.7667000000000002
+213.143.58.246,12,Europe,Spain,Bilbao,43.2609,-2.9388
+54.213.180.104,12,North America,United States,Boardman,45.8696,-119.688
+54.193.120.106,12,North America,United States,San Jose,37.3388,-121.8914
+157.55.235.58,12,Europe,Ireland,Dublin,53.3331,-6.2489
+94.153.64.133,12,Europe,Ukraine,,50.45,30.5233
+173.252.74.115,12,North America,United States,Menlo Park,37.459,-122.1781
+81.45.52.102,12,Europe,Spain,Mislata,39.4752,-0.4183
+85.50.90.56,12,Europe,Spain,Lleida,41.6167,0.6222
+54.193.110.219,12,North America,United States,San Jose,37.3388,-121.8914
+125.210.204.242,12,Asia,China,,30.2936,120.1614
+157.55.35.102,12,North America,United States,Redmond,47.6801,-122.1206
+157.55.34.175,12,North America,United States,Redmond,47.6801,-122.1206
+54.193.116.249,12,North America,United States,San Jose,37.3388,-121.8914
+87.217.74.153,12,Europe,Spain,Cartaya,37.2811,-7.1507
+173.252.77.114,11,North America,United States,Menlo Park,37.459,-122.1781
+186.48.59.40,11,South America,Uruguay,Artilleros,-34.3667,-57.5667
+173.252.112.118,11,North America,United States,Monticello,41.6558,-74.6868
+157.55.35.41,11,North America,United States,Redmond,47.6801,-122.1206
+65.55.52.117,11,North America,United States,Redmond,47.6801,-122.1206
+157.56.93.39,11,North America,United States,Redmond,47.6801,-122.1206
+173.252.74.116,11,North America,United States,Menlo Park,37.459,-122.1781
+80.27.103.164,11,Europe,Spain,,40.4172,-3.684
+157.55.33.85,11,North America,United States,Redmond,47.6801,-122.1206
+80.27.103.163,11,Europe,Spain,,40.4172,-3.684
+65.55.52.89,11,North America,United States,Redmond,47.6801,-122.1206
+65.52.104.230,11,North America,United States,Redmond,47.6801,-122.1206
+65.55.217.251,11,North America,United States,Boydton,36.6648,-78.3715
+157.55.32.99,11,North America,United States,Redmond,47.6801,-122.1206
+199.30.24.139,11,North America,United States,,47.6062,-122.3321
+98.137.206.41,11,North America,United States,Sunnyvale,37.4249,-122.0074
+119.63.193.130,11,Asia,Japan,Tokyo,35.685,139.7514
+173.252.102.116,11,North America,United States,Atherton,37.4498,-122.2004
+185.10.104.131,11,Europe,,,47.0,8.0
+173.252.102.113,11,North America,United States,Atherton,37.4498,-122.2004
+37.58.71.199,10,Europe,Netherlands,Amsterdam,52.3556,4.9135
+5.10.83.60,10,Europe,Netherlands,Amsterdam,52.3556,4.9135
+31.4.180.129,10,Europe,Spain,Madrid,40.4165,-3.7026
+93.186.202.198,10,Europe,Germany,,51.2993,9.491
+66.249.76.39,10,North America,United States,Mountain View,37.419200000000004,-122.0574
+185.10.104.130,10,Europe,,,47.0,8.0
+173.252.74.118,10,North America,United States,Menlo Park,37.459,-122.1781
+157.55.35.94,10,North America,United States,Redmond,47.6801,-122.1206
+119.63.193.131,10,Asia,Japan,Tokyo,35.685,139.7514
+199.30.25.19,10,North America,United States,,47.6062,-122.3321
+61.135.190.105,10,Asia,China,Beijing,39.9289,116.3883
+88.10.90.116,10,Europe,Spain,Barcelona,41.3888,2.159
+31.13.97.112,10,Europe,Ireland,,53.3472,-6.2439
+157.55.33.123,10,North America,United States,Redmond,47.6801,-122.1206
+199.30.16.139,10,North America,United States,,47.6062,-122.3321
+94.23.161.188,10,Europe,Germany,Saarbrücken,49.2087,7.0202
+173.252.110.115,10,North America,United States,Menlo Park,37.459,-122.1781
+69.171.229.118,10,North America,United States,,37.751,-97.822
+193.43.252.252,10,Europe,Ukraine,Donetsk,47.9917,37.7759
+119.63.193.195,10,Asia,Japan,Tokyo,35.685,139.7514
+66.220.158.118,10,North America,United States,Menlo Park,37.459,-122.1781
+157.55.32.145,10,North America,United States,Redmond,47.6801,-122.1206
+157.55.33.89,10,North America,United States,Redmond,47.6801,-122.1206
+46.25.156.106,10,Europe,Spain,Madrid,40.4165,-3.7026
+173.252.77.119,10,North America,United States,Menlo Park,37.459,-122.1781
+89.129.207.78,10,Europe,Spain,Madrid,40.4165,-3.7026
+95.18.238.27,10,Europe,Spain,Collado Villalba,40.6351,-4.0049
+193.111.141.44,10,Europe,Germany,Dusseldorf,51.2686,6.8100000000000005
+157.55.35.91,10,North America,United States,Redmond,47.6801,-122.1206
+81.45.53.183,10,Europe,Spain,Mislata,39.4752,-0.4183
+199.30.24.180,10,North America,United States,,47.6062,-122.3321
+162.210.196.98,10,North America,United States,Beltsville,39.0348,-76.9075
+157.56.93.187,10,North America,United States,Redmond,47.6801,-122.1206
+188.86.209.243,10,Europe,Spain,Aldaia,39.4657,-0.4601
+81.45.52.43,10,Europe,Spain,Mislata,39.4752,-0.4183
+157.55.32.161,9,North America,United States,Redmond,47.6801,-122.1206
+173.252.102.118,9,North America,United States,Atherton,37.4498,-122.2004
+131.253.24.3,9,North America,United States,Boydton,36.6648,-78.3715
+199.30.20.214,9,North America,United States,Boydton,36.6648,-78.3715
+173.252.112.117,9,North America,United States,Monticello,41.6558,-74.6868
+89.107.177.19,9,Europe,Spain,Madrid,40.4165,-3.7026
+69.171.235.119,9,North America,United States,,37.751,-97.822
+82.193.99.33,9,Europe,Ukraine,Kiev,50.4333,30.5167
+89.107.177.18,9,Europe,Spain,Madrid,40.4165,-3.7026
+200.88.48.174,9,North America,Dominican Republic,Santo Domingo,18.4667,-69.9
+173.252.112.119,9,North America,United States,Monticello,41.6558,-74.6868
+69.171.235.114,9,North America,United States,,37.751,-97.822
+95.61.7.17,9,Europe,Spain,Laguna de Duero,41.5815,-4.7233
+83.59.95.55,9,Europe,Spain,Lleida,41.6167,0.6222
+31.13.97.119,9,Europe,Ireland,,53.3472,-6.2439
+69.171.229.112,9,North America,United States,,37.751,-97.822
+66.220.158.116,9,North America,United States,Menlo Park,37.459,-122.1781
+81.60.44.216,9,Europe,Spain,,40.4172,-3.684
+173.252.74.114,9,North America,United States,Menlo Park,37.459,-122.1781
+199.30.24.218,9,North America,United States,,47.6062,-122.3321
+173.252.110.118,9,North America,United States,Menlo Park,37.459,-122.1781
+173.252.73.116,9,North America,United States,Menlo Park,37.459,-122.1781
+199.30.25.178,9,North America,United States,,47.6062,-122.3321
+65.55.55.231,9,North America,United States,Redmond,47.6801,-122.1206
+46.118.115.66,9,Europe,Ukraine,Lviv,49.8407,24.0305
+61.135.190.100,9,Asia,China,Beijing,39.9289,116.3883
+5.10.83.66,9,Europe,Netherlands,Amsterdam,52.3556,4.9135
+178.137.167.118,9,Europe,Ukraine,Lviv,49.8407,24.0305
+195.55.14.126,9,Europe,Spain,,40.4172,-3.684
+31.13.97.113,9,Europe,Ireland,,53.3472,-6.2439
+173.252.73.117,8,North America,United States,Menlo Park,37.459,-122.1781
+173.252.73.115,8,North America,United States,Menlo Park,37.459,-122.1781
+93.186.202.239,8,Europe,Germany,,51.2993,9.491
+199.30.24.133,8,North America,United States,,47.6062,-122.3321
+69.171.229.114,8,North America,United States,,37.751,-97.822
+173.252.73.114,8,North America,United States,Menlo Park,37.459,-122.1781
+199.30.20.162,8,North America,United States,Boydton,36.6648,-78.3715
+157.56.93.72,8,North America,United States,Redmond,47.6801,-122.1206
+173.252.73.113,8,North America,United States,Menlo Park,37.459,-122.1781
+65.55.24.238,8,North America,United States,Redmond,47.6801,-122.1206
+220.181.108.75,8,Asia,China,Nanjin,31.7577,121.7405
+173.252.112.116,8,North America,United States,Monticello,41.6558,-74.6868
+173.252.112.112,8,North America,United States,Monticello,41.6558,-74.6868
+185.10.104.132,8,Europe,,,47.0,8.0
+81.45.52.185,8,Europe,Spain,Mislata,39.4752,-0.4183
+157.55.33.50,8,North America,United States,Redmond,47.6801,-122.1206
+185.10.104.196,8,Europe,,,47.0,8.0
+89.107.177.17,8,Europe,Spain,Madrid,40.4165,-3.7026
+5.10.83.14,8,Europe,Netherlands,Amsterdam,52.3556,4.9135
+199.30.20.5,8,North America,United States,Boydton,36.6648,-78.3715
+83.45.91.249,8,Europe,Spain,Sant Sadurni d'Anoia,41.4167,1.7833
+204.12.251.242,8,North America,United States,Kansas City,39.1068,-94.566
+173.252.100.118,8,North America,United States,Atherton,37.4498,-122.2004
+65.55.52.96,8,North America,United States,Redmond,47.6801,-122.1206
+199.30.25.167,8,North America,United States,,47.6062,-122.3321
+173.252.100.117,8,North America,United States,Atherton,37.4498,-122.2004
+195.55.133.108,8,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+93.186.202.197,8,Europe,Germany,,51.2993,9.491
+157.55.35.87,8,North America,United States,Redmond,47.6801,-122.1206
+173.252.112.115,8,North America,United States,Monticello,41.6558,-74.6868
+65.55.217.235,8,North America,United States,Boydton,36.6648,-78.3715
+31.13.97.115,7,Europe,Ireland,,53.3472,-6.2439
+173.252.100.116,7,North America,United States,Atherton,37.4498,-122.2004
+66.249.64.218,7,North America,United States,Mountain View,37.419200000000004,-122.0574
+199.30.20.35,7,North America,United States,Boydton,36.6648,-78.3715
+81.45.53.155,7,Europe,Spain,Mislata,39.4752,-0.4183
+116.8.99.217,7,Asia,China,Nanning,22.8167,108.3167
+173.252.100.114,7,North America,United States,Atherton,37.4498,-122.2004
+173.252.100.119,7,North America,United States,Atherton,37.4498,-122.2004
+157.56.229.187,7,North America,United States,Redmond,47.6801,-122.1206
+89.107.180.75,7,Europe,Spain,Madrid,40.4165,-3.7026
+31.4.187.19,7,Europe,Spain,Zaragoza,41.6561,-0.8773
+157.56.229.186,7,North America,United States,Redmond,47.6801,-122.1206
+173.252.110.114,7,North America,United States,Menlo Park,37.459,-122.1781
+173.252.73.119,7,North America,United States,Menlo Park,37.459,-122.1781
+81.45.52.91,7,Europe,Spain,Mislata,39.4752,-0.4183
+31.4.205.10,7,Europe,Spain,Barcelona,41.3888,2.159
+94.23.164.2,7,Europe,Germany,Saarbrücken,49.2087,7.0202
+212.55.29.253,7,Europe,Spain,San Sebastian,43.3128,-1.975
+157.55.34.104,7,North America,United States,Redmond,47.6801,-122.1206
+94.23.163.182,7,Europe,Germany,Saarbrücken,49.2087,7.0202
+157.55.32.95,7,North America,United States,Redmond,47.6801,-122.1206
+193.111.141.116,7,Europe,Germany,Dusseldorf,51.2686,6.8100000000000005
+69.171.245.119,7,North America,United States,,37.751,-97.822
+199.30.24.136,7,North America,United States,,47.6062,-122.3321
+69.171.235.115,7,North America,United States,,37.751,-97.822
+199.30.25.139,7,North America,United States,,47.6062,-122.3321
+157.55.32.229,7,North America,United States,Redmond,47.6801,-122.1206
+69.171.245.117,7,North America,United States,,37.751,-97.822
+157.55.32.227,7,North America,United States,Redmond,47.6801,-122.1206
+66.220.152.117,7,North America,United States,Menlo Park,37.459,-122.1781
+157.56.93.103,7,North America,United States,Redmond,47.6801,-122.1206
+157.56.122.218,7,Europe,Ireland,Dublin,53.3331,-6.2489
+5.10.83.19,7,Europe,Netherlands,Amsterdam,52.3556,4.9135
+65.55.215.81,7,North America,United States,Redmond,47.6801,-122.1206
+37.132.10.110,7,Europe,Spain,Lugo,43.0099,-7.556
+199.30.20.157,7,North America,United States,Boydton,36.6648,-78.3715
+123.125.71.19,7,Asia,China,Beijing,39.9289,116.3883
+220.181.108.97,7,Asia,China,Nanjin,31.7577,121.7405
+199.30.24.142,7,North America,United States,,47.6062,-122.3321
+157.55.35.93,7,North America,United States,Redmond,47.6801,-122.1206
+157.55.35.106,7,North America,United States,Redmond,47.6801,-122.1206
+199.30.25.94,7,North America,United States,,47.6062,-122.3321
+69.171.235.112,6,North America,United States,,37.751,-97.822
+199.30.20.207,6,North America,United States,Boydton,36.6648,-78.3715
+62.57.72.99,6,Europe,Spain,Barcelona,41.3888,2.159
+178.137.82.209,6,Europe,Ukraine,Lviv,49.8383,24.0232
+69.171.235.116,6,North America,United States,,37.751,-97.822
+69.171.229.115,6,North America,United States,,37.751,-97.822
+178.24.218.88,6,Europe,Germany,Leipzig,51.3674,12.3909
+173.252.100.112,6,North America,United States,Atherton,37.4498,-122.2004
+37.187.26.110,6,Europe,France,,48.8582,2.3387000000000002
+173.252.74.113,6,North America,United States,Menlo Park,37.459,-122.1781
+66.249.79.195,6,North America,United States,Mountain View,37.419200000000004,-122.0574
+46.165.197.142,6,Europe,Germany,Munich,48.1558,11.5409
+157.55.34.174,6,North America,United States,Redmond,47.6801,-122.1206
+124.202.143.250,6,Asia,China,Beijing,39.9289,116.3883
+220.181.108.87,6,Asia,China,Nanjin,31.7577,121.7405
+157.55.35.80,6,North America,United States,Redmond,47.6801,-122.1206
+220.181.108.95,6,Asia,China,Nanjin,31.7577,121.7405
+31.13.97.117,6,Europe,Ireland,,53.3472,-6.2439
+46.118.125.84,6,Europe,Ukraine,Lviv,49.8407,24.0305
+66.249.76.178,6,North America,United States,Mountain View,37.419200000000004,-122.0574
+185.10.104.195,6,Europe,,,47.0,8.0
+123.125.71.34,6,Asia,China,Beijing,39.9289,116.3883
+123.125.71.43,6,Asia,China,Beijing,39.9289,116.3883
+199.30.25.21,6,North America,United States,,47.6062,-122.3321
+31.13.97.114,6,Europe,Ireland,,53.3472,-6.2439
+220.181.108.116,6,Asia,China,Nanjin,31.7577,121.7405
+173.252.110.113,6,North America,United States,Menlo Park,37.459,-122.1781
+199.30.24.79,6,North America,United States,,47.6062,-122.3321
+85.13.148.22,6,Europe,Germany,Friedersdorf,50.85,13.5333
+188.143.232.31,6,Europe,Russia,St Petersburg,59.8944,30.2642
+157.56.93.82,6,North America,United States,Redmond,47.6801,-122.1206
+157.55.230.158,6,Europe,Ireland,Dublin,53.3331,-6.2489
+195.77.63.29,6,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+94.153.64.251,6,Europe,Ukraine,,50.45,30.5233
+79.119.204.31,6,Europe,Romania,Viseu de Sus,47.7167,24.4333
+185.10.104.194,6,Europe,,,47.0,8.0
+5.10.83.29,6,Europe,Netherlands,Amsterdam,52.3556,4.9135
+199.30.24.228,6,North America,United States,,47.6062,-122.3321
+199.30.20.223,6,North America,United States,Boydton,36.6648,-78.3715
+5.165.66.167,6,Europe,Russia,Voronezh,51.6664,39.17
+69.171.245.112,6,North America,United States,,37.751,-97.822
+113.196.128.59,6,Asia,Taiwan,Taipei,25.0478,121.5318
+65.55.215.64,6,North America,United States,Redmond,47.6801,-122.1206
+162.210.196.130,6,North America,United States,Beltsville,39.0348,-76.9075
+189.126.48.62,6,South America,Brazil,Xanxere,-26.8833,-52.3833
+157.55.32.109,6,North America,United States,Redmond,47.6801,-122.1206
+173.252.73.118,6,North America,United States,Menlo Park,37.459,-122.1781
+195.135.250.117,6,Europe,Spain,,40.4172,-3.684
+199.30.25.196,6,North America,United States,,47.6062,-122.3321
+217.174.248.179,6,Europe,United Kingdom,Gloucester,51.8333,-2.25
+173.252.73.112,6,North America,United States,Menlo Park,37.459,-122.1781
+157.55.32.83,5,North America,United States,Redmond,47.6801,-122.1206
+69.171.234.113,5,North America,United States,,37.751,-97.822
+157.55.35.97,5,North America,United States,Redmond,47.6801,-122.1206
+218.30.103.65,5,Asia,China,Beijing,39.9289,116.3883
+173.252.110.117,5,North America,United States,Menlo Park,37.459,-122.1781
+31.13.97.116,5,Europe,Ireland,,53.3472,-6.2439
+198.36.87.81,5,Europe,,,47.0,8.0
+69.171.245.113,5,North America,United States,,37.751,-97.822
+157.55.33.146,5,North America,United States,Redmond,47.6801,-122.1206
+199.30.25.75,5,North America,United States,,47.6062,-122.3321
+157.56.93.94,5,North America,United States,Redmond,47.6801,-122.1206
+31.13.97.118,5,Europe,Ireland,,53.3472,-6.2439
+5.10.83.2,5,Europe,Netherlands,Amsterdam,52.3556,4.9135
+134.249.52.9,5,Europe,Ukraine,Lviv,49.8383,24.0232
+199.30.26.221,5,North America,United States,,47.6062,-122.3321
+157.55.34.181,5,North America,United States,Redmond,47.6801,-122.1206
+66.249.79.236,5,North America,United States,Mountain View,37.419200000000004,-122.0574
+31.4.180.84,5,Europe,Spain,Madrid,40.4165,-3.7026
+188.40.249.83,5,Europe,Germany,,51.2993,9.491
+173.252.110.119,5,North America,United States,Menlo Park,37.459,-122.1781
+66.249.65.3,5,North America,United States,Mountain View,37.419200000000004,-122.0574
+162.210.196.100,5,North America,United States,Beltsville,39.0348,-76.9075
+123.125.71.58,5,Asia,China,Beijing,39.9289,116.3883
+173.252.110.116,5,North America,United States,Menlo Park,37.459,-122.1781
+93.186.23.115,5,Europe,United Kingdom,,51.4964,-0.1224
+88.19.25.77,5,Europe,Spain,Gijón,43.5357,-5.6615
+87.221.54.105,5,Europe,Spain,León,42.6,-5.5703
+157.55.32.28,5,North America,United States,Redmond,47.6801,-122.1206
+66.220.152.115,5,North America,United States,Menlo Park,37.459,-122.1781
+173.252.74.119,5,North America,United States,Menlo Park,37.459,-122.1781
+109.200.159.118,5,Europe,Ukraine,Simferopol,44.9572,34.1108
+157.56.93.148,5,North America,United States,Redmond,47.6801,-122.1206
+66.220.152.113,5,North America,United States,Menlo Park,37.459,-122.1781
+188.165.195.156,5,Europe,France,,48.8582,2.3387000000000002
+213.143.50.214,5,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+217.16.255.159,5,Europe,Spain,Mataró,41.5421,2.4445
+89.107.180.34,5,Europe,Spain,Madrid,40.4165,-3.7026
+94.23.167.218,5,Europe,Germany,Saarbrücken,49.2087,7.0202
+220.181.108.99,5,Asia,China,Nanjin,31.7577,121.7405
+69.171.235.113,5,North America,United States,,37.751,-97.822
+220.181.108.118,5,Asia,China,Nanjin,31.7577,121.7405
+220.181.108.105,5,Asia,China,Nanjin,31.7577,121.7405
+123.125.71.40,5,Asia,China,Beijing,39.9289,116.3883
+157.55.35.100,5,North America,United States,Redmond,47.6801,-122.1206
+199.30.24.188,5,North America,United States,,47.6062,-122.3321
+5.10.83.36,5,Europe,Netherlands,Amsterdam,52.3556,4.9135
+81.45.52.124,5,Europe,Spain,Mislata,39.4752,-0.4183
+195.76.9.187,5,Europe,Spain,,40.4172,-3.684
+66.220.152.116,5,North America,United States,Menlo Park,37.459,-122.1781
+199.30.20.158,4,North America,United States,Boydton,36.6648,-78.3715
+220.181.108.102,4,Asia,China,Nanjin,31.7577,121.7405
+54.80.159.180,4,North America,United States,Ashburn,39.0481,-77.4728
+123.125.71.54,4,Asia,China,Beijing,39.9289,116.3883
+65.55.52.116,4,North America,United States,Redmond,47.6801,-122.1206
+5.10.83.79,4,Europe,Netherlands,Amsterdam,52.3556,4.9135
+199.30.20.21,4,North America,United States,Boydton,36.6648,-78.3715
+157.55.34.100,4,North America,United States,Redmond,47.6801,-122.1206
+109.120.157.179,4,Europe,Russia,,55.7386,37.6068
+123.125.71.35,4,Asia,China,Beijing,39.9289,116.3883
+66.249.76.191,4,North America,United States,Mountain View,37.419200000000004,-122.0574
+157.56.93.85,4,North America,United States,Redmond,47.6801,-122.1206
+194.153.113.13,4,Europe,Germany,,51.2993,9.491
+80.243.187.148,4,Europe,United Kingdom,,51.4964,-0.1224
+125.24.181.204,4,Asia,Thailand,Bangkok,13.6,100.7167
+69.171.245.114,4,North America,United States,,37.751,-97.822
+69.171.247.112,4,North America,United States,,37.751,-97.822
+62.83.159.84,4,Europe,Spain,Barcelona,41.3984,2.1741
+195.76.9.222,4,Europe,Spain,,40.4172,-3.684
+131.253.24.21,4,North America,United States,,47.6062,-122.3321
+220.181.108.117,4,Asia,China,Nanjin,31.7577,121.7405
+199.30.24.128,4,North America,United States,,47.6062,-122.3321
+193.111.141.54,4,Europe,Germany,Dusseldorf,51.2686,6.8100000000000005
+65.55.215.70,4,North America,United States,Redmond,47.6801,-122.1206
+121.14.139.202,4,Asia,China,Guangzhou,23.1167,113.25
+220.181.108.77,4,Asia,China,Nanjin,31.7577,121.7405
+199.30.24.24,4,North America,United States,,47.6062,-122.3321
+220.181.108.106,4,Asia,China,Nanjin,31.7577,121.7405
+213.88.17.115,4,Europe,Russia,Cheboksary,56.1322,47.2519
+157.55.33.90,4,North America,United States,Redmond,47.6801,-122.1206
+199.16.156.126,4,North America,United States,San Francisco,37.7758,-122.4128
+157.55.35.36,4,North America,United States,Redmond,47.6801,-122.1206
+137.110.244.139,4,North America,United States,La Jolla,32.8807,-117.2359
+123.125.71.15,4,Asia,China,Beijing,39.9289,116.3883
+77.210.150.138,4,Europe,Spain,La Manga del Mar Menor,37.6413,-0.7165
+208.184.81.30,4,North America,United States,Louisville,39.9469,-105.2142
+157.55.33.48,4,North America,United States,Redmond,47.6801,-122.1206
+123.125.71.36,4,Asia,China,Beijing,39.9289,116.3883
+123.125.71.55,4,Asia,China,Beijing,39.9289,116.3883
+220.135.213.4,4,Asia,Taiwan,Hsinchu,24.8036,120.9686
+123.125.71.47,4,Asia,China,Beijing,39.9289,116.3883
+123.125.71.17,4,Asia,China,Beijing,39.9289,116.3883
+65.55.215.79,4,North America,United States,Redmond,47.6801,-122.1206
+148.251.11.131,4,Europe,Germany,,51.2993,9.491
+65.55.215.42,4,North America,United States,Redmond,47.6801,-122.1206
+199.30.20.18,4,North America,United States,Boydton,36.6648,-78.3715
+144.76.95.39,4,Europe,Germany,,51.2993,9.491
+213.164.164.164,4,Europe,Spain,Madrid,40.4165,-3.7026
+123.125.71.12,4,Asia,China,Beijing,39.9289,116.3883
+220.181.108.92,4,Asia,China,Nanjin,31.7577,121.7405
+199.30.20.66,4,North America,United States,Boydton,36.6648,-78.3715
+81.45.55.174,4,Europe,Spain,Mislata,39.4752,-0.4183
+157.55.34.105,4,North America,United States,Redmond,47.6801,-122.1206
+173.252.110.112,4,North America,United States,Menlo Park,37.459,-122.1781
+65.55.215.43,4,North America,United States,Redmond,47.6801,-122.1206
+173.252.100.113,4,North America,United States,Atherton,37.4498,-122.2004
+157.55.32.162,4,North America,United States,Redmond,47.6801,-122.1206
+193.192.58.164,4,Europe,Germany,Frankfurt am Main,50.1137,8.7119
+114.37.83.53,4,Asia,Taiwan,Taoyuan District,24.9896,121.3187
+114.24.157.104,4,Asia,Taiwan,Ankeng,24.0382,120.7144
+192.99.15.56,4,North America,Canada,Montreal,45.504,-73.5747
+95.61.34.225,4,Europe,Spain,Figueres,42.2664,2.9616
+196.202.52.66,4,Africa,Egypt,,30.0355,31.223
+199.30.20.3,4,North America,United States,Boydton,36.6648,-78.3715
+65.55.215.46,4,North America,United States,Redmond,47.6801,-122.1206
+65.55.24.246,4,North America,United States,Redmond,47.6801,-122.1206
+220.181.108.91,4,Asia,China,Nanjin,31.7577,121.7405
+123.125.71.28,4,Asia,China,Beijing,39.9289,116.3883
+157.55.33.100,4,North America,United States,Redmond,47.6801,-122.1206
+199.30.20.7,4,North America,United States,Boydton,36.6648,-78.3715
+66.249.75.36,4,North America,United States,Mountain View,37.419200000000004,-122.0574
+65.55.215.48,4,North America,United States,Redmond,47.6801,-122.1206
+46.27.187.15,4,Europe,Spain,Málaga,36.7267,-4.4348
+69.171.229.113,4,North America,United States,,37.751,-97.822
+123.125.71.13,4,Asia,China,Beijing,39.9289,116.3883
+123.125.71.60,4,Asia,China,Beijing,39.9289,116.3883
+66.220.152.112,4,North America,United States,Menlo Park,37.459,-122.1781
+65.55.215.104,4,North America,United States,Redmond,47.6801,-122.1206
+178.77.126.55,4,Europe,Germany,,51.2993,9.491
+84.127.5.149,4,Europe,Spain,El Campello,38.4288,-0.3977
+67.210.228.168,4,North America,United States,Dallas,32.948,-96.8132
+220.181.108.96,4,Asia,China,Nanjin,31.7577,121.7405
+203.114.108.118,4,Asia,Thailand,,13.75,100.4667
+193.111.141.134,4,Europe,Germany,Dusseldorf,51.2686,6.8100000000000005
+66.220.152.118,4,North America,United States,Menlo Park,37.459,-122.1781
+69.171.245.115,4,North America,United States,,37.751,-97.822
+114.26.127.57,4,Asia,Taiwan,,23.5,121.0
+31.4.210.113,3,Europe,Spain,,40.4172,-3.684
+199.30.24.90,3,North America,United States,,47.6062,-122.3321
+176.57.143.60,3,Europe,Germany,Frankfurt am Main,50.1137,8.7119
+157.55.43.26,3,North America,United States,Redmond,47.6801,-122.1206
+208.88.224.203,3,North America,United States,Fort Lauderdale,26.1209,-80.1273
+93.186.202.253,3,Europe,Germany,,51.2993,9.491
+66.249.76.210,3,North America,United States,Mountain View,37.419200000000004,-122.0574
+220.181.108.86,3,Asia,China,Nanjin,31.7577,121.7405
+220.181.108.81,3,Asia,China,Nanjin,31.7577,121.7405
+157.55.32.148,3,North America,United States,Redmond,47.6801,-122.1206
+123.125.71.56,3,Asia,China,Beijing,39.9289,116.3883
+220.181.108.120,3,Asia,China,Nanjin,31.7577,121.7405
+199.30.20.13,3,North America,United States,Boydton,36.6648,-78.3715
+65.55.219.153,3,North America,United States,Boydton,36.6648,-78.3715
+173.252.100.115,3,North America,United States,Atherton,37.4498,-122.2004
+220.181.108.115,3,Asia,China,Nanjin,31.7577,121.7405
+204.104.55.244,3,Europe,,,47.0,8.0
+66.220.152.114,3,North America,United States,Menlo Park,37.459,-122.1781
+157.55.32.81,3,North America,United States,Redmond,47.6801,-122.1206
+123.125.71.41,3,Asia,China,Beijing,39.9289,116.3883
+65.55.215.58,3,North America,United States,Redmond,47.6801,-122.1206
+199.188.74.110,3,North America,United States,Dallas,32.7831,-96.8067
+220.181.108.121,3,Asia,China,Nanjin,31.7577,121.7405
+85.50.74.195,3,Europe,Spain,El Vendrell,41.2167,1.5333
+46.118.127.106,3,Europe,Ukraine,Lviv,49.8407,24.0305
+46.25.107.101,3,Europe,Spain,Castelldefels,41.2777,1.9687999999999999
+176.102.37.56,3,Europe,Ukraine,Kharkiv,49.9808,36.2527
+184.169.203.101,3,North America,United States,San Jose,37.3388,-121.8914
+176.57.141.254,3,Europe,Germany,Frankfurt am Main,50.1137,8.7119
+69.171.235.117,3,North America,United States,,37.751,-97.822
+220.181.108.83,3,Asia,China,Nanjin,31.7577,121.7405
+123.125.71.22,3,Asia,China,Beijing,39.9289,116.3883
+123.125.71.20,3,Asia,China,Beijing,39.9289,116.3883
+80.81.127.85,3,Europe,Spain,Mocejon,39.9393,-3.9172000000000002
+178.137.5.3,3,Europe,Ukraine,Kiev,50.4333,30.5167
+204.118.31.2,3,North America,United States,Milpitas,37.4404,-121.8705
+123.125.71.50,3,Asia,China,Beijing,39.9289,116.3883
+64.246.178.34,3,North America,United States,Cheyenne,41.0784,-104.7403
+65.55.24.221,3,North America,United States,Redmond,47.6801,-122.1206
+199.30.20.63,3,North America,United States,Boydton,36.6648,-78.3715
+84.74.90.189,3,Europe,Switzerland,Wallbach,47.5598,7.9029
+142.54.184.10,3,North America,United States,Kansas City,39.1472,-94.5735
+157.55.33.31,3,North America,United States,Redmond,47.6801,-122.1206
+220.181.108.163,3,Asia,China,Nanjin,31.7577,121.7405
+79.151.161.187,3,Europe,Spain,Valencia,39.4698,-0.3774
+220.181.108.76,3,Asia,China,Nanjin,31.7577,121.7405
+157.55.35.114,3,North America,United States,Redmond,47.6801,-122.1206
+123.125.71.24,3,Asia,China,Beijing,39.9289,116.3883
+69.171.234.116,3,North America,United States,,37.751,-97.822
+66.249.66.208,3,North America,United States,Mountain View,37.419200000000004,-122.0574
+123.125.71.52,3,Asia,China,Beijing,39.9289,116.3883
+123.125.71.14,3,Asia,China,Beijing,39.9289,116.3883
+199.30.20.2,3,North America,United States,Boydton,36.6648,-78.3715
+199.30.20.11,3,North America,United States,Boydton,36.6648,-78.3715
+159.224.57.168,3,Europe,Ukraine,Kharkiv,49.9808,36.2527
+89.145.95.42,3,Europe,United Kingdom,,51.4964,-0.1224
+220.181.108.119,3,Asia,China,Nanjin,31.7577,121.7405
+199.30.20.65,3,North America,United States,Boydton,36.6648,-78.3715
+220.181.108.109,3,Asia,China,Nanjin,31.7577,121.7405
+157.55.32.89,3,North America,United States,Redmond,47.6801,-122.1206
+31.13.99.118,3,Europe,Ireland,,53.3472,-6.2439
+199.30.25.201,3,North America,United States,,47.6062,-122.3321
+69.171.245.116,3,North America,United States,,37.751,-97.822
+220.181.108.94,3,Asia,China,Nanjin,31.7577,121.7405
+157.55.33.38,3,North America,United States,Redmond,47.6801,-122.1206
+178.255.215.88,3,Europe,France,,48.8582,2.3387000000000002
+123.125.71.29,3,Asia,China,Beijing,39.9289,116.3883
+220.181.108.93,3,Asia,China,Nanjin,31.7577,121.7405
+69.171.247.117,3,North America,United States,,37.751,-97.822
+66.249.76.213,3,North America,United States,Mountain View,37.419200000000004,-122.0574
+195.242.218.133,3,Europe,Ukraine,,50.45,30.5233
+216.107.155.114,3,North America,United States,West Chicago,41.8969,-88.2104
+220.181.108.80,3,Asia,China,Nanjin,31.7577,121.7405
+220.181.108.110,3,Asia,China,Nanjin,31.7577,121.7405
+69.171.247.114,2,North America,United States,,37.751,-97.822
+72.45.160.188,2,North America,United States,Augusta,44.4051,-69.7567
+66.249.76.234,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+78.214.68.115,2,Europe,France,Saintes,45.7456,-0.6317
+162.242.239.199,2,North America,United States,New Rochelle,40.9151,-73.7818
+81.45.55.152,2,Europe,Spain,Mislata,39.4752,-0.4183
+79.146.60.34,2,Europe,Spain,Toledo,39.8581,-4.0226
+109.27.131.25,2,Europe,France,Thonon-les-Bains,46.3725,6.487
+157.55.34.97,2,North America,United States,Redmond,47.6801,-122.1206
+69.171.247.119,2,North America,United States,,37.751,-97.822
+90.174.2.31,2,Europe,Spain,Madrid,40.4165,-3.7026
+41.66.32.205,2,Africa,Ivory Coast,Abidjan,5.3097,-4.0127
+82.212.144.59,2,Europe,Belgium,Stembert,50.5833,5.9
+188.135.186.178,2,Europe,Italy,Taviano,39.9822,18.0815
+197.0.95.81,2,Africa,Tunisia,,34.0,9.0
+199.30.20.9,2,North America,United States,Boydton,36.6648,-78.3715
+90.28.141.207,2,Europe,France,Cuxac-d'Aude,43.246,2.999
+162.242.239.250,2,North America,United States,New Rochelle,40.9151,-73.7818
+220.181.108.78,2,Asia,China,Nanjin,31.7577,121.7405
+69.171.234.114,2,North America,United States,,37.751,-97.822
+89.165.21.153,2,Asia,Iran,Tehran,35.7261,51.3304
+78.243.200.73,2,Europe,France,Beaumont-en-Veron,47.194,0.1844
+220.181.108.89,2,Asia,China,Nanjin,31.7577,121.7405
+91.121.139.228,2,Europe,France,,48.8582,2.3387000000000002
+162.242.244.133,2,North America,United States,New Rochelle,40.9151,-73.7818
+90.11.110.14,2,Europe,France,Coulounieix-Chamiers,45.1529,0.6885
+128.79.117.86,2,Europe,France,La Madeleine,50.646,3.0758
+68.200.46.208,2,North America,United States,Lakeland,28.0438,-82.0069
+2.9.116.235,2,Europe,France,,48.8582,2.3387000000000002
+220.181.108.113,2,Asia,China,Nanjin,31.7577,121.7405
+130.0.113.65,2,Europe,France,Loudeac,48.1783,-2.7542999999999997
+91.229.73.10,2,Europe,United Kingdom,,51.4964,-0.1224
+132.3.17.79,2,North America,United States,,39.76,-98.5
+202.46.50.12,2,Asia,China,Shenzhen,22.5333,114.1333
+88.161.119.108,2,Europe,France,Boulogne-Billancourt,48.8333,2.25
+177.158.31.34,2,South America,Brazil,Goiânia,-16.6402,-49.2599
+80.27.103.171,2,Europe,Spain,,40.4172,-3.684
+144.76.183.41,2,Europe,Germany,,51.2993,9.491
+66.249.66.198,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+79.82.183.126,2,Europe,France,Courlans,46.6746,5.4955
+95.171.146.104,2,Europe,France,Ostheim,48.16,7.3698
+66.220.152.119,2,North America,United States,Menlo Park,37.459,-122.1781
+82.226.40.145,2,Europe,France,Bagnolet,48.8667,2.4167
+65.55.213.245,2,North America,United States,Redmond,47.6801,-122.1206
+220.181.108.103,2,Asia,China,Nanjin,31.7577,121.7405
+82.226.255.192,2,Europe,France,Villeneuve-le-Roi,48.7368,2.4008
+195.235.92.25,2,Europe,Spain,Madrid,40.4165,-3.7026
+82.228.31.155,2,Europe,France,Verneuil-sur-Seine,48.9739,1.9647999999999999
+90.4.185.53,2,Europe,France,La Bourboule,45.5884,2.7396000000000003
+157.55.32.160,2,North America,United States,Redmond,47.6801,-122.1206
+81.45.55.48,2,Europe,Spain,Mislata,39.4752,-0.4183
+188.135.173.80,2,Europe,Italy,Sernaglia della Battaglia,45.8767,12.1322
+69.171.247.118,2,North America,United States,,37.751,-97.822
+80.200.88.147,2,Europe,Belgium,Lede,50.9667,3.9833
+63.147.126.185,2,North America,United States,,37.751,-97.822
+187.94.205.13,2,South America,Brazil,Centro,-22.6323,-45.5495
+88.160.205.40,2,Europe,France,Caussade,44.1608,1.5391
+109.8.122.25,2,Europe,France,Marseille,43.2708,5.3821
+66.249.76.231,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+74.112.131.242,2,North America,United States,,37.751,-97.822
+123.125.71.33,2,Asia,China,Beijing,39.9289,116.3883
+80.20.102.18,2,Europe,Italy,Campomorone,44.5095,8.885
+23.27.220.68,2,North America,United States,San Jose,37.3387,-121.8914
+54.194.43.109,2,Europe,Ireland,Dublin,53.3331,-6.2489
+5.255.253.7,2,Europe,Russia,,55.7386,37.6068
+90.12.132.39,2,Europe,France,Rezé,47.1814,-1.5497
+65.52.244.220,2,North America,United States,Chicago,41.8483,-87.6517
+195.132.241.93,2,Europe,France,Courcelles-les-Lens,50.4176,3.017
+81.64.192.125,2,Europe,France,Niort,46.3239,-0.4613
+82.231.192.112,2,Europe,France,Saint-Denis,48.9342,2.3548
+179.216.212.251,2,South America,Brazil,Cuiabá,-15.596,-56.097
+202.46.52.21,2,Asia,China,Shenzhen,22.5333,114.1333
+78.240.90.149,2,Europe,France,Orleix,43.2793,0.1203
+157.56.93.51,2,North America,United States,Redmond,47.6801,-122.1206
+202.46.57.80,2,Asia,China,Shenzhen,22.5333,114.1333
+88.178.110.118,2,Europe,France,Allauch,43.3357,5.482
+88.198.227.103,2,Europe,Germany,,51.2993,9.491
+162.242.245.4,2,North America,United States,New Rochelle,40.9151,-73.7818
+209.190.1.131,2,North America,United States,Columbus,40.0842,-82.9378
+132.3.17.78,2,North America,United States,Montgomery,32.404,-86.2539
+162.242.227.56,2,North America,United States,New Rochelle,40.9151,-73.7818
+65.55.52.115,2,North America,United States,Redmond,47.6801,-122.1206
+199.30.20.6,2,North America,United States,Boydton,36.6648,-78.3715
+92.138.186.50,2,Europe,France,Paray-le-Monial,46.4546,4.1158
+66.249.64.58,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+220.181.108.107,2,Asia,China,Nanjin,31.7577,121.7405
+93.5.174.31,2,Europe,France,Pontchateau,47.438,-2.0901
+65.55.24.237,2,North America,United States,Redmond,47.6801,-122.1206
+90.9.74.75,2,Europe,France,Gerzat,45.8243,3.144
+208.88.224.197,2,North America,United States,Fort Lauderdale,26.1209,-80.1273
+199.101.132.162,2,North America,United States,Fort Lauderdale,26.1209,-80.1273
+78.237.100.185,2,Europe,France,Lavardac,44.1778,0.2983
+202.46.56.40,2,Asia,China,Shenzhen,22.5333,114.1333
+66.249.66.178,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+93.0.137.129,2,Europe,France,Pertuis,43.6925,5.5029
+157.55.34.74,2,North America,United States,Redmond,47.6801,-122.1206
+148.251.11.136,2,Europe,Germany,,51.2993,9.491
+66.249.76.233,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+202.46.56.44,2,Asia,China,Shenzhen,22.5333,114.1333
+70.104.26.28,2,North America,United States,Southlake,32.9516,-97.1515
+123.125.71.45,2,Asia,China,Beijing,39.9289,116.3883
+31.4.217.49,2,Europe,Spain,Seville,37.3824,-5.9761
+109.205.137.141,2,Europe,Spain,,40.4172,-3.684
+65.55.215.38,2,North America,United States,Redmond,47.6801,-122.1206
+74.80.133.229,2,North America,United States,Vero Beach,27.7085,-80.389
+151.72.16.123,2,Europe,Italy,Casarano,40.0113,18.1624
+77.75.77.11,2,Europe,Czechia,,50.0848,14.411200000000001
+90.44.41.135,2,Europe,France,Le Kremlin-Bicetre,48.8147,2.3607
+5.175.8.71,2,Europe,Germany,Hoest,51.65,6.1833
+82.216.226.161,2,Europe,France,Corny-sur-Moselle,49.035,6.0597
+192.185.83.114,2,North America,United States,Houston,29.8301,-95.4739
+80.27.103.174,2,Europe,Spain,,40.4172,-3.684
+176.9.25.25,2,Europe,Germany,,51.2993,9.491
+65.55.215.49,2,North America,United States,Redmond,47.6801,-122.1206
+202.46.60.15,2,Asia,China,Shenzhen,22.5333,114.1333
+69.171.234.119,2,North America,United States,,37.751,-97.822
+69.171.234.118,2,North America,United States,,37.751,-97.822
+173.252.101.115,2,North America,United States,Atherton,37.4498,-122.2004
+173.252.101.118,2,North America,United States,Atherton,37.4498,-122.2004
+173.252.101.113,2,North America,United States,Atherton,37.4498,-122.2004
+220.181.108.100,2,Asia,China,Nanjin,31.7577,121.7405
+23.23.14.220,2,North America,United States,Ashburn,39.0481,-77.4728
+82.238.2.135,2,Europe,France,Bully-les-Mines,50.4438,2.727
+86.217.164.29,2,Europe,France,Moeze,45.904,-1.0352999999999999
+176.57.142.28,2,Europe,Germany,Frankfurt am Main,50.1137,8.7119
+69.171.234.112,2,North America,United States,,37.751,-97.822
+179.234.170.75,2,South America,Brazil,Piracicaba,-22.7158,-47.773
+87.223.247.164,2,Europe,Spain,,40.4172,-3.684
+123.125.71.30,2,Asia,China,Beijing,39.9289,116.3883
+88.180.191.25,2,Europe,France,La Farlede,43.1677,6.0427
+177.65.161.194,2,South America,Brazil,Belém,-1.4373,-48.4706
+199.58.86.206,2,North America,United States,Manassas,38.7701,-77.6321
+93.23.197.120,2,Europe,France,Belvès,44.7763,1.0059
+90.8.182.206,2,Europe,France,,48.8582,2.3387000000000002
+173.252.101.114,2,North America,United States,Atherton,37.4498,-122.2004
+78.206.204.35,2,Europe,France,Menton,43.7765,7.5043
+82.235.251.88,2,Europe,France,Pessac,44.8101,-0.6413
+194.224.196.204,2,Europe,Spain,,40.4172,-3.684
+162.242.213.141,2,North America,United States,San Antonio,29.4889,-98.3987
+66.249.64.53,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+208.43.251.182,2,North America,United States,Chantilly,38.9036,-77.4512
+54.211.33.225,2,North America,United States,Ashburn,39.0481,-77.4728
+192.96.204.42,2,North America,United States,Manassas,38.7701,-77.6321
+123.125.71.21,2,Asia,China,Beijing,39.9289,116.3883
+86.97.82.18,2,Asia,United Arab Emirates,Dubai,25.2582,55.3047
+220.181.108.85,2,Asia,China,Nanjin,31.7577,121.7405
+199.30.20.48,2,North America,United States,Boydton,36.6648,-78.3715
+5.10.83.82,2,Europe,Netherlands,Amsterdam,52.3556,4.9135
+70.166.82.85,2,North America,United States,San Diego,32.6958,-117.1189
+216.151.137.36,2,North America,United States,San Jose,37.425,-121.946
+46.165.197.151,2,Europe,Germany,Munich,48.1558,11.5409
+199.101.134.203,2,North America,United States,Fort Lauderdale,26.1209,-80.1273
+92.99.26.82,2,Asia,United Arab Emirates,Abu Dhabi,24.4667,54.3667
+184.73.59.145,2,North America,United States,Ashburn,39.0481,-77.4728
+187.2.26.109,2,South America,Brazil,Limeira,-22.5632,-47.4009
+54.221.145.71,2,North America,United States,Ashburn,39.0481,-77.4728
+90.8.27.111,2,Europe,France,Marseille,43.2854,5.3761
+69.171.245.118,2,North America,United States,,37.751,-97.822
+2.9.203.175,2,Europe,France,Mareuil-sur-Lay-Dissais,46.5351,-1.2212
+177.113.156.93,2,South America,Brazil,São Paulo,-23.5733,-46.6417
+54.242.7.145,2,North America,United States,Ashburn,39.0481,-77.4728
+123.125.71.23,2,Asia,China,Beijing,39.9289,116.3883
+65.55.215.98,2,North America,United States,Redmond,47.6801,-122.1206
+82.227.113.107,2,Europe,France,Aix-en-Provence,43.5283,5.4497
+217.130.246.205,2,Europe,Spain,Llinars del Valles,41.6333,2.4
+54.211.193.21,2,North America,United States,Ashburn,39.0481,-77.4728
+64.246.187.42,2,North America,United States,Cheyenne,41.0784,-104.7403
+193.251.181.189,2,Europe,France,,48.8582,2.3387000000000002
+54.234.7.56,2,North America,United States,Ashburn,39.0481,-77.4728
+54.224.122.135,2,North America,United States,Ashburn,39.0481,-77.4728
+176.180.96.146,2,Europe,France,,48.8582,2.3387000000000002
+86.218.28.181,2,Europe,France,La Chapelle-sur-Crecy,48.8592,2.9074
+31.221.184.142,2,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+90.39.111.225,2,Europe,France,Balanod,46.4571,5.3551
+90.56.85.183,2,Europe,France,Digoin,46.4812,3.9795
+5.9.36.119,2,Europe,Germany,,51.2993,9.491
+77.206.71.92,2,Europe,France,Concarneau,47.875,-3.9224
+87.65.143.45,2,Europe,Belgium,Brussels,50.8466,4.3528
+216.12.205.122,2,Asia,Singapore,Singapore,1.2931,103.8558
+157.55.33.178,2,North America,United States,Redmond,47.6801,-122.1206
+92.133.229.189,2,Europe,France,Nevian,43.2124,2.9029
+93.21.192.68,2,Europe,France,Bourgoin,45.5833,5.2833
+54.213.238.138,2,North America,United States,Boardman,45.8696,-119.688
+199.59.148.211,2,North America,United States,San Francisco,37.7758,-122.4128
+109.217.107.218,2,Europe,France,Destry,48.944,6.586
+188.159.54.37,2,Asia,Iran,Tehran,35.7261,51.3304
+89.107.180.35,2,Europe,Spain,Madrid,40.4165,-3.7026
+31.221.159.98,2,Europe,Spain,,40.4172,-3.684
+89.145.95.2,2,Europe,United Kingdom,,51.4964,-0.1224
+79.82.6.160,2,Europe,France,Talence,44.8048,-0.5954
+78.192.146.89,2,Europe,France,Villeurbanne,45.7655,4.8755
+187.66.191.109,2,South America,Brazil,São Carlos,-21.9065,-47.8747
+88.174.122.237,2,Europe,France,La Bouexiere,48.0951,-1.3728
+88.163.146.85,2,Europe,France,Bussy-Saint-Georges,48.841,2.7016
+200.153.240.37,2,South America,Brazil,Itapetininga,-23.5871,-48.0408
+74.80.133.228,2,North America,United States,Vero Beach,27.7085,-80.389
+195.76.34.70,2,Europe,Spain,,40.4172,-3.684
+54.204.125.142,2,North America,United States,Ashburn,39.0481,-77.4728
+77.224.212.138,2,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+109.208.120.233,2,Europe,France,Marseille,43.2854,5.3761
+213.44.134.87,2,Europe,France,Seynod,45.8855,6.0883
+65.55.213.246,2,North America,United States,Redmond,47.6801,-122.1206
+181.166.120.98,2,South America,Argentina,Buenos Aires,-34.6033,-58.3816
+201.29.39.122,2,South America,Brazil,Rio de Janeiro,-22.8751,-43.2775
+54.227.229.16,2,North America,United States,Ashburn,39.0481,-77.4728
+61.111.15.70,2,Asia,Republic of Korea,,37.5112,126.97409999999999
+189.48.82.104,2,South America,Brazil,Marechal Deodoro,-9.7167,-35.9
+88.138.178.147,2,Europe,France,Allassac,45.2582,1.4753
+202.46.57.69,2,Asia,China,Shenzhen,22.5333,114.1333
+77.203.120.242,2,Europe,France,Rhinau,48.3181,7.7061
+5.50.255.124,2,Europe,France,Saint-Cyr-sur-Loire,47.4,0.6667
+84.7.57.33,2,Europe,France,Illiers-Combray,48.2997,1.2461
+86.221.241.137,2,Europe,France,Benais,47.2955,0.217
+177.82.248.124,2,South America,Brazil,Caxias do Sul,-29.1689,-51.1785
+189.73.123.167,2,South America,Brazil,Jaraguá do Sul,-26.4281,-49.1467
+189.58.68.92,2,South America,Brazil,Foz do Iguaçu,-25.55,-54.5833
+192.95.12.31,2,North America,Canada,Montreal,45.504,-73.5747
+31.36.9.30,2,Europe,France,Saint-Magne-de-Castillon,44.8667,-0.0667
+86.217.4.14,2,Europe,France,Gorron,48.4,-0.8
+65.55.215.35,2,North America,United States,Redmond,47.6801,-122.1206
+212.1.209.145,2,North America,United States,,37.751,-97.822
+108.59.8.80,2,North America,United States,,39.6734,-75.7052
+78.233.175.149,2,Europe,France,Villefontaine,45.6125,5.1456
+83.45.50.48,2,Europe,Spain,El Campello,38.4288,-0.3977
+109.211.53.111,2,Europe,France,La Chevroliere,47.0912,-1.6097000000000001
+66.249.75.221,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+24.230.50.166,2,North America,United States,Sioux Falls,43.4711,-96.597
+5.254.139.204,2,Europe,Sweden,,59.3247,18.056
+87.100.101.121,2,Europe,France,Assat,43.25,-0.3
+81.34.198.86,2,Europe,Spain,Madrid,40.4165,-3.7026
+89.3.95.233,2,Europe,France,Mons-en-Baroeul,50.6333,3.1167
+88.0.8.11,2,Europe,Spain,Las Rozas de Madrid,40.4929,-3.8737
+220.181.108.123,2,Asia,China,Nanjin,31.7577,121.7405
+107.21.14.116,2,North America,United States,Ashburn,39.0481,-77.4728
+84.97.121.93,2,Europe,France,Calais,50.9512,1.859
+192.95.21.13,2,North America,Canada,Montreal,45.504,-73.5747
+177.179.246.92,2,South America,Brazil,Volta Redonda,-22.514,-44.1096
+220.181.108.108,2,Asia,China,Nanjin,31.7577,121.7405
+199.30.20.58,2,North America,United States,Boydton,36.6648,-78.3715
+88.179.185.21,2,Europe,France,Haguenau,48.8142,7.7862
+31.13.99.117,2,Europe,Ireland,,53.3472,-6.2439
+31.13.99.113,2,Europe,Ireland,,53.3472,-6.2439
+37.200.65.208,2,Europe,Russia,,55.7386,37.6068
+79.83.40.230,2,Europe,France,Gueures,49.8443,0.9619
+92.103.65.162,2,Europe,France,Nogent-le-Rotrou,48.3202,0.8206
+31.13.99.114,2,Europe,Ireland,,53.3472,-6.2439
+202.46.62.104,2,Asia,China,Shenzhen,22.5333,114.1333
+123.125.71.31,2,Asia,China,Beijing,39.9289,116.3883
+81.56.6.245,2,Europe,France,Nancy,48.6844,6.185
+208.88.225.65,2,North America,United States,Fort Lauderdale,26.1209,-80.1273
+66.249.76.220,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+68.43.159.123,2,North America,United States,Warren,42.5153,-82.9842
+80.12.81.109,2,Europe,France,Paris,48.8628,2.3292
+107.6.95.16,2,North America,United States,New York,40.7082,-74.0132
+65.55.215.97,2,North America,United States,Redmond,47.6801,-122.1206
+107.6.95.122,2,North America,United States,New York,40.7082,-74.0132
+123.125.71.57,2,Asia,China,Beijing,39.9289,116.3883
+220.181.108.111,2,Asia,China,Nanjin,31.7577,121.7405
+85.246.188.66,2,Europe,Portugal,Loule,37.1377,-8.0197
+123.125.71.44,2,Asia,China,Beijing,39.9289,116.3883
+64.74.215.113,2,North America,United States,,37.751,-97.822
+187.122.210.208,2,South America,Brazil,Santana de Parnaiba,-23.4455,-46.9145
+157.55.32.100,2,North America,United States,Redmond,47.6801,-122.1206
+91.187.64.165,2,Europe,Andorra,Encamp,42.5333,1.5833
+202.46.58.35,2,Asia,China,Shenzhen,22.5333,114.1333
+220.181.108.112,2,Asia,China,Nanjin,31.7577,121.7405
+123.125.71.38,2,Asia,China,Beijing,39.9289,116.3883
+31.4.182.5,2,Europe,Spain,Madrid,40.4165,-3.7026
+65.55.217.211,2,North America,United States,Boydton,36.6648,-78.3715
+89.140.9.2,2,Europe,Spain,La Algaba,37.4637,-6.0129
+109.235.22.27,2,Europe,Spain,,40.4172,-3.684
+189.152.192.134,2,North America,Mexico,Monterrey,25.6667,-100.3167
+65.55.215.71,2,North America,United States,Redmond,47.6801,-122.1206
+123.125.71.18,2,Asia,China,Beijing,39.9289,116.3883
+178.32.160.197,2,Europe,France,,48.8582,2.3387000000000002
+88.163.184.76,2,Europe,France,Meudon,48.8138,2.235
+5.13.12.81,2,Europe,Romania,Bacău,46.5667,26.9
+208.43.245.244,2,North America,United States,Chantilly,38.9036,-77.4512
+79.86.153.209,2,Europe,France,Crépy-en-Valois,49.2336,2.8881
+82.243.90.144,2,Europe,France,Clermont-Ferrand,45.7797,3.0863
+199.16.156.125,2,North America,United States,San Francisco,37.7758,-122.4128
+90.13.87.57,2,Europe,France,Pagny-sur-Meuse,48.6876,5.7176
+65.55.55.230,2,North America,United States,Redmond,47.6801,-122.1206
+92.155.132.21,2,Europe,France,Prouilly,49.3006,3.8535
+128.140.134.165,2,Europe,France,Saint-Martial-sur-Ne,45.5827,-0.3646
+194.208.79.18,2,Europe,Austria,Feldkirch,47.2331,9.6
+220.181.108.104,2,Asia,China,Nanjin,31.7577,121.7405
+65.55.215.75,2,North America,United States,Redmond,47.6801,-122.1206
+89.156.76.5,2,Europe,France,Wattignies,50.5864,3.0439
+80.236.74.196,2,Europe,France,Thoiry,46.2376,5.9811
+2.9.118.92,2,Europe,France,,48.8582,2.3387000000000002
+81.45.55.232,2,Europe,Spain,Mislata,39.4752,-0.4183
+89.3.19.43,2,Europe,France,Paris,48.8574,2.3795
+90.6.89.63,2,Europe,France,Aumetz,49.4129,5.9492
+189.102.61.50,2,South America,Brazil,São Paulo,-23.5733,-46.6417
+207.133.80.241,2,North America,United States,Brook Park,41.4026,-81.8337
+91.179.249.210,2,Europe,Belgium,Beloeil,50.5505,3.7348
+199.16.156.124,2,North America,United States,San Francisco,37.7758,-122.4128
+5.49.67.35,2,Europe,France,Roubaix,50.6942,3.1746
+92.135.49.213,2,Europe,France,,48.8582,2.3387000000000002
+66.249.75.198,2,North America,United States,Mountain View,37.419200000000004,-122.0574
+78.240.16.223,2,Europe,France,Aix-les-Bains,45.6834,5.9224
+209.141.44.60,2,North America,United States,Las Vegas,36.175,-115.1372
+209.19.176.65,1,North America,United States,Skiatook,36.4218,-96.0543
+80.31.138.9,1,Europe,Spain,Vélez-Málaga,36.778,-4.1523
+195.53.224.116,1,Europe,Spain,Valdemoro,40.1908,-3.6789
+80.30.191.122,1,Europe,Spain,Fuenlabrada,40.2842,-3.7941000000000003
+202.46.49.37,1,Asia,China,Shenzhen,22.5333,114.1333
+81.45.52.209,1,Europe,Spain,Mislata,39.4752,-0.4183
+80.30.93.22,1,Europe,Spain,Valencia,39.4698,-0.3774
+68.47.129.55,1,North America,United States,Panama City,30.1608,-85.625
+202.46.62.24,1,Asia,China,Shenzhen,22.5333,114.1333
+31.4.189.217,1,Europe,Spain,Barcelona,41.3984,2.1741
+177.207.250.20,1,South America,Brazil,Natal,-5.8002,-35.2107
+95.120.124.90,1,Europe,Spain,Puerto de la Cruz,28.414,-16.5487
+66.249.76.226,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+66.249.76.238,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+188.165.129.68,1,Europe,Spain,,40.4172,-3.684
+187.115.178.180,1,South America,Brazil,João Pessoa,-7.1237,-34.8656
+178.141.110.236,1,Europe,Russia,Kirov,58.5969,49.6583
+66.249.74.172,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+206.80.118.117,1,North America,United States,Skiatook,36.4218,-96.0543
+188.79.197.34,1,Europe,Spain,Santa Coloma de Cervelló,41.4515,2.2081
+83.40.22.188,1,Europe,Spain,Santiago de Compostela,42.8481,-8.6186
+198.72.106.183,1,North America,Canada,Montreal,45.4594,-73.5501
+198.72.106.190,1,North America,Canada,Montreal,45.4594,-73.5501
+69.171.247.115,1,North America,United States,,37.751,-97.822
+198.72.106.182,1,North America,Canada,Montreal,45.4594,-73.5501
+202.21.106.107,1,Asia,Mongolia,Bayanhongor,46.1944,100.7181
+198.72.102.182,1,North America,Canada,Montreal,45.4594,-73.5501
+66.249.76.229,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+198.72.106.180,1,North America,Canada,Montreal,45.4594,-73.5501
+198.72.102.181,1,North America,Canada,Montreal,45.4594,-73.5501
+85.25.236.8,1,Europe,Germany,Hoest,51.65,6.1833
+202.46.57.83,1,Asia,China,Shenzhen,22.5333,114.1333
+88.29.149.72,1,Europe,Spain,Palma,39.5743,2.6552
+121.14.228.8,1,Asia,China,Guangzhou,23.1167,113.25
+66.249.64.8,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+218.25.174.66,1,Asia,China,Shenyang,41.7922,123.4328
+86.62.136.73,1,Europe,Norway,Osteras,59.943,10.6044
+5.61.43.116,1,Europe,Germany,,51.2993,9.491
+202.46.60.12,1,Asia,China,Shenzhen,22.5333,114.1333
+157.55.35.33,1,North America,United States,Redmond,47.6801,-122.1206
+189.89.85.48,1,South America,Brazil,Recreio,-21.5255,-42.4705
+201.231.120.20,1,South America,Argentina,,-34.5875,-58.6725
+69.171.247.113,1,North America,United States,,37.751,-97.822
+87.220.174.115,1,Europe,Spain,La Rinconada,37.4827,-5.9288
+202.46.62.205,1,Asia,China,Shenzhen,22.5333,114.1333
+186.53.90.100,1,South America,Uruguay,Montevideo,-34.8581,-56.1708
+141.212.121.197,1,North America,United States,Ann Arbor,42.2776,-83.7409
+198.72.120.49,1,North America,Canada,Montreal,45.4594,-73.5501
+157.56.93.62,1,North America,United States,Redmond,47.6801,-122.1206
+46.236.24.53,1,Europe,United Kingdom,,51.4964,-0.1224
+66.249.76.3,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+190.202.88.164,1,South America,Venezuela,Caracas,10.5,-66.9167
+66.249.74.148,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+81.35.171.130,1,Europe,Spain,Roquetas de Mar,36.7642,-2.6147
+202.46.52.29,1,Asia,China,Shenzhen,22.5333,114.1333
+72.37.171.52,1,North America,United States,,37.751,-97.822
+66.249.76.224,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+202.46.49.19,1,Asia,China,Shenzhen,22.5333,114.1333
+88.8.49.22,1,Europe,Spain,Pamplona,42.8169,-1.6432
+220.181.108.168,1,Asia,China,Nanjin,31.7577,121.7405
+163.247.51.11,1,South America,Chile,Santiago,-33.45,-70.6667
+120.236.0.202,1,Asia,China,Huizhou,23.0833,114.4
+37.11.51.82,1,Europe,Spain,Fuenlabrada,40.2842,-3.7941000000000003
+66.249.76.219,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+81.169.218.204,1,Europe,Germany,Berlin,52.5167,13.4
+69.171.247.116,1,North America,United States,,37.751,-97.822
+31.4.206.129,1,Europe,Spain,Barcelona,41.3888,2.159
+148.251.44.239,1,Europe,Germany,,51.2993,9.491
+66.249.64.111,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+66.249.64.121,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+88.3.184.50,1,Europe,Spain,Las Palmas de Gran Canaria,28.0997,-15.4134
+74.112.131.241,1,North America,United States,,37.751,-97.822
+66.249.76.239,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+66.249.76.209,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+190.192.38.161,1,South America,Argentina,Rosario,-32.9468,-60.6393
+66.249.76.5,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+220.181.132.218,1,Asia,China,Beijing,39.9289,116.3883
+66.249.76.217,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+202.46.51.40,1,Asia,China,Shenzhen,22.5333,114.1333
+202.46.57.66,1,Asia,China,Shenzhen,22.5333,114.1333
+108.168.250.12,1,North America,United States,Dallas,32.7787,-96.8217
+89.29.164.198,1,Europe,Spain,Novelda,38.3848,-0.7677
+190.14.36.47,1,North America,Panama,,9.0,-80.0
+66.249.83.36,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+88.3.192.82,1,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+202.46.50.158,1,Asia,China,Shenzhen,22.5333,114.1333
+123.125.71.90,1,Asia,China,Beijing,39.9289,116.3883
+2.139.249.224,1,Europe,Spain,Barcelona,41.3984,2.1741
+195.128.174.142,1,Europe,Denmark,,55.7123,12.0564
+82.159.2.130,1,Europe,Spain,Mostoles,40.3223,-3.865
+202.162.33.234,1,Asia,Indonesia,Yogyakarta,-7.7828,110.3608
+46.229.167.149,1,North America,United States,Ashburn,39.018,-77.539
+31.4.221.218,1,Europe,Spain,Seville,37.3824,-5.9761
+186.83.138.220,1,South America,Colombia,Acacias,3.9869,-73.758
+202.46.61.26,1,Asia,China,Shenzhen,22.5333,114.1333
+83.49.58.117,1,Europe,Spain,Hellin,38.5106,-1.701
+193.153.53.10,1,Europe,Spain,Suances,43.4334,-4.0434
+119.63.196.28,1,Asia,Japan,Tokyo,35.685,139.7514
+178.32.69.212,1,Europe,France,,48.8582,2.3387000000000002
+91.194.84.106,1,Europe,Germany,,51.2993,9.491
+202.46.62.93,1,Asia,China,Shenzhen,22.5333,114.1333
+62.83.85.60,1,Europe,Spain,San Fernando de Henares,40.4239,-3.5326
+141.212.121.210,1,North America,United States,Ann Arbor,42.2776,-83.7409
+182.118.25.229,1,Asia,China,Zhengzhou,34.6836,113.5325
+182.118.25.227,1,Asia,China,Zhengzhou,34.6836,113.5325
+88.12.191.185,1,Europe,Spain,Areatza,43.1167,-2.7667
+190.191.79.143,1,South America,Argentina,Lomas de Zamora,-34.7667,-58.4
+83.46.254.51,1,Europe,Spain,Madrid,40.4165,-3.7026
+81.61.41.204,1,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+66.249.75.178,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+77.29.238.211,1,Europe,Macedonia,Radovis,41.6383,22.4647
+202.46.63.123,1,Asia,China,Shenzhen,22.5333,114.1333
+220.181.108.79,1,Asia,China,Nanjin,31.7577,121.7405
+202.46.48.25,1,Asia,China,Shenzhen,22.5333,114.1333
+5.153.20.133,1,Europe,Netherlands,Amsterdam,52.3556,4.9135
+202.46.58.28,1,Asia,China,Shenzhen,22.5333,114.1333
+201.134.106.130,1,North America,Mexico,,19.4371,-99.0111
+157.55.34.176,1,North America,United States,Redmond,47.6801,-122.1206
+90.174.2.142,1,Europe,Spain,Madrid,40.4165,-3.7026
+213.143.61.213,1,Europe,Spain,Seville,37.3824,-5.9761
+31.4.208.178,1,Europe,Spain,Valencia,39.4667,-0.3667
+77.27.84.107,1,Europe,Spain,Sada,43.3562,-8.258
+83.32.15.226,1,Europe,Spain,Burgos,42.3502,-3.6753
+213.231.104.35,1,Europe,Spain,Las Palmas de Gran Canaria,28.0944,-15.4591
+192.145.238.10,1,North America,United States,Los Angeles,33.9571,-118.4041
+202.46.63.125,1,Asia,China,Shenzhen,22.5333,114.1333
+213.251.189.209,1,Europe,France,,48.8582,2.3387000000000002
+202.46.50.18,1,Asia,China,Shenzhen,22.5333,114.1333
+65.55.213.66,1,North America,United States,Boydton,36.6648,-78.3715
+198.57.247.169,1,North America,United States,Provo,40.2181,-111.6133
+212.172.221.12,1,Europe,Germany,Mannheim,49.4934,8.4653
+181.95.10.32,1,South America,Argentina,Córdoba,-31.35,-64.25
+188.78.128.230,1,Europe,Spain,Vitoria-Gasteiz,42.85,-2.6667
+65.55.215.57,1,North America,United States,Redmond,47.6801,-122.1206
+119.63.196.92,1,Asia,Japan,Tokyo,35.685,139.7514
+83.33.246.15,1,Europe,Spain,Ubrique,36.6778,-5.446
+31.4.196.71,1,Europe,Spain,Seville,37.3824,-5.9761
+81.45.53.165,1,Europe,Spain,Mislata,39.4752,-0.4183
+95.60.213.6,1,Europe,Spain,Arona,28.0985,-16.6822
+192.185.4.74,1,North America,United States,Houston,29.8301,-95.4739
+207.210.85.146,1,North America,United States,Spring,30.0799,-95.4172
+179.52.36.208,1,North America,Dominican Republic,Santo Domingo,18.4667,-69.9
+201.227.226.145,1,North America,Panama,Panama City,8.9936,-79.5197
+66.249.75.28,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+189.215.199.50,1,North America,Mexico,Chicoloapan,19.4078,-98.8766
+119.98.239.252,1,Asia,China,Wuhan,30.5801,114.2734
+77.27.102.41,1,Europe,Spain,Santiago de Compostela,42.8805,-8.5457
+213.37.144.69,1,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+207.241.229.237,1,North America,United States,San Francisco,37.7811,-122.4625
+202.46.54.178,1,Asia,China,Shenzhen,22.5333,114.1333
+206.80.118.113,1,North America,United States,Skiatook,36.4218,-96.0543
+88.3.130.69,1,Europe,Spain,Alicante,38.3452,-0.4815
+199.30.20.161,1,North America,United States,Boydton,36.6648,-78.3715
+66.249.75.208,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+189.137.173.32,1,North America,Mexico,Mexico City,19.3034,-99.2254
+94.244.143.49,1,Europe,Ukraine,Kiev,50.4547,30.5238
+186.23.137.154,1,South America,Argentina,Berazategui,-34.7557,-58.1986
+81.45.53.125,1,Europe,Spain,Mislata,39.4752,-0.4183
+202.46.63.121,1,Asia,China,Shenzhen,22.5333,114.1333
+220.181.108.146,1,Asia,China,Nanjin,31.7577,121.7405
+62.151.245.153,1,Europe,Spain,Bilbao,43.2627,-2.9253
+77.37.178.139,1,Europe,Russia,Moscow,55.7522,37.6156
+66.249.73.8,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+199.101.134.201,1,North America,United States,Fort Lauderdale,26.1209,-80.1273
+208.94.233.138,1,North America,United States,Fort Lauderdale,26.1209,-80.1273
+199.101.134.204,1,North America,United States,Fort Lauderdale,26.1209,-80.1273
+74.117.177.167,1,North America,United States,,37.751,-97.822
+199.101.134.202,1,North America,United States,Fort Lauderdale,26.1209,-80.1273
+199.80.54.22,1,North America,United States,Fort Lauderdale,26.1209,-80.1273
+74.117.179.18,1,North America,United States,,37.751,-97.822
+62.83.204.89,1,Europe,Spain,Lleida,41.6167,0.6222
+74.117.179.19,1,North America,United States,,37.751,-97.822
+220.181.108.82,1,Asia,China,Nanjin,31.7577,121.7405
+188.143.232.111,1,Europe,Russia,St Petersburg,59.8944,30.2642
+201.195.216.186,1,North America,Costa Rica,Isla de Tibas,9.9667,-84.05
+81.61.132.229,1,Europe,Spain,Barcelona,41.3984,2.1741
+175.107.129.65,1,Oceania,Australia,,-33.494,143.2104
+50.10.5.106,1,North America,United States,,37.751,-97.822
+80.196.101.243,1,Europe,Denmark,,55.7123,12.0564
+79.150.128.138,1,Europe,Spain,Alicante,38.3452,-0.4815
+190.239.244.81,1,South America,Peru,,-12.0433,-77.0283
+66.249.76.225,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+123.125.71.85,1,Asia,China,Beijing,39.9289,116.3883
+109.111.120.188,1,Europe,Andorra,Andorra la Vella,42.5,1.5167000000000002
+80.174.75.1,1,Europe,Spain,Madrid,40.4165,-3.7026
+123.125.71.27,1,Asia,China,Beijing,39.9289,116.3883
+194.50.141.137,1,Europe,Russia,Golitsyno,55.6093,36.9821
+157.55.36.37,1,North America,United States,Redmond,47.6801,-122.1206
+220.181.108.187,1,Asia,China,Nanjin,31.7577,121.7405
+66.249.84.192,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+150.241.201.231,1,Europe,Spain,San Sebastian,43.3128,-1.975
+88.8.0.25,1,Europe,Spain,Ourense,42.3313,-7.8627
+202.46.51.47,1,Asia,China,Shenzhen,22.5333,114.1333
+66.249.88.28,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+183.91.14.219,1,Asia,Vietnam,Hanoi,21.0333,105.85
+31.4.181.220,1,Europe,Spain,Madrid,40.4165,-3.7026
+80.35.187.33,1,Europe,Spain,Barcelona,41.3888,2.159
+80.30.136.222,1,Europe,Spain,Picanya,39.4333,-0.4333
+189.131.185.170,1,North America,Mexico,Mexico City,19.4357,-99.1439
+141.212.121.253,1,North America,United States,Ann Arbor,42.2776,-83.7409
+209.19.180.12,1,North America,United States,Skiatook,36.4218,-96.0543
+93.91.219.6,1,Europe,Poland,Boniewo,52.4684,18.8851
+64.71.201.91,1,North America,United States,Yorba Linda,33.8924,-117.7879
+190.239.205.113,1,South America,Peru,,-12.0433,-77.0283
+46.222.53.58,1,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+85.214.138.248,1,Europe,Germany,Berlin,52.5167,13.4
+66.249.85.28,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+183.13.150.55,1,Asia,China,Shenzhen,22.5333,114.1333
+189.107.178.153,1,South America,Brazil,Tiradentes,-21.1102,-44.1723
+66.249.65.236,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+54.80.25.12,1,North America,United States,Ashburn,39.0481,-77.4728
+202.46.53.38,1,Asia,China,Shenzhen,22.5333,114.1333
+54.205.57.96,1,North America,United States,Ashburn,39.0481,-77.4728
+199.30.25.29,1,North America,United States,,47.6062,-122.3321
+64.71.196.139,1,North America,United States,Skiatook,36.4218,-96.0543
+78.134.68.217,1,Europe,Italy,Massa Lombarda,44.447,11.8209
+217.125.17.133,1,Europe,Spain,Madrid,40.4165,-3.7026
+200.98.140.151,1,South America,Brazil,,-22.8305,-43.2192
+54.80.224.86,1,North America,United States,Ashburn,39.0481,-77.4728
+46.26.141.68,1,Europe,Spain,Málaga,36.7202,-4.4203
+66.249.73.208,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+199.30.20.231,1,North America,United States,Boydton,36.6648,-78.3715
+54.197.56.37,1,North America,United States,Ashburn,39.0481,-77.4728
+85.214.252.184,1,Europe,Germany,Berlin,52.5167,13.4
+202.46.55.29,1,Asia,China,Shenzhen,22.5333,114.1333
+64.71.204.200,1,North America,United States,Yorba Linda,33.8924,-117.7879
+54.234.37.0,1,North America,United States,Ashburn,39.0481,-77.4728
+54.196.12.48,1,North America,United States,Ashburn,39.0481,-77.4728
+189.149.135.146,1,North America,Mexico,Cancún,21.0801,-86.9063
+119.63.196.94,1,Asia,Japan,Tokyo,35.685,139.7514
+54.197.153.27,1,North America,United States,Ashburn,39.0481,-77.4728
+123.125.71.105,1,Asia,China,Beijing,39.9289,116.3883
+195.57.19.96,1,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+202.46.49.71,1,Asia,China,Shenzhen,22.5333,114.1333
+69.64.65.103,1,North America,United States,Overland Park,38.9552,-94.6449
+202.46.48.18,1,Asia,China,Shenzhen,22.5333,114.1333
+88.26.34.51,1,Europe,Spain,Azuqueca de Henares,40.5669,-3.2599
+190.156.65.201,1,South America,Colombia,Bogotá,4.6492,-74.0628
+31.4.189.221,1,Europe,Spain,Barcelona,41.3984,2.1741
+125.214.65.181,1,Oceania,Australia,Melbourne,-37.8103,144.9544
+202.46.63.70,1,Asia,China,Shenzhen,22.5333,114.1333
+220.181.108.84,1,Asia,China,Nanjin,31.7577,121.7405
+46.105.99.178,1,Europe,France,,48.8582,2.3387000000000002
+176.212.3.169,1,Europe,Russia,Kirov,58.5966,49.6601
+54.196.227.33,1,North America,United States,Ashburn,39.0481,-77.4728
+112.90.194.41,1,Asia,China,Guangzhou,23.1167,113.25
+209.19.181.146,1,North America,United States,Skiatook,36.4218,-96.0543
+31.170.160.93,1,North America,United States,,37.751,-97.822
+23.20.87.111,1,North America,United States,Ashburn,39.0481,-77.4728
+66.147.244.126,1,North America,United States,Provo,40.2181,-111.6133
+192.185.81.94,1,North America,United States,Houston,29.8301,-95.4739
+209.19.181.22,1,North America,United States,Skiatook,36.4218,-96.0543
+190.230.34.12,1,South America,Argentina,San Salvador de Jujuy,-24.1833,-65.3
+201.141.231.62,1,North America,Mexico,Mexico City,19.4357,-99.1439
+129.121.176.193,1,North America,United States,Austin,30.366,-97.6437
+190.40.142.14,1,South America,Peru,Lima,-12.05,-77.05
+184.173.238.167,1,North America,United States,Dallas,32.7787,-96.8217
+88.6.30.207,1,Europe,Spain,Borox,40.068,-3.738
+202.46.54.59,1,Asia,China,Shenzhen,22.5333,114.1333
+173.252.101.112,1,North America,United States,Atherton,37.4498,-122.2004
+123.125.71.49,1,Asia,China,Beijing,39.9289,116.3883
+173.252.101.119,1,North America,United States,Atherton,37.4498,-122.2004
+202.46.62.29,1,Asia,China,Shenzhen,22.5333,114.1333
+202.46.62.11,1,Asia,China,Shenzhen,22.5333,114.1333
+186.10.26.3,1,South America,Chile,Nancagua,-34.6667,-71.2167
+187.234.65.70,1,North America,Mexico,Mexico City,19.4357,-99.1439
+54.80.190.244,1,North America,United States,Ashburn,39.0481,-77.4728
+186.188.188.148,1,North America,Panama,,9.0,-80.0
+54.197.42.180,1,North America,United States,Ashburn,39.0481,-77.4728
+5.249.68.84,1,Europe,Portugal,Porto,41.1496,-8.611
+157.56.93.61,1,North America,United States,Redmond,47.6801,-122.1206
+202.46.62.20,1,Asia,China,Shenzhen,22.5333,114.1333
+54.225.28.146,1,North America,United States,Ashburn,39.0481,-77.4728
+87.221.7.70,1,Europe,Spain,Almería,36.8381,-2.4596999999999998
+54.213.239.34,1,North America,United States,Boardman,45.8696,-119.688
+72.251.244.19,1,Europe,Netherlands,Amsterdam,52.3556,4.9135
+31.3.233.120,1,Europe,United Kingdom,,51.4964,-0.1224
+200.205.88.106,1,South America,Brazil,São Paulo,-23.5733,-46.6417
+202.46.54.56,1,Asia,China,Shenzhen,22.5333,114.1333
+202.46.62.201,1,Asia,China,Shenzhen,22.5333,114.1333
+87.220.112.95,1,Europe,Spain,Zaragoza,41.6453,-0.8849
+217.200.185.232,1,Europe,Italy,,43.1479,12.1097
+66.249.78.130,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+186.4.234.178,1,South America,Ecuador,Quito,-0.2167,-78.5
+46.39.212.184,1,Europe,Spain,Cordova,37.8811,-4.811
+90.174.2.154,1,Europe,Spain,Madrid,40.4165,-3.7026
+74.112.131.244,1,North America,United States,,37.751,-97.822
+182.118.22.224,1,Asia,China,Zhengzhou,34.6836,113.5325
+67.255.115.39,1,North America,United States,Bath,42.3629,-77.3539
+46.236.23.222,1,Europe,United Kingdom,,51.4964,-0.1224
+125.210.224.141,1,Asia,China,,30.2936,120.1614
+77.227.123.208,1,Europe,Spain,Castelló de la Plana,39.9875,-0.0392
+187.172.246.119,1,North America,Mexico,San Luis Potosí City,22.15,-100.9833
+37.59.18.36,1,Europe,France,,48.8582,2.3387000000000002
+83.213.130.122,1,Europe,Spain,Barakaldo,43.2956,-2.9973
+202.46.55.25,1,Asia,China,Shenzhen,22.5333,114.1333
+5.9.155.80,1,Europe,Germany,,51.2993,9.491
+64.71.199.80,1,North America,United States,Skiatook,36.4218,-96.0543
+186.187.154.96,1,South America,Venezuela,Caracas,10.5,-66.9167
+95.18.181.85,1,Europe,Spain,Ponferrada,42.5466,-6.5962
+84.76.107.103,1,Europe,Spain,Palafrugell,41.9174,3.1631
+189.130.53.227,1,North America,Mexico,Mexico City,19.4357,-99.1439
+184.173.238.166,1,North America,United States,Dallas,32.7787,-96.8217
+2.139.229.47,1,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+202.46.63.90,1,Asia,China,Shenzhen,22.5333,114.1333
+94.23.59.189,1,Europe,France,,48.8582,2.3387000000000002
+202.46.62.105,1,Asia,China,Shenzhen,22.5333,114.1333
+178.139.181.184,1,Europe,Spain,Barcelona,41.3888,2.159
+198.50.242.189,1,North America,Canada,Montreal,45.504,-73.5747
+220.165.8.137,1,Asia,China,Kunming,25.0389,102.7183
+85.58.126.136,1,Europe,Spain,Viladecans,41.314,2.0143
+187.144.53.170,1,North America,Mexico,Manzanillo,19.1412,-104.3574
+176.100.232.105,1,Europe,Spain,Yecla,38.6137,-1.1147
+54.213.214.133,1,North America,United States,Boardman,45.8696,-119.688
+85.137.133.144,1,Europe,Spain,Armilla,37.141,-3.6185
+66.249.78.152,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+88.26.81.254,1,Europe,Spain,Barcelona,41.3984,2.1741
+202.46.60.63,1,Asia,China,Shenzhen,22.5333,114.1333
+31.221.186.102,1,Europe,Spain,Martorell,41.474,1.9306
+31.4.184.242,1,Europe,Spain,Barcelona,41.3888,2.159
+88.8.137.76,1,Europe,Spain,Laudio-Llodio,43.1432,-2.9619999999999997
+202.46.55.28,1,Asia,China,Shenzhen,22.5333,114.1333
+202.46.62.27,1,Asia,China,Shenzhen,22.5333,114.1333
+81.202.148.197,1,Europe,Spain,Valencia,39.4698,-0.3774
+79.109.106.230,1,Europe,Spain,Valladolid,41.6552,-4.7237
+190.249.144.149,1,South America,Colombia,Medellín,6.2518,-75.5636
+157.55.35.113,1,North America,United States,Redmond,47.6801,-122.1206
+84.95.88.100,1,Asia,Israel,,31.5,34.75
+66.249.74.160,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+202.46.62.21,1,Asia,China,Shenzhen,22.5333,114.1333
+123.125.71.53,1,Asia,China,Beijing,39.9289,116.3883
+66.249.93.169,1,Europe,,,47.0,8.0
+202.46.56.52,1,Asia,China,Shenzhen,22.5333,114.1333
+171.211.225.23,1,Asia,China,Chengdu,30.6667,104.0667
+90.161.14.7,1,Europe,Spain,Arcos de la Frontera,36.7508,-5.8106
+173.252.80.116,1,North America,United States,Pride,30.6382,-90.9969
+202.46.49.127,1,Asia,China,Shenzhen,22.5333,114.1333
+220.181.108.122,1,Asia,China,Nanjin,31.7577,121.7405
+213.227.39.205,1,Europe,Spain,,40.4172,-3.684
+202.46.54.55,1,Asia,China,Shenzhen,22.5333,114.1333
+173.252.113.117,1,North America,United States,Monticello,41.6558,-74.6868
+221.176.4.134,1,Asia,China,,34.7725,113.7266
+81.9.176.176,1,Europe,Spain,Oviedo,43.3603,-5.8448
+81.35.112.206,1,Europe,Spain,Avilés,43.5547,-5.9248
+77.224.211.197,1,Europe,Spain,Barcelona,41.3984,2.1741
+202.46.57.82,1,Asia,China,Shenzhen,22.5333,114.1333
+95.16.123.205,1,Europe,Spain,Málaga,36.7267,-4.4348
+201.213.66.107,1,South America,Argentina,Tres Arroyos,-38.2,-60.2833
+79.158.61.0,1,Europe,Spain,Palencia,42.0096,-4.5241
+61.135.190.221,1,Asia,China,Beijing,39.9289,116.3883
+202.46.48.23,1,Asia,China,Shenzhen,22.5333,114.1333
+61.135.190.222,1,Asia,China,Beijing,39.9289,116.3883
+61.135.190.102,1,Asia,China,Beijing,39.9289,116.3883
+117.41.186.10,1,Asia,China,Nanchang,28.55,115.9333
+202.46.62.33,1,Asia,China,Shenzhen,22.5333,114.1333
+202.46.55.26,1,Asia,China,Shenzhen,22.5333,114.1333
+83.213.247.54,1,Europe,Spain,Vitoria-Gasteiz,42.85,-2.6727
+123.125.71.51,1,Asia,China,Beijing,39.9289,116.3883
+158.255.237.186,1,Europe,Spain,Cáceres,39.4765,-6.3722
+37.15.98.197,1,Europe,Spain,Barcelona,41.386,2.0757
+157.55.35.39,1,North America,United States,Redmond,47.6801,-122.1206
+66.249.76.215,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+123.125.71.25,1,Asia,China,Beijing,39.9289,116.3883
+202.46.62.97,1,Asia,China,Shenzhen,22.5333,114.1333
+201.161.25.248,1,North America,Mexico,Mexico City,19.4357,-99.1439
+79.109.168.135,1,Europe,Spain,Alicante,38.3452,-0.4815
+209.19.189.160,1,North America,United States,Skiatook,36.4218,-96.0543
+93.186.202.244,1,Europe,Germany,,51.2993,9.491
+69.171.234.115,1,North America,United States,,37.751,-97.822
+31.221.155.151,1,Europe,Spain,,40.4172,-3.684
+95.122.200.134,1,Europe,Spain,Majadahonda,40.4735,-3.8718
+54.245.33.250,1,North America,United States,Boardman,45.8696,-119.688
+81.45.53.89,1,Europe,Spain,Mislata,39.4752,-0.4183
+87.219.93.37,1,Europe,Spain,Arcos de la Frontera,36.7508,-5.8106
+173.252.113.113,1,North America,United States,Monticello,41.6558,-74.6868
+79.153.60.85,1,Europe,Spain,Castelló de la Plana,39.9875,-0.0392
+72.251.244.9,1,Europe,Netherlands,Amsterdam,52.3556,4.9135
+107.6.95.11,1,North America,United States,New York,40.7082,-74.0132
+79.154.64.2,1,Europe,Spain,Bordils,42.0434,2.9109
+72.251.244.13,1,Europe,Netherlands,Amsterdam,52.3556,4.9135
+202.46.54.46,1,Asia,China,Shenzhen,22.5333,114.1333
+107.6.95.21,1,North America,United States,New York,40.7082,-74.0132
+72.251.244.10,1,Europe,Netherlands,Amsterdam,52.3556,4.9135
+107.6.95.13,1,North America,United States,New York,40.7082,-74.0132
+82.158.213.234,1,Europe,Spain,Tres Cantos,40.6009,-3.7081
+5.135.43.132,1,Europe,France,,48.8582,2.3387000000000002
+107.6.95.20,1,North America,United States,New York,40.7082,-74.0132
+203.148.48.94,1,Asia,China,Chaoyang,41.5703,120.4586
+66.150.164.111,1,North America,United States,Seattle,47.6344,-122.3422
+123.125.71.32,1,Asia,China,Beijing,39.9289,116.3883
+78.46.145.213,1,Europe,Germany,,51.2993,9.491
+75.101.183.6,1,North America,United States,Ashburn,39.0481,-77.4728
+202.46.61.33,1,Asia,China,Shenzhen,22.5333,114.1333
+66.249.76.8,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+201.78.209.135,1,South America,Brazil,Nova Venecia,-18.6765,-40.5581
+88.198.16.153,1,Europe,Germany,Nuremberg,49.4478,11.0683
+193.99.42.56,1,Europe,Germany,,51.2993,9.491
+202.46.54.45,1,Asia,China,Shenzhen,22.5333,114.1333
+202.46.48.17,1,Asia,China,Shenzhen,22.5333,114.1333
+80.58.250.78,1,Europe,Spain,Cadiz,36.5298,-6.2947
+183.60.213.109,1,Asia,China,Guangzhou,23.1167,113.25
+50.62.41.73,1,North America,United States,Scottsdale,33.6119,-111.8906
+123.125.71.59,1,Asia,China,Beijing,39.9289,116.3883
+217.251.132.175,1,Europe,Germany,,51.2993,9.491
+157.56.93.95,1,North America,United States,Redmond,47.6801,-122.1206
+88.0.211.168,1,Europe,Spain,Santa Cruz de Tenerife,28.4682,-16.2546
+2.136.222.9,1,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+202.46.61.29,1,Asia,China,Shenzhen,22.5333,114.1333
+148.251.69.136,1,Europe,Germany,,51.2993,9.491
+123.125.71.39,1,Asia,China,Beijing,39.9289,116.3883
+89.144.228.198,1,Europe,Austria,,48.2,16.3667
+66.249.64.206,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+66.249.64.201,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+200.12.141.223,1,South America,Chile,Santiago,-33.45,-70.6667
+176.57.141.193,1,Europe,Germany,Frankfurt am Main,50.1137,8.7119
+31.13.99.115,1,Europe,Ireland,,53.3472,-6.2439
+31.13.99.112,1,Europe,Ireland,,53.3472,-6.2439
+202.46.51.124,1,Asia,China,Shenzhen,22.5333,114.1333
+212.49.162.243,1,Europe,Spain,Madrid,40.4167,-3.6837999999999997
+188.135.181.28,1,Europe,Italy,Taviano,39.9822,18.0815
+207.241.226.217,1,North America,United States,San Francisco,37.7811,-122.4625
+66.249.65.195,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+64.71.199.139,1,North America,United States,Skiatook,36.4218,-96.0543
+181.118.30.53,1,South America,Argentina,Godoy Cruz,-32.9167,-68.8333
+64.71.198.139,1,North America,United States,Skiatook,36.4218,-96.0543
+183.60.215.54,1,Asia,China,Guangzhou,23.1167,113.25
+190.11.69.175,1,North America,United States,Cambridge,42.3751,-71.1056
+76.73.3.18,1,North America,United States,Denver,39.7525,-104.9995
+182.118.25.222,1,Asia,China,Zhengzhou,34.6836,113.5325
+182.118.25.221,1,Asia,China,Zhengzhou,34.6836,113.5325
+202.46.56.46,1,Asia,China,Shenzhen,22.5333,114.1333
+46.103.166.31,1,Europe,Greece,Thessaloniki,40.6403,22.9439
+144.76.223.13,1,Europe,Germany,,51.2993,9.491
+54.211.167.55,1,North America,United States,Ashburn,39.0481,-77.4728
+202.46.54.43,1,Asia,China,Shenzhen,22.5333,114.1333
+187.108.48.17,1,South America,Brazil,Ponte Nova,-20.407,-42.9206
+201.156.20.144,1,North America,Mexico,San Nicolás de los Garza,25.7574,-100.3123
+212.16.16.186,1,Europe,Russia,Moscow,55.7522,37.6156
+66.249.66.188,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+112.200.39.14,1,Asia,Philippines,Caloocan City,14.6492,120.9826
+185.30.177.23,1,Europe,Netherlands,,52.3824,4.8995
+200.98.200.32,1,South America,Brazil,,-22.8305,-43.2192
+91.194.84.53,1,Europe,Germany,,51.2993,9.491
+101.226.167.226,1,Asia,China,Shanghai,31.0456,121.3997
+157.55.33.82,1,North America,United States,Redmond,47.6801,-122.1206
+202.46.54.41,1,Asia,China,Shenzhen,22.5333,114.1333
+202.46.54.51,1,Asia,China,Shenzhen,22.5333,114.1333
+202.46.55.57,1,Asia,China,Shenzhen,22.5333,114.1333
+202.46.63.71,1,Asia,China,Shenzhen,22.5333,114.1333
+186.244.51.107,1,South America,Brazil,Belo Horizonte,-19.901699999999998,-43.9642
+217.217.201.238,1,Europe,Spain,Linares,38.0952,-3.636
+217.251.135.62,1,Europe,Germany,Wuppertal,51.2569,7.1505
+137.183.232.29,1,North America,United States,Cincinnati,39.1271,-84.5144
+220.181.108.90,1,Asia,China,Nanjin,31.7577,121.7405
+66.249.76.4,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+95.39.151.173,1,Europe,Spain,Villena,38.6373,-0.8657
+119.96.185.53,1,Asia,China,Wuhan,30.5801,114.2734
+87.221.5.240,1,Europe,Spain,Almería,36.8381,-2.4596999999999998
+83.49.92.249,1,Europe,Spain,Majorca,39.6136,3.02
+80.35.126.252,1,Europe,Spain,Cornellà de Llobregat,41.35,2.0833
+220.181.108.101,1,Asia,China,Nanjin,31.7577,121.7405
+66.249.75.188,1,North America,United States,Mountain View,37.419200000000004,-122.0574
+195.55.246.162,1,Europe,Spain,,40.4172,-3.684
+46.35.98.16,1,Europe,Spain,Melilla,35.2937,-2.9383
+189.126.30.102,1,South America,Brazil,Botucatu,-22.8835,-48.4415
+200.0.29.9,1,South America,Ecuador,Loja,-4.0,-79.2167
+84.123.150.27,1,Europe,Spain,Gandia,38.9667,-0.1833
+217.130.150.116,1,Europe,Spain,,40.4172,-3.684
+202.46.52.23,1,Asia,China,Shenzhen,22.5333,114.1333
+216.151.130.170,1,North America,United States,San Jose,37.425,-121.946
+206.198.5.33,1,North America,United States,Lincolnshire,42.1973,-87.9241
